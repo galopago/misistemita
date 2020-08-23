@@ -14,6 +14,7 @@ Directory structure of every board folder
 FOLDER    PCB MARK         DESCRIPTION
 ========  ===============  ============== 
 A00       A00_BACKPLATE    Backplate for generic 83 x 58 x 33 mm waterproof enclosure
+A01       A01_BACKPLATE    Backplate for generic 158 x 90 x 60 mm waterproof enclosure
 ========  ===============  ============== 
 
 

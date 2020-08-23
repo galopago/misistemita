@@ -618,7 +618,7 @@
     (tags "mounting hole 3mm no annular")
     (path /5F36D408)
     (attr virtual)
-    (fp_text reference HZ5 (at 0 -4) (layer F.SilkS)
+    (fp_text reference HZ5 (at 0 -4) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value MountingHole (at 0 4) (layer F.Fab)
@@ -638,7 +638,7 @@
     (tags "mounting hole 3mm no annular")
     (path /5F36C847)
     (attr virtual)
-    (fp_text reference HZ4 (at 0 -4) (layer F.SilkS)
+    (fp_text reference HZ4 (at 0 -4) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value MountingHole (at 0 4) (layer F.Fab)
@@ -658,7 +658,7 @@
     (tags "mounting hole 3mm no annular")
     (path /5F3CF0DC)
     (attr virtual)
-    (fp_text reference HZ3 (at 0 -4) (layer F.SilkS)
+    (fp_text reference HZ3 (at 0 -4) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value MountingHole (at 0 4) (layer F.Fab)
@@ -678,7 +678,7 @@
     (tags "mounting hole 3mm no annular")
     (path /5F362B56)
     (attr virtual)
-    (fp_text reference HZ2 (at 0 -4) (layer F.SilkS)
+    (fp_text reference HZ2 (at 0 -4) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value MountingHole (at 0 4) (layer F.Fab)
@@ -698,7 +698,7 @@
     (tags "mounting hole 3mm no annular")
     (path /5F36A8A0)
     (attr virtual)
-    (fp_text reference HZ1 (at 0 -4) (layer F.SilkS)
+    (fp_text reference HZ1 (at 0 -4) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value MountingHole (at 0 4) (layer F.Fab)
@@ -718,7 +718,7 @@
     (tags "mounting hole 3mm no annular")
     (path /5F36B590)
     (attr virtual)
-    (fp_text reference HZ0 (at 0 -4) (layer F.SilkS)
+    (fp_text reference HZ0 (at 0 -4) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value MountingHole (at 0 4) (layer F.Fab)
