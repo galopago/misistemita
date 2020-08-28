@@ -4,7 +4,7 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "A01 BACKPLATE"
 Date ""
 Rev ""
 Comp ""
@@ -13,17 +13,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Comp
-L Mechanical:MountingHole HA0
-U 1 1 5F323A1B
-P 800 700
-F 0 "HA0" H 900 746 50  0000 L CNN
-F 1 "MountingHole" H 900 655 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 800 700 50  0001 C CNN
-F 3 "~" H 800 700 50  0001 C CNN
-	1    800  700 
-	1    0    0    -1  
-$EndComp
 $Comp
 L Mechanical:MountingHole HA1
 U 1 1 5F324A16
@@ -157,17 +146,6 @@ F 3 "~" H 3200 700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole HA13
-U 1 1 5F3273E1
-P 3400 700
-F 0 "HA13" H 3500 746 50  0000 L CNN
-F 1 "MountingHole" H 3500 655 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 3400 700 50  0001 C CNN
-F 3 "~" H 3400 700 50  0001 C CNN
-	1    3400 700 
-	1    0    0    -1  
-$EndComp
-$Comp
 L Mechanical:MountingHole HB0
 U 1 1 5F3277F5
 P 800 900
@@ -231,17 +209,6 @@ F 1 "MountingHole" H 900 1855 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3mm" H 800 1900 50  0001 C CNN
 F 3 "~" H 800 1900 50  0001 C CNN
 	1    800  1900
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole HH0
-U 1 1 5F32A9EC
-P 800 2100
-F 0 "HH0" H 900 2146 50  0000 L CNN
-F 1 "MountingHole" H 900 2055 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 800 2100 50  0001 C CNN
-F 3 "~" H 800 2100 50  0001 C CNN
-	1    800  2100
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1232,17 +1199,6 @@ F 1 "MountingHole" H 3500 1855 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3mm" H 3400 1900 50  0001 C CNN
 F 3 "~" H 3400 1900 50  0001 C CNN
 	1    3400 1900
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole HH13
-U 1 1 5F36010F
-P 3400 2100
-F 0 "HH13" H 3500 2146 50  0000 L CNN
-F 1 "MountingHole" H 3500 2055 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 3400 2100 50  0001 C CNN
-F 3 "~" H 3400 2100 50  0001 C CNN
-	1    3400 2100
 	1    0    0    -1  
 $EndComp
 $Comp

@@ -333,17 +333,6 @@ F 3 "~" H 2000 1300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole HE6
-U 1 1 5F3406E2
-P 2000 1500
-F 0 "HE6" H 2100 1546 50  0000 L CNN
-F 1 "MountingHole" H 2100 1455 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 2000 1500 50  0001 C CNN
-F 3 "~" H 2000 1500 50  0001 C CNN
-	1    2000 1500
-	1    0    0    -1  
-$EndComp
-$Comp
 L Mechanical:MountingHole HZ2
 U 1 1 5F362B56
 P 9000 750

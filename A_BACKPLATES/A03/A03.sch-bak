@@ -4,7 +4,7 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "TUSISTEMITA TEMPLATE"
+Title "A03 BACKPLATE"
 Date ""
 Rev ""
 Comp "Galopago"
@@ -13,6 +13,17 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+$Comp
+L Mechanical:MountingHole HA0
+U 1 1 5F323A1B
+P 800 700
+F 0 "HA0" H 900 746 50  0000 L CNN
+F 1 "MountingHole" H 900 655 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 800 700 50  0001 C CNN
+F 3 "~" H 800 700 50  0001 C CNN
+	1    800  700 
+	1    0    0    -1  
+$EndComp
 $Comp
 L Mechanical:MountingHole HA1
 U 1 1 5F324A16
@@ -157,6 +168,17 @@ F 3 "~" H 3400 700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
+L Mechanical:MountingHole HB0
+U 1 1 5F3277F5
+P 800 900
+F 0 "HB0" H 900 946 50  0000 L CNN
+F 1 "MountingHole" H 900 855 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 800 900 50  0001 C CNN
+F 3 "~" H 800 900 50  0001 C CNN
+	1    800  900 
+	1    0    0    -1  
+$EndComp
+$Comp
 L Mechanical:MountingHole HC0
 U 1 1 5F327B1C
 P 800 1100
@@ -165,6 +187,17 @@ F 1 "MountingHole" H 900 1055 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3mm" H 800 1100 50  0001 C CNN
 F 3 "~" H 800 1100 50  0001 C CNN
 	1    800  1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole HD0
+U 1 1 5F327EDA
+P 800 1300
+F 0 "HD0" H 900 1346 50  0000 L CNN
+F 1 "MountingHole" H 900 1255 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 800 1300 50  0001 C CNN
+F 3 "~" H 800 1300 50  0001 C CNN
+	1    800  1300
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -179,6 +212,17 @@ F 3 "~" H 800 1500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
+L Mechanical:MountingHole HF0
+U 1 1 5F328807
+P 800 1700
+F 0 "HF0" H 900 1746 50  0000 L CNN
+F 1 "MountingHole" H 900 1655 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 800 1700 50  0001 C CNN
+F 3 "~" H 800 1700 50  0001 C CNN
+	1    800  1700
+	1    0    0    -1  
+$EndComp
+$Comp
 L Mechanical:MountingHole HG0
 U 1 1 5F32A604
 P 800 1900
@@ -187,6 +231,28 @@ F 1 "MountingHole" H 900 1855 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3mm" H 800 1900 50  0001 C CNN
 F 3 "~" H 800 1900 50  0001 C CNN
 	1    800  1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole HH0
+U 1 1 5F32A9EC
+P 800 2100
+F 0 "HH0" H 900 2146 50  0000 L CNN
+F 1 "MountingHole" H 900 2055 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 800 2100 50  0001 C CNN
+F 3 "~" H 800 2100 50  0001 C CNN
+	1    800  2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole HB1
+U 1 1 5F32B3EB
+P 1000 900
+F 0 "HB1" H 1100 946 50  0000 L CNN
+F 1 "MountingHole" H 1100 855 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 1000 900 50  0001 C CNN
+F 3 "~" H 1000 900 50  0001 C CNN
+	1    1000 900 
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -685,6 +751,17 @@ F 3 "~" H 2200 1500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
+L Mechanical:MountingHole HF7
+U 1 1 5F344477
+P 2200 1700
+F 0 "HF7" H 2300 1746 50  0000 L CNN
+F 1 "MountingHole" H 2300 1655 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 2200 1700 50  0001 C CNN
+F 3 "~" H 2200 1700 50  0001 C CNN
+	1    2200 1700
+	1    0    0    -1  
+$EndComp
+$Comp
 L Mechanical:MountingHole HG7
 U 1 1 5F344D3A
 P 2200 1900
@@ -902,6 +979,17 @@ F 1 "MountingHole" H 2900 1455 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3mm" H 2800 1500 50  0001 C CNN
 F 3 "~" H 2800 1500 50  0001 C CNN
 	1    2800 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole HF10
+U 1 1 5F34FFDA
+P 2800 1700
+F 0 "HF10" H 2900 1746 50  0000 L CNN
+F 1 "MountingHole" H 2900 1655 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 2800 1700 50  0001 C CNN
+F 3 "~" H 2800 1700 50  0001 C CNN
+	1    2800 1700
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1257,6 +1345,17 @@ F 3 "~" H 4000 700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
+L Mechanical:MountingHole HA17
+U 1 1 5F35BE54
+P 4200 700
+F 0 "HA17" H 4300 746 50  0000 L CNN
+F 1 "MountingHole" H 4300 655 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 4200 700 50  0001 C CNN
+F 3 "~" H 4200 700 50  0001 C CNN
+	1    4200 700 
+	1    0    0    -1  
+$EndComp
+$Comp
 L Mechanical:MountingHole HB14
 U 1 1 5F362692
 P 3600 900
@@ -1287,6 +1386,17 @@ F 1 "MountingHole" H 4100 855 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3mm" H 4000 900 50  0001 C CNN
 F 3 "~" H 4000 900 50  0001 C CNN
 	1    4000 900 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole HB17
+U 1 1 5F364BC1
+P 4200 900
+F 0 "HB17" H 4300 946 50  0000 L CNN
+F 1 "MountingHole" H 4300 855 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 4200 900 50  0001 C CNN
+F 3 "~" H 4200 900 50  0001 C CNN
+	1    4200 900 
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1400,6 +1510,17 @@ F 3 "~" H 3800 1500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
+L Mechanical:MountingHole HE16
+U 1 1 5F36DFE2
+P 4000 1500
+F 0 "HE16" H 4100 1546 50  0000 L CNN
+F 1 "MountingHole" H 4100 1455 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 4000 1500 50  0001 C CNN
+F 3 "~" H 4000 1500 50  0001 C CNN
+	1    4000 1500
+	1    0    0    -1  
+$EndComp
+$Comp
 L Mechanical:MountingHole HE17
 U 1 1 5F36EE0A
 P 4200 1500
@@ -1441,6 +1562,17 @@ F 1 "MountingHole" H 4100 1655 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3mm" H 4000 1700 50  0001 C CNN
 F 3 "~" H 4000 1700 50  0001 C CNN
 	1    4000 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole HF17
+U 1 1 5F37DE59
+P 4200 1700
+F 0 "HF17" H 4300 1746 50  0000 L CNN
+F 1 "MountingHole" H 4300 1655 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 4200 1700 50  0001 C CNN
+F 3 "~" H 4200 1700 50  0001 C CNN
+	1    4200 1700
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1521,6 +1653,17 @@ F 3 "~" H 4000 2100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
+L Mechanical:MountingHole HH17
+U 1 1 5F385AD1
+P 4200 2100
+F 0 "HH17" H 4300 2146 50  0000 L CNN
+F 1 "MountingHole" H 4300 2055 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 4200 2100 50  0001 C CNN
+F 3 "~" H 4200 2100 50  0001 C CNN
+	1    4200 2100
+	1    0    0    -1  
+$EndComp
+$Comp
 L Mechanical:MountingHole HI0
 U 1 1 5F386941
 P 800 2300
@@ -1532,6 +1675,17 @@ F 3 "~" H 800 2300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
+L Mechanical:MountingHole HJ0
+U 1 1 5F38B1AB
+P 800 2500
+F 0 "HJ0" H 900 2546 50  0000 L CNN
+F 1 "MountingHole" H 900 2455 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 800 2500 50  0001 C CNN
+F 3 "~" H 800 2500 50  0001 C CNN
+	1    800  2500
+	1    0    0    -1  
+$EndComp
+$Comp
 L Mechanical:MountingHole HI1
 U 1 1 5F39554D
 P 1000 2300
@@ -1540,6 +1694,28 @@ F 1 "MountingHole" H 1100 2255 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3mm" H 1000 2300 50  0001 C CNN
 F 3 "~" H 1000 2300 50  0001 C CNN
 	1    1000 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole HJ1
+U 1 1 5F395D7B
+P 1000 2500
+F 0 "HJ1" H 1100 2546 50  0000 L CNN
+F 1 "MountingHole" H 1100 2455 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 1000 2500 50  0001 C CNN
+F 3 "~" H 1000 2500 50  0001 C CNN
+	1    1000 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole HK0
+U 1 1 5F38B8C6
+P 800 2700
+F 0 "HK0" H 900 2746 50  0000 L CNN
+F 1 "MountingHole" H 900 2655 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 800 2700 50  0001 C CNN
+F 3 "~" H 800 2700 50  0001 C CNN
+	1    800  2700
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1730,6 +1906,17 @@ F 3 "~" H 2200 2300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
+L Mechanical:MountingHole HJ7
+U 1 1 5F39FC89
+P 2200 2500
+F 0 "HJ7" H 2300 2546 50  0000 L CNN
+F 1 "MountingHole" H 2300 2455 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 2200 2500 50  0001 C CNN
+F 3 "~" H 2200 2500 50  0001 C CNN
+	1    2200 2500
+	1    0    0    -1  
+$EndComp
+$Comp
 L Mechanical:MountingHole HK7
 U 1 1 5F3A0A12
 P 2200 2700
@@ -1815,6 +2002,17 @@ F 1 "MountingHole" H 2900 2255 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3mm" H 2800 2300 50  0001 C CNN
 F 3 "~" H 2800 2300 50  0001 C CNN
 	1    2800 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole HJ10
+U 1 1 5F3A8139
+P 2800 2500
+F 0 "HJ10" H 2900 2546 50  0000 L CNN
+F 1 "MountingHole" H 2900 2455 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 2800 2500 50  0001 C CNN
+F 3 "~" H 2800 2500 50  0001 C CNN
+	1    2800 2500
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1972,6 +2170,17 @@ F 3 "~" H 4000 2500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
+L Mechanical:MountingHole HJ17
+U 1 1 5F3B5211
+P 4200 2500
+F 0 "HJ17" H 4300 2546 50  0000 L CNN
+F 1 "MountingHole" H 4300 2455 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 4200 2500 50  0001 C CNN
+F 3 "~" H 4200 2500 50  0001 C CNN
+	1    4200 2500
+	1    0    0    -1  
+$EndComp
+$Comp
 L Mechanical:MountingHole HK11
 U 1 1 5F3B5E81
 P 3000 2700
@@ -2035,6 +2244,17 @@ F 1 "MountingHole" H 4100 2655 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3mm" H 4000 2700 50  0001 C CNN
 F 3 "~" H 4000 2700 50  0001 C CNN
 	1    4000 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole HK17
+U 1 1 5F3BAA50
+P 4200 2700
+F 0 "HK17" H 4300 2746 50  0000 L CNN
+F 1 "MountingHole" H 4300 2655 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 4200 2700 50  0001 C CNN
+F 3 "~" H 4200 2700 50  0001 C CNN
+	1    4200 2700
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -2147,7 +2367,7 @@ F 3 "~" H 9250 1500 50  0001 C CNN
 	1    9250 1500
 	1    0    0    -1  
 $EndComp
-Text Label 8600 2350 0    50   ~ 0
+Text Label 8450 1850 0    50   ~ 0
 ENCLOSURE_MOUNT_HOLES
 Text Label 1850 3000 0    50   ~ 0
 BACKPLATE_TO_BOARDS_MOUNT_HOLES
@@ -2213,59 +2433,4 @@ Wire Wire Line
 Connection ~ 6750 1150
 Text Label 6250 1650 0    50   ~ 0
 GROUND_PLANE
-$Comp
-L Mechanical:MountingHole HZ16
-U 1 1 5F476420
-P 8450 1750
-F 0 "HZ16" H 8550 1796 50  0000 L CNN
-F 1 "MountingHole" H 8550 1705 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 8450 1750 50  0001 C CNN
-F 3 "~" H 8450 1750 50  0001 C CNN
-	1    8450 1750
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole HZ17
-U 1 1 5F4784BD
-P 8750 1750
-F 0 "HZ17" H 8850 1796 50  0000 L CNN
-F 1 "MountingHole" H 8850 1705 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 8750 1750 50  0001 C CNN
-F 3 "~" H 8750 1750 50  0001 C CNN
-	1    8750 1750
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole HZ18
-U 1 1 5F47F0A1
-P 9000 1750
-F 0 "HZ18" H 9100 1796 50  0000 L CNN
-F 1 "MountingHole" H 9100 1705 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 9000 1750 50  0001 C CNN
-F 3 "~" H 9000 1750 50  0001 C CNN
-	1    9000 1750
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole HZ19
-U 1 1 5F484981
-P 9250 1750
-F 0 "HZ19" H 9350 1796 50  0000 L CNN
-F 1 "MountingHole" H 9350 1705 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 9250 1750 50  0001 C CNN
-F 3 "~" H 9250 1750 50  0001 C CNN
-	1    9250 1750
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole HZ20
-U 1 1 5F48C034
-P 8450 2000
-F 0 "HZ20" H 8550 2046 50  0000 L CNN
-F 1 "MountingHole" H 8550 1955 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 8450 2000 50  0001 C CNN
-F 3 "~" H 8450 2000 50  0001 C CNN
-	1    8450 2000
-	1    0    0    -1  
-$EndComp
 $EndSCHEMATC
