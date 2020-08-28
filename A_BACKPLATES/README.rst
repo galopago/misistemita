@@ -16,6 +16,7 @@ FOLDER    PCB MARK         DESCRIPTION
 A00       A00_BACKPLATE    Backplate for generic 83 x 58 x 33 mm waterproof enclosure
 A01       A01_BACKPLATE    Backplate for generic 158 x 90 x 60 mm waterproof enclosure
 A02       A02_BACKPLATE    Backplate for generic 200 x 120 x 75 mm waterproof enclosure
+A03       A03_BACKPLATE    Backplate for Raspberry Pi Zero to 10.16mm spaced holes
 ========  ===============  ============== 
 
 
