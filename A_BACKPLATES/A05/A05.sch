@@ -113,17 +113,6 @@ F 3 "~" H 2400 700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole HB0
-U 1 1 5F3277F5
-P 800 900
-F 0 "HB0" H 900 946 50  0000 L CNN
-F 1 "MountingHole" H 900 855 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 800 900 50  0001 C CNN
-F 3 "~" H 800 900 50  0001 C CNN
-	1    800  900 
-	1    0    0    -1  
-$EndComp
-$Comp
 L Mechanical:MountingHole HC0
 U 1 1 5F327B1C
 P 800 1100
@@ -154,17 +143,6 @@ F 1 "MountingHole" H 900 1455 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3mm" H 800 1500 50  0001 C CNN
 F 3 "~" H 800 1500 50  0001 C CNN
 	1    800  1500
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole HF0
-U 1 1 5F328807
-P 800 1700
-F 0 "HF0" H 900 1746 50  0000 L CNN
-F 1 "MountingHole" H 900 1655 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 800 1700 50  0001 C CNN
-F 3 "~" H 800 1700 50  0001 C CNN
-	1    800  1700
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -575,17 +553,6 @@ F 3 "~" H 2000 1900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole HB7
-U 1 1 5F34255F
-P 2200 900
-F 0 "HB7" H 2300 946 50  0000 L CNN
-F 1 "MountingHole" H 2300 855 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 2200 900 50  0001 C CNN
-F 3 "~" H 2200 900 50  0001 C CNN
-	1    2200 900 
-	1    0    0    -1  
-$EndComp
-$Comp
 L Mechanical:MountingHole HC7
 U 1 1 5F342D1B
 P 2200 1100
@@ -619,17 +586,6 @@ F 3 "~" H 2200 1500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole HF7
-U 1 1 5F344477
-P 2200 1700
-F 0 "HF7" H 2300 1746 50  0000 L CNN
-F 1 "MountingHole" H 2300 1655 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 2200 1700 50  0001 C CNN
-F 3 "~" H 2200 1700 50  0001 C CNN
-	1    2200 1700
-	1    0    0    -1  
-$EndComp
-$Comp
 L Mechanical:MountingHole HG7
 U 1 1 5F344D3A
 P 2200 1900
@@ -638,17 +594,6 @@ F 1 "MountingHole" H 2300 1855 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3mm" H 2200 1900 50  0001 C CNN
 F 3 "~" H 2200 1900 50  0001 C CNN
 	1    2200 1900
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole HB8
-U 1 1 5F345D8B
-P 2400 900
-F 0 "HB8" H 2500 946 50  0000 L CNN
-F 1 "MountingHole" H 2500 855 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 2400 900 50  0001 C CNN
-F 3 "~" H 2400 900 50  0001 C CNN
-	1    2400 900 
 	1    0    0    -1  
 $EndComp
 $Comp
