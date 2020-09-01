@@ -16,8 +16,9 @@ FOLDER    PCB MARK         DESCRIPTION
 A00       A00_BACKPLATE    Backplate for generic 83 x 58 x 33 mm waterproof enclosure
 A01       A01_BACKPLATE    Backplate for generic 158 x 90 x 60 mm waterproof enclosure
 A02       A02_BACKPLATE    Backplate for generic 200 x 120 x 75 mm waterproof enclosure
-A03       A03_BACKPLATE    Backplate for Raspberry Pi Zero to 10.16mm spaced holes
-A04       A04_BACKPLATE    Backplate for Raspberry Pi 3B+ to 10.16mm spaced holes
+A03       A03_BACKPLATE    Backplate for Raspberry Pi Zero to 10.16 mm spaced holes
+A04       A04_BACKPLATE    Backplate for Raspberry Pi 3B+ to 10.16 mm spaced holes
+A05       A05_BACKPLATE    Backplate for PSU YXDY 5V 3.8A S-20W-5 to 10.16 mm spaced holes
 ========  ===============  ============== 
 
 
