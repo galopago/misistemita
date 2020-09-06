@@ -14,6 +14,7 @@ Directory structure of every board folder
 FOLDER    PCB MARK         DESCRIPTION
 ========  ===============  ============== 
 B00       B00_S2S          2x2 3.5 mm screw terminals
+B01       B01_S2S          2x4 3.5 mm screw terminals
 ========  ===============  ============== 
 
 
