@@ -15,6 +15,7 @@ FOLDER    PCB MARK         DESCRIPTION
 ========  ===============  ============== 
 B00       B00_S2S          2x2 3.5 mm screw terminals
 B01       B01_S2S          2x4 3.5 mm screw terminals
+B02       B02_S2S          2x7 3.5 mm screw terminals
 ========  ===============  ============== 
 
 
