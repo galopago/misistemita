@@ -3,7 +3,7 @@
   (general
     (thickness 1.6)
     (drawings 9)
-    (tracks 10)
+    (tracks 16)
     (zones 0)
     (modules 15)
     (nets 6)
@@ -905,7 +905,7 @@
     (pad 1 np_thru_hole circle (at 0 0) (size 3 3) (drill 3) (layers *.Cu *.Mask))
   )
 
-  (gr_text "- -  + +" (at 74.8538 33.9852 90) (layer F.SilkS)
+  (gr_text "+ +  - -" (at 74.8538 33.9852 90) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
   (gr_text 00_ELECTRONIC (at 53.4162 26.8732 180) (layer B.Cu) (tstamp 5F51EAC1)
@@ -927,14 +927,20 @@
 
   (segment (start 24.9816 36.47) (end 24.2316 35.72) (width 0.75) (layer F.Cu) (net 2))
   (segment (start 34.51 36.47) (end 24.9816 36.47) (width 0.75) (layer F.Cu) (net 2))
+  (segment (start 24.9816 36.47) (end 24.2316 35.72) (width 0.75) (layer B.Cu) (net 2))
+  (segment (start 34.51 36.47) (end 24.9816 36.47) (width 0.75) (layer B.Cu) (net 2))
   (segment (start 24.9816 31.47) (end 24.2316 32.22) (width 0.75) (layer F.Cu) (net 3))
   (segment (start 34.51 31.47) (end 24.9816 31.47) (width 0.75) (layer F.Cu) (net 3))
+  (segment (start 24.9816 31.47) (end 24.2316 32.22) (width 0.75) (layer B.Cu) (net 3))
+  (segment (start 34.51 31.47) (end 24.9816 31.47) (width 0.75) (layer B.Cu) (net 3))
   (segment (start 66.36 28.72) (end 72.0852 28.72) (width 0.75) (layer F.Cu) (net 4))
   (segment (start 63.91 26.27) (end 66.36 28.72) (width 0.75) (layer F.Cu) (net 4))
   (segment (start 72.0852 28.72) (end 72.0852 32.22) (width 0.75) (layer F.Cu) (net 4))
+  (segment (start 72.0852 28.72) (end 72.0852 32.22) (width 0.75) (layer B.Cu) (net 4))
   (segment (start 66.36 39.22) (end 63.91 41.67) (width 0.75) (layer F.Cu) (net 5))
   (segment (start 72.0852 39.22) (end 66.36 39.22) (width 0.75) (layer F.Cu) (net 5))
   (segment (start 72.0852 35.72) (end 72.0852 39.22) (width 0.75) (layer F.Cu) (net 5))
+  (segment (start 72.0852 35.72) (end 72.0852 39.22) (width 0.75) (layer B.Cu) (net 5))
 
   (zone (net 1) (net_name "Net-(J0-Pad1)") (layer F.Cu) (tstamp 5F52A187) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
