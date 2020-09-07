@@ -25,39 +25,6 @@ F 3 "~" H 800 700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole HA1
-U 1 1 5F324A16
-P 1000 700
-F 0 "HA1" H 1100 746 50  0000 L CNN
-F 1 "MountingHole" H 1100 655 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 1000 700 50  0001 C CNN
-F 3 "~" H 1000 700 50  0001 C CNN
-	1    1000 700 
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole HA2
-U 1 1 5F324FC8
-P 1200 700
-F 0 "HA2" H 1300 746 50  0000 L CNN
-F 1 "MountingHole" H 1300 655 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 1200 700 50  0001 C CNN
-F 3 "~" H 1200 700 50  0001 C CNN
-	1    1200 700 
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole HA3
-U 1 1 5F3252AF
-P 1400 700
-F 0 "HA3" H 1500 746 50  0000 L CNN
-F 1 "MountingHole" H 1500 655 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 1400 700 50  0001 C CNN
-F 3 "~" H 1400 700 50  0001 C CNN
-	1    1400 700 
-	1    0    0    -1  
-$EndComp
-$Comp
 L Mechanical:MountingHole HA5
 U 1 1 5F3258D5
 P 1800 700
@@ -77,72 +44,6 @@ F 1 "MountingHole" H 900 1055 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3mm" H 800 1100 50  0001 C CNN
 F 3 "~" H 800 1100 50  0001 C CNN
 	1    800  1100
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole HC1
-U 1 1 5F32B9C0
-P 1000 1100
-F 0 "HC1" H 1100 1146 50  0000 L CNN
-F 1 "MountingHole" H 1100 1055 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 1000 1100 50  0001 C CNN
-F 3 "~" H 1000 1100 50  0001 C CNN
-	1    1000 1100
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole HB2
-U 1 1 5F32D584
-P 1200 900
-F 0 "HB2" H 1300 946 50  0000 L CNN
-F 1 "MountingHole" H 1300 855 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 1200 900 50  0001 C CNN
-F 3 "~" H 1200 900 50  0001 C CNN
-	1    1200 900 
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole HC2
-U 1 1 5F32DC16
-P 1200 1100
-F 0 "HC2" H 1300 1146 50  0000 L CNN
-F 1 "MountingHole" H 1300 1055 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 1200 1100 50  0001 C CNN
-F 3 "~" H 1200 1100 50  0001 C CNN
-	1    1200 1100
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole HB3
-U 1 1 5F333CCC
-P 1400 900
-F 0 "HB3" H 1500 946 50  0000 L CNN
-F 1 "MountingHole" H 1500 855 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 1400 900 50  0001 C CNN
-F 3 "~" H 1400 900 50  0001 C CNN
-	1    1400 900 
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole HC3
-U 1 1 5F3340C4
-P 1400 1100
-F 0 "HC3" H 1500 1146 50  0000 L CNN
-F 1 "MountingHole" H 1500 1055 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 1400 1100 50  0001 C CNN
-F 3 "~" H 1400 1100 50  0001 C CNN
-	1    1400 1100
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole HB4
-U 1 1 5F336617
-P 1600 900
-F 0 "HB4" H 1700 946 50  0000 L CNN
-F 1 "MountingHole" H 1700 855 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3mm" H 1600 900 50  0001 C CNN
-F 3 "~" H 1600 900 50  0001 C CNN
-	1    1600 900 
 	1    0    0    -1  
 $EndComp
 $Comp

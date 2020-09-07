@@ -138,7 +138,7 @@ U 1 1 5F537313
 P 5650 2550
 F 0 "J4" H 5542 2735 50  0000 C CNN
 F 1 "Conn_01x02_Female" H 5542 2644 50  0000 C CNN
-F 2 "TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal" H 5650 2550 50  0001 C CNN
+F 2 "TerminalBlock_RND:TerminalBlock_RND_205-00001_1x02_P5.00mm_Horizontal" H 5650 2550 50  0001 C CNN
 F 3 "~" H 5650 2550 50  0001 C CNN
 	1    5650 2550
 	-1   0    0    -1  
