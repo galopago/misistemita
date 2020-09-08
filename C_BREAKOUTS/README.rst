@@ -15,6 +15,7 @@ FOLDER    PCB MARK         DESCRIPTION
 ========  ===============  ============== 
 C00       C00_BREAKOUT     Breakout for power meter PZEM-004T-100A (V3.0)
 C01       C01_BREAKOUT     Breakout for RAK811 LoRa breakboard
+C02       C02_BREAKOUT     Breakout for RAK4200 LoRa breakboard
 ========  ===============  ============== 
 
 
