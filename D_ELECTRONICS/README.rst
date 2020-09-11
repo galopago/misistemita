@@ -13,7 +13,8 @@ Directory structure of every board folder
 ========  ===============  ============== 
 FOLDER    PCB MARK         DESCRIPTION
 ========  ===============  ============== 
-D00       D00_ELECTRONIC   Hi-Link Power supply modules: HLK-PM01,HLK-PM03,HLK-PM24
+D00       D00_ELECTRONIC   Hi-Link Power supply modules: HLK-PM01,HLK-PM03,HLK-PM24.
+D01       D01_ELECTRONIC   PoE with WC-PD13C050I module.
 ========  ===============  ============== 
 
 
