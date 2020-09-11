@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name eth_conn)(type KiCad)(uri /home/movilidad2/Documents/test/eth_conn.pretty)(options "")(descr ""))
+)
