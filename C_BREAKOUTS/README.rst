@@ -17,6 +17,7 @@ C00       C00_BREAKOUT     Breakout for power meter PZEM-004T-100A (V3.0)
 C01       C01_BREAKOUT     Breakout for RAK811 LoRa breakboard
 C02       C02_BREAKOUT     Breakout for RAK4200 LoRa breakboard
 C03       C03_BREAKOUT     Breakout for 2xAA R6 type batteries
+C04       C04_BREAKOUT     Breakout for Arduino Nano
 ========  ===============  ============== 
 
 
