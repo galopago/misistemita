@@ -233,8 +233,6 @@ Wire Wire Line
 	7700 3100 7700 2650
 Connection ~ 7450 3100
 Connection ~ 7700 2250
-Wire Wire Line
-	8200 2250 8000 2250
 Connection ~ 7700 3100
 Wire Wire Line
 	8200 2150 7400 2150
@@ -247,23 +245,23 @@ Wire Wire Line
 $Comp
 L Device:R R1
 U 1 1 5F6D8881
-P 8000 2450
-F 0 "R1" H 8070 2496 50  0000 L CNN
-F 1 "R" H 8070 2405 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" V 7930 2450 50  0001 C CNN
-F 3 "~" H 8000 2450 50  0001 C CNN
-	1    8000 2450
+P 8000 2900
+F 0 "R1" H 8070 2946 50  0000 L CNN
+F 1 "R" H 8070 2855 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" V 7930 2900 50  0001 C CNN
+F 3 "~" H 8000 2900 50  0001 C CNN
+	1    8000 2900
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:LED D1
 U 1 1 5F6D9335
-P 8000 2850
-F 0 "D1" V 8039 2733 50  0000 R CNN
-F 1 "LED" V 7948 2733 50  0000 R CNN
-F 2 "LED_THT:LED_D3.0mm" H 8000 2850 50  0001 C CNN
-F 3 "~" H 8000 2850 50  0001 C CNN
-	1    8000 2850
+P 8000 2450
+F 0 "D1" V 8039 2333 50  0000 R CNN
+F 1 "LED" V 7948 2333 50  0000 R CNN
+F 2 "LED_THT:LED_D3.0mm" H 8000 2450 50  0001 C CNN
+F 3 "~" H 8000 2450 50  0001 C CNN
+	1    8000 2450
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
@@ -271,23 +269,9 @@ Wire Wire Line
 Wire Wire Line
 	5700 3100 6100 3100
 Wire Wire Line
-	8000 2700 8000 2600
-Wire Wire Line
-	8000 2300 8000 2250
-Connection ~ 8000 2250
-Wire Wire Line
-	8000 2250 7700 2250
-Wire Wire Line
-	8000 3000 8000 3100
-Wire Wire Line
-	7700 3100 8000 3100
-Wire Wire Line
 	8200 2350 8150 2350
 Wire Wire Line
 	8150 2350 8150 3100
-Wire Wire Line
-	8150 3100 8000 3100
-Connection ~ 8000 3100
 Wire Wire Line
 	5900 3450 6050 3450
 Wire Wire Line
@@ -324,4 +308,31 @@ F 3 "~" H 1800 1000 50  0001 C CNN
 	1    1800 1000
 	1    0    0    -1  
 $EndComp
+$Comp
+L Mechanical:MountingHole HA1
+U 1 1 5F6728B6
+P 1050 700
+F 0 "HA1" H 1150 746 50  0000 L CNN
+F 1 "MountingHole" H 1150 655 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 1050 700 50  0001 C CNN
+F 3 "~" H 1050 700 50  0001 C CNN
+	1    1050 700 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7700 2250 8000 2250
+Wire Wire Line
+	7700 3100 8000 3100
+Wire Wire Line
+	8000 2300 8000 2250
+Connection ~ 8000 2250
+Wire Wire Line
+	8000 2250 8200 2250
+Wire Wire Line
+	8000 2600 8000 2750
+Wire Wire Line
+	8000 3050 8000 3100
+Connection ~ 8000 3100
+Wire Wire Line
+	8000 3100 8150 3100
 $EndSCHEMATC

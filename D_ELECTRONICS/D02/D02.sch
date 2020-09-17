@@ -50,55 +50,12 @@ F 3 "~" H 6300 850 50  0001 C CNN
 	1    6300 850 
 	1    0    0    -1  
 $EndComp
-$Comp
-L Connector:Conn_01x01_Male J1
-U 1 1 5F5DB1C6
-P 6300 1000
-F 0 "J1" H 6408 1181 50  0000 C CNN
-F 1 "Conn_01x01_Male" H 6408 1090 50  0000 C CNN
-F 2 "Connector_Wire:SolderWirePad_1x01_Drill1mm" H 6300 1000 50  0001 C CNN
-F 3 "~" H 6300 1000 50  0001 C CNN
-	1    6300 1000
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:Conn_01x01_Male J2
-U 1 1 5F5DCAC3
-P 6300 1150
-F 0 "J2" H 6408 1331 50  0000 C CNN
-F 1 "Conn_01x01_Male" H 6408 1240 50  0000 C CNN
-F 2 "Connector_Wire:SolderWirePad_1x01_Drill1mm" H 6300 1150 50  0001 C CNN
-F 3 "~" H 6300 1150 50  0001 C CNN
-	1    6300 1150
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:Conn_01x01_Male J3
-U 1 1 5F5DDB13
-P 6300 1300
-F 0 "J3" H 6408 1481 50  0000 C CNN
-F 1 "Conn_01x01_Male" H 6408 1390 50  0000 C CNN
-F 2 "Connector_Wire:SolderWirePad_1x01_Drill1mm" H 6300 1300 50  0001 C CNN
-F 3 "~" H 6300 1300 50  0001 C CNN
-	1    6300 1300
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	6500 850  6750 850 
 Wire Wire Line
 	6750 850  6750 1000
 Wire Wire Line
 	6750 1000 6500 1000
-Wire Wire Line
-	6500 1150 6750 1150
-Wire Wire Line
-	6750 1150 6750 1000
-Connection ~ 6750 1000
-Wire Wire Line
-	6500 1300 6750 1300
-Wire Wire Line
-	6750 1300 6750 1150
-Connection ~ 6750 1150
 Text Label 6250 1650 0    50   ~ 0
 GROUND_PLANE
 $Comp
@@ -233,8 +190,6 @@ Wire Wire Line
 	7700 3100 7700 2650
 Connection ~ 7450 3100
 Connection ~ 7700 2250
-Wire Wire Line
-	8200 2250 8000 2250
 Connection ~ 7700 3100
 Wire Wire Line
 	8200 2150 7400 2150
@@ -247,23 +202,23 @@ Wire Wire Line
 $Comp
 L Device:R R1
 U 1 1 5F6D8881
-P 8000 2450
-F 0 "R1" H 8070 2496 50  0000 L CNN
-F 1 "R" H 8070 2405 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" V 7930 2450 50  0001 C CNN
-F 3 "~" H 8000 2450 50  0001 C CNN
-	1    8000 2450
+P 8000 2900
+F 0 "R1" H 8070 2946 50  0000 L CNN
+F 1 "R" H 8070 2855 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" V 7930 2900 50  0001 C CNN
+F 3 "~" H 8000 2900 50  0001 C CNN
+	1    8000 2900
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:LED D1
 U 1 1 5F6D9335
-P 8000 2850
-F 0 "D1" V 8039 2733 50  0000 R CNN
-F 1 "LED" V 7948 2733 50  0000 R CNN
-F 2 "LED_THT:LED_D3.0mm" H 8000 2850 50  0001 C CNN
-F 3 "~" H 8000 2850 50  0001 C CNN
-	1    8000 2850
+P 8000 2450
+F 0 "D1" V 8039 2333 50  0000 R CNN
+F 1 "LED" V 7948 2333 50  0000 R CNN
+F 2 "LED_THT:LED_D3.0mm" H 8000 2450 50  0001 C CNN
+F 3 "~" H 8000 2450 50  0001 C CNN
+	1    8000 2450
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
@@ -271,23 +226,9 @@ Wire Wire Line
 Wire Wire Line
 	5700 3100 6100 3100
 Wire Wire Line
-	8000 2700 8000 2600
-Wire Wire Line
-	8000 2300 8000 2250
-Connection ~ 8000 2250
-Wire Wire Line
-	8000 2250 7700 2250
-Wire Wire Line
-	8000 3000 8000 3100
-Wire Wire Line
-	7700 3100 8000 3100
-Wire Wire Line
 	8200 2350 8150 2350
 Wire Wire Line
 	8150 2350 8150 3100
-Wire Wire Line
-	8150 3100 8000 3100
-Connection ~ 8000 3100
 Wire Wire Line
 	5900 3450 6050 3450
 Wire Wire Line
@@ -333,6 +274,33 @@ F 1 "MountingHole" H 1150 655 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3mm" H 1050 700 50  0001 C CNN
 F 3 "~" H 1050 700 50  0001 C CNN
 	1    1050 700 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7700 2250 8000 2250
+Wire Wire Line
+	7700 3100 8000 3100
+Wire Wire Line
+	8000 2300 8000 2250
+Connection ~ 8000 2250
+Wire Wire Line
+	8000 2250 8200 2250
+Wire Wire Line
+	8000 2600 8000 2750
+Wire Wire Line
+	8000 3050 8000 3100
+Connection ~ 8000 3100
+Wire Wire Line
+	8000 3100 8150 3100
+$Comp
+L Connector:Conn_01x01_Male J1
+U 1 1 5F5DB1C6
+P 6300 1000
+F 0 "J1" H 6408 1181 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 6408 1090 50  0000 C CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_Drill1mm" H 6300 1000 50  0001 C CNN
+F 3 "~" H 6300 1000 50  0001 C CNN
+	1    6300 1000
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
