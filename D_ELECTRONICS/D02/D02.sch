@@ -1,0 +1,338 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "D02_ELECTRONIC"
+Date ""
+Rev ""
+Comp "Galopago"
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Mechanical:MountingHole HA0
+U 1 1 5F323A1B
+P 800 700
+F 0 "HA0" H 900 746 50  0000 L CNN
+F 1 "MountingHole" H 900 655 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 800 700 50  0001 C CNN
+F 3 "~" H 800 700 50  0001 C CNN
+	1    800  700 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole HA5
+U 1 1 5F3258D5
+P 1800 700
+F 0 "HA5" H 1900 746 50  0000 L CNN
+F 1 "MountingHole" H 1900 655 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 1800 700 50  0001 C CNN
+F 3 "~" H 1800 700 50  0001 C CNN
+	1    1800 700 
+	1    0    0    -1  
+$EndComp
+Text Label 8450 1850 0    50   ~ 0
+ENCLOSURE_MOUNT_HOLES
+Text Label 1850 3000 0    50   ~ 0
+BACKPLATE_TO_BOARDS_MOUNT_HOLES
+$Comp
+L Connector:Conn_01x01_Male J0
+U 1 1 5F5D91C6
+P 6300 850
+F 0 "J0" H 6408 1031 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 6408 940 50  0000 C CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_Drill1mm" H 6300 850 50  0001 C CNN
+F 3 "~" H 6300 850 50  0001 C CNN
+	1    6300 850 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J1
+U 1 1 5F5DB1C6
+P 6300 1000
+F 0 "J1" H 6408 1181 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 6408 1090 50  0000 C CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_Drill1mm" H 6300 1000 50  0001 C CNN
+F 3 "~" H 6300 1000 50  0001 C CNN
+	1    6300 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J2
+U 1 1 5F5DCAC3
+P 6300 1150
+F 0 "J2" H 6408 1331 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 6408 1240 50  0000 C CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_Drill1mm" H 6300 1150 50  0001 C CNN
+F 3 "~" H 6300 1150 50  0001 C CNN
+	1    6300 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J3
+U 1 1 5F5DDB13
+P 6300 1300
+F 0 "J3" H 6408 1481 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 6408 1390 50  0000 C CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_Drill1mm" H 6300 1300 50  0001 C CNN
+F 3 "~" H 6300 1300 50  0001 C CNN
+	1    6300 1300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6500 850  6750 850 
+Wire Wire Line
+	6750 850  6750 1000
+Wire Wire Line
+	6750 1000 6500 1000
+Wire Wire Line
+	6500 1150 6750 1150
+Wire Wire Line
+	6750 1150 6750 1000
+Connection ~ 6750 1000
+Wire Wire Line
+	6500 1300 6750 1300
+Wire Wire Line
+	6750 1300 6750 1150
+Connection ~ 6750 1150
+Text Label 6250 1650 0    50   ~ 0
+GROUND_PLANE
+$Comp
+L Connector:USB_B_Micro J4
+U 1 1 5F627324
+P 5700 2450
+F 0 "J4" H 5757 2917 50  0000 C CNN
+F 1 "USB_B_Micro" H 5757 2826 50  0000 C CNN
+F 2 "Connector_USB:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal" H 5850 2400 50  0001 C CNN
+F 3 "~" H 5850 2400 50  0001 C CNN
+	1    5700 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x02_Female J5
+U 1 1 5F64B46D
+P 5700 3450
+F 0 "J5" H 5592 3635 50  0000 C CNN
+F 1 "Conn_01x02_Female" H 5592 3544 50  0000 C CNN
+F 2 "TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal" H 5700 3450 50  0001 C CNN
+F 3 "~" H 5700 3450 50  0001 C CNN
+	1    5700 3450
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x03_Female J6
+U 1 1 5F64D49E
+P 8400 2250
+F 0 "J6" H 8428 2276 50  0000 L CNN
+F 1 "Conn_01x03_Female" H 8428 2185 50  0000 L CNN
+F 2 "TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x03_P3.50mm_Horizontal" H 8400 2250 50  0001 C CNN
+F 3 "~" H 8400 2250 50  0001 C CNN
+	1    8400 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Regulator_Linear:AMS1117-3.3 U1
+U 1 1 5F651E9A
+P 6900 2250
+F 0 "U1" H 6900 2492 50  0000 C CNN
+F 1 "AMS1117-3.3" H 6900 2401 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" H 6900 2450 50  0001 C CNN
+F 3 "http://www.advanced-monolithic.com/pdf/ds1117.pdf" H 7000 2000 50  0001 C CNN
+	1    6900 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C1
+U 1 1 5F653C6F
+P 6200 2500
+F 0 "C1" H 6315 2546 50  0000 L CNN
+F 1 "C" H 6315 2455 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 6238 2350 50  0001 C CNN
+F 3 "~" H 6200 2500 50  0001 C CNN
+	1    6200 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C2
+U 1 1 5F655E57
+P 6450 2500
+F 0 "C2" H 6565 2546 50  0000 L CNN
+F 1 "C" H 6565 2455 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 6488 2350 50  0001 C CNN
+F 3 "~" H 6450 2500 50  0001 C CNN
+	1    6450 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C3
+U 1 1 5F657780
+P 7450 2500
+F 0 "C3" H 7565 2546 50  0000 L CNN
+F 1 "C" H 7565 2455 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 7488 2350 50  0001 C CNN
+F 3 "~" H 7450 2500 50  0001 C CNN
+	1    7450 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C4
+U 1 1 5F6589FA
+P 7700 2500
+F 0 "C4" H 7815 2546 50  0000 L CNN
+F 1 "C" H 7815 2455 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 7738 2350 50  0001 C CNN
+F 3 "~" H 7700 2500 50  0001 C CNN
+	1    7700 2500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6450 2350 6450 2250
+Connection ~ 6450 2250
+Wire Wire Line
+	6450 2250 6600 2250
+Wire Wire Line
+	6200 2350 6200 2250
+Connection ~ 6200 2250
+Wire Wire Line
+	6200 2250 6450 2250
+Wire Wire Line
+	5700 2850 5700 3100
+Wire Wire Line
+	6900 3100 6900 2550
+Wire Wire Line
+	6450 2650 6450 3100
+Connection ~ 6450 3100
+Wire Wire Line
+	6450 3100 6900 3100
+Wire Wire Line
+	6200 2650 6200 3100
+Connection ~ 6200 3100
+Wire Wire Line
+	6200 3100 6450 3100
+Wire Wire Line
+	6900 3100 7450 3100
+Wire Wire Line
+	7450 3100 7450 2650
+Connection ~ 6900 3100
+Wire Wire Line
+	7450 2250 7450 2350
+Wire Wire Line
+	7200 2250 7450 2250
+Wire Wire Line
+	7450 2250 7700 2250
+Wire Wire Line
+	7700 2250 7700 2350
+Connection ~ 7450 2250
+Wire Wire Line
+	7450 3100 7700 3100
+Wire Wire Line
+	7700 3100 7700 2650
+Connection ~ 7450 3100
+Connection ~ 7700 2250
+Wire Wire Line
+	8200 2250 8000 2250
+Connection ~ 7700 3100
+Wire Wire Line
+	8200 2150 7400 2150
+Wire Wire Line
+	7400 2150 7400 1950
+Wire Wire Line
+	7400 1950 6450 1950
+Wire Wire Line
+	6450 1950 6450 2250
+$Comp
+L Device:R R1
+U 1 1 5F6D8881
+P 8000 2450
+F 0 "R1" H 8070 2496 50  0000 L CNN
+F 1 "R" H 8070 2405 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" V 7930 2450 50  0001 C CNN
+F 3 "~" H 8000 2450 50  0001 C CNN
+	1    8000 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D1
+U 1 1 5F6D9335
+P 8000 2850
+F 0 "D1" V 8039 2733 50  0000 R CNN
+F 1 "LED" V 7948 2733 50  0000 R CNN
+F 2 "LED_THT:LED_D3.0mm" H 8000 2850 50  0001 C CNN
+F 3 "~" H 8000 2850 50  0001 C CNN
+	1    8000 2850
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6000 2250 6050 2250
+Wire Wire Line
+	5700 3100 6100 3100
+Wire Wire Line
+	8000 2700 8000 2600
+Wire Wire Line
+	8000 2300 8000 2250
+Connection ~ 8000 2250
+Wire Wire Line
+	8000 2250 7700 2250
+Wire Wire Line
+	8000 3000 8000 3100
+Wire Wire Line
+	7700 3100 8000 3100
+Wire Wire Line
+	8200 2350 8150 2350
+Wire Wire Line
+	8150 2350 8150 3100
+Wire Wire Line
+	8150 3100 8000 3100
+Connection ~ 8000 3100
+Wire Wire Line
+	5900 3450 6050 3450
+Wire Wire Line
+	6050 3450 6050 2250
+Connection ~ 6050 2250
+Wire Wire Line
+	6050 2250 6200 2250
+Wire Wire Line
+	5900 3550 6100 3550
+Wire Wire Line
+	6100 3550 6100 3100
+Connection ~ 6100 3100
+Wire Wire Line
+	6100 3100 6200 3100
+$Comp
+L Mechanical:MountingHole HB0
+U 1 1 5F66BB6C
+P 800 1000
+F 0 "HB0" H 900 1046 50  0000 L CNN
+F 1 "MountingHole" H 900 955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 800 1000 50  0001 C CNN
+F 3 "~" H 800 1000 50  0001 C CNN
+	1    800  1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole HB5
+U 1 1 5F66BE4C
+P 1800 1000
+F 0 "HB5" H 1900 1046 50  0000 L CNN
+F 1 "MountingHole" H 1900 955 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 1800 1000 50  0001 C CNN
+F 3 "~" H 1800 1000 50  0001 C CNN
+	1    1800 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole HA1
+U 1 1 5F6728B6
+P 1050 700
+F 0 "HA1" H 1150 746 50  0000 L CNN
+F 1 "MountingHole" H 1150 655 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3mm" H 1050 700 50  0001 C CNN
+F 3 "~" H 1050 700 50  0001 C CNN
+	1    1050 700 
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
