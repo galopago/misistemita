@@ -19,6 +19,7 @@ C02       C02_BREAKOUT     Breakout for RAK4200 LoRa breakboard
 C03       C03_BREAKOUT     Breakout for 2xAA R6 type batteries
 C04       C04_BREAKOUT     Breakout for Arduino Nano
 C05       C05_BREAKOUT     Breakout for Raspberry Pi 40 pin (2x20) header
+C06       C06_BREAKOUT     Breakout for 21 mm x 23 mm prototyping area
 ========  ===============  ============== 
 
 
