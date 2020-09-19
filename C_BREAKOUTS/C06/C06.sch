@@ -671,4 +671,56 @@ Connection ~ 6200 3500
 Wire Wire Line
 	6200 3600 6200 3700
 Connection ~ 6200 3600
+$Comp
+L Connector:Conn_01x01_Male J37
+U 1 1 5F65D4D3
+P 9900 700
+F 0 "J37" H 10008 881 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 10008 790 50  0000 C CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_Drill1mm" H 9900 700 50  0001 C CNN
+F 3 "~" H 9900 700 50  0001 C CNN
+	1    9900 700 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J38
+U 1 1 5F65E061
+P 9900 800
+F 0 "J38" H 10008 981 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 10008 890 50  0000 C CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_Drill1mm" H 9900 800 50  0001 C CNN
+F 3 "~" H 9900 800 50  0001 C CNN
+	1    9900 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J39
+U 1 1 5F65F34A
+P 9900 900
+F 0 "J39" H 10008 1081 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 10008 990 50  0000 C CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_Drill1mm" H 9900 900 50  0001 C CNN
+F 3 "~" H 9900 900 50  0001 C CNN
+	1    9900 900 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J40
+U 1 1 5F660241
+P 9900 1000
+F 0 "J40" H 10008 1181 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 10008 1090 50  0000 C CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_Drill1mm" H 9900 1000 50  0001 C CNN
+F 3 "~" H 9900 1000 50  0001 C CNN
+	1    9900 1000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10100 700  10100 800 
+Wire Wire Line
+	10100 800  10100 900 
+Connection ~ 10100 800 
+Wire Wire Line
+	10100 900  10100 1000
+Connection ~ 10100 900 
 $EndSCHEMATC
