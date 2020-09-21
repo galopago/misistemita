@@ -20,6 +20,7 @@ C03       C03_BREAKOUT     Breakout for 2xAA R6 type batteries
 C04       C04_BREAKOUT     Breakout for Arduino Nano
 C05       C05_BREAKOUT     Breakout for Raspberry Pi 40 pin (2x20) header
 C06       C06_BREAKOUT     Breakout for 21 mm x 23 mm prototyping area
+C07       C07_BREAKOUT     Breakout for ESP32 devboards with 38 pins (2x19 2.54mm pitch) or less and 25,4 mm separation between headers  
 ========  ===============  ============== 
 
 
