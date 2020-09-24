@@ -22,6 +22,7 @@ C05       C05_BREAKOUT     Breakout for Raspberry Pi 40 pin (2x20) header
 C06       C06_BREAKOUT     Breakout for 21 mm x 23 mm prototyping area
 C07       C07_BREAKOUT     Breakout for ESP32 devboards with 38 pins (2x19 2.54mm pitch) or less and 25,4 mm separation between headers  
 C08       C08_BREAKOUT     Breakout for ESP8266 devboards with 30 pins (2x15 2.54mm pitch) or less and ( 22,86 or 27.94mm ) separation between headers  
+C09       C09_BREAKOUT     Breakout for USB A Male (USB A Female connected to screw terminals) power pins
 ========  ===============  ============== 
 
 
