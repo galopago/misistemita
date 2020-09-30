@@ -18,6 +18,7 @@ D01       D01_ELECTRONIC   PoE with WC-PD13C050I module.
 D02       D02_ELECTRONIC   3.3v regulator, uUSB input, mountable in a generic 83 x 58 x 33 mm waterproof enclosure
 D03       D03_ELE          Push button(Input) and led(Output). Configurable Pull-Up or Pull-Down for push button, and led Cathode to Positive or Negative (active high or active low)
 D04       D04_ELECTRONIC   3.3 - 5v input opto-isolated, relay module.
+D05       D05_ELE          ADS1115 ADC with resistors for 0-20mA, 0-5V and 0-10V analog input
 ========  ===============  ============== 
 
 
