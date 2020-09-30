@@ -101,9 +101,9 @@ F 3 "~" H 1200 1500 50  0001 C CNN
 	1    1200 1500
 	1    0    0    -1  
 $EndComp
-Text Label 8450 1850 0    50   ~ 0
+Text Label 9450 1150 0    50   ~ 0
 ENCLOSURE_MOUNT_HOLES
-Text Label 1850 3000 0    50   ~ 0
+Text Label 700  1850 0    50   ~ 0
 BACKPLATE_TO_BOARDS_MOUNT_HOLES
 $Comp
 L Connector:Conn_01x01_Male J0
@@ -127,45 +127,13 @@ F 3 "~" H 6300 1000 50  0001 C CNN
 	1    6300 1000
 	1    0    0    -1  
 $EndComp
-$Comp
-L Connector:Conn_01x01_Male J2
-U 1 1 5F5DCAC3
-P 6300 1150
-F 0 "J2" H 6408 1331 50  0000 C CNN
-F 1 "Conn_01x01_Male" H 6408 1240 50  0000 C CNN
-F 2 "Connector_Wire:SolderWirePad_1x01_Drill1mm" H 6300 1150 50  0001 C CNN
-F 3 "~" H 6300 1150 50  0001 C CNN
-	1    6300 1150
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:Conn_01x01_Male J3
-U 1 1 5F5DDB13
-P 6300 1300
-F 0 "J3" H 6408 1481 50  0000 C CNN
-F 1 "Conn_01x01_Male" H 6408 1390 50  0000 C CNN
-F 2 "Connector_Wire:SolderWirePad_1x01_Drill1mm" H 6300 1300 50  0001 C CNN
-F 3 "~" H 6300 1300 50  0001 C CNN
-	1    6300 1300
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	6500 850  6750 850 
 Wire Wire Line
 	6750 850  6750 1000
 Wire Wire Line
 	6750 1000 6500 1000
-Wire Wire Line
-	6500 1150 6750 1150
-Wire Wire Line
-	6750 1150 6750 1000
-Connection ~ 6750 1000
-Wire Wire Line
-	6500 1300 6750 1300
-Wire Wire Line
-	6750 1300 6750 1150
-Connection ~ 6750 1150
-Text Label 6250 1650 0    50   ~ 0
+Text Label 6300 1200 0    50   ~ 0
 GROUND_PLANE
 $Comp
 L Relay:G5LE-1 K1
@@ -229,10 +197,6 @@ Wire Wire Line
 	6900 2350 6900 2200
 Wire Wire Line
 	6900 2200 6550 2200
-Wire Wire Line
-	5650 2200 5650 2500
-Wire Wire Line
-	5650 2500 4750 2500
 Wire Wire Line
 	7200 2350 7200 2150
 Wire Wire Line
@@ -304,18 +268,14 @@ Wire Wire Line
 $Comp
 L Device:R R2
 U 1 1 5F83C534
-P 5250 3000
-F 0 "R2" H 5320 3046 50  0000 L CNN
-F 1 "R" H 5320 2955 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5180 3000 50  0001 C CNN
-F 3 "~" H 5250 3000 50  0001 C CNN
-	1    5250 3000
-	1    0    0    -1  
+P 5150 3400
+F 0 "R2" H 5220 3446 50  0000 L CNN
+F 1 "R" H 5220 3355 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5080 3400 50  0001 C CNN
+F 3 "~" H 5150 3400 50  0001 C CNN
+	1    5150 3400
+	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	5400 3200 5250 3200
-Wire Wire Line
-	5250 3200 5250 3150
 Wire Wire Line
 	6200 2200 6200 3200
 $Comp
@@ -354,4 +314,30 @@ Wire Wire Line
 	6350 2550 6350 2650
 Wire Wire Line
 	6350 2950 6350 3050
+Wire Wire Line
+	4750 2700 5650 2700
+Wire Wire Line
+	5650 2200 5650 2700
+Wire Wire Line
+	5300 3400 5400 3400
+Wire Wire Line
+	5000 3400 4950 3400
+Wire Wire Line
+	4950 3400 4950 2600
+Wire Wire Line
+	4950 2600 4750 2600
+Wire Wire Line
+	5400 3200 5250 3200
+Wire Wire Line
+	5250 3200 5250 2500
+Wire Wire Line
+	5250 2500 4750 2500
+Text Label 4350 2550 0    50   ~ 0
+IN+
+Text Label 4350 2650 0    50   ~ 0
+IN-
+Text Label 4350 2750 0    50   ~ 0
+VCC
+Text Label 4350 2850 0    50   ~ 0
+GND
 $EndSCHEMATC

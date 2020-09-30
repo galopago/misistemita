@@ -127,44 +127,12 @@ F 3 "~" H 6300 1000 50  0001 C CNN
 	1    6300 1000
 	1    0    0    -1  
 $EndComp
-$Comp
-L Connector:Conn_01x01_Male J2
-U 1 1 5F5DCAC3
-P 6300 1150
-F 0 "J2" H 6408 1331 50  0000 C CNN
-F 1 "Conn_01x01_Male" H 6408 1240 50  0000 C CNN
-F 2 "Connector_Wire:SolderWirePad_1x01_Drill1mm" H 6300 1150 50  0001 C CNN
-F 3 "~" H 6300 1150 50  0001 C CNN
-	1    6300 1150
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:Conn_01x01_Male J3
-U 1 1 5F5DDB13
-P 6300 1300
-F 0 "J3" H 6408 1481 50  0000 C CNN
-F 1 "Conn_01x01_Male" H 6408 1390 50  0000 C CNN
-F 2 "Connector_Wire:SolderWirePad_1x01_Drill1mm" H 6300 1300 50  0001 C CNN
-F 3 "~" H 6300 1300 50  0001 C CNN
-	1    6300 1300
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	6500 850  6750 850 
 Wire Wire Line
 	6750 850  6750 1000
 Wire Wire Line
 	6750 1000 6500 1000
-Wire Wire Line
-	6500 1150 6750 1150
-Wire Wire Line
-	6750 1150 6750 1000
-Connection ~ 6750 1000
-Wire Wire Line
-	6500 1300 6750 1300
-Wire Wire Line
-	6750 1300 6750 1150
-Connection ~ 6750 1150
 Text Label 6250 1650 0    50   ~ 0
 GROUND_PLANE
 $Comp
@@ -230,10 +198,6 @@ Wire Wire Line
 Wire Wire Line
 	6900 2200 6550 2200
 Wire Wire Line
-	5650 2200 5650 2500
-Wire Wire Line
-	5650 2500 4750 2500
-Wire Wire Line
 	7200 2350 7200 2150
 Wire Wire Line
 	7200 2150 7800 2150
@@ -295,8 +259,6 @@ Wire Wire Line
 	6550 2500 6550 2200
 Connection ~ 6550 2200
 Wire Wire Line
-	6550 2200 6350 2200
-Wire Wire Line
 	6550 2800 6550 3050
 Wire Wire Line
 	6550 3050 6900 3050
@@ -306,52 +268,76 @@ Wire Wire Line
 $Comp
 L Device:R R2
 U 1 1 5F83C534
-P 5250 3000
-F 0 "R2" H 5320 3046 50  0000 L CNN
-F 1 "R" H 5320 2955 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5180 3000 50  0001 C CNN
-F 3 "~" H 5250 3000 50  0001 C CNN
-	1    5250 3000
-	1    0    0    -1  
+P 5150 3400
+F 0 "R2" H 5220 3446 50  0000 L CNN
+F 1 "R" H 5220 3355 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 5080 3400 50  0001 C CNN
+F 3 "~" H 5150 3400 50  0001 C CNN
+	1    5150 3400
+	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	5400 3200 5250 3200
-Wire Wire Line
-	5250 3200 5250 3150
 Wire Wire Line
 	6200 2200 6200 3200
 $Comp
 L Device:R R3
 U 1 1 5F84430C
-P 6350 2750
-F 0 "R3" H 6420 2796 50  0000 L CNN
-F 1 "R" H 6420 2705 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 6280 2750 50  0001 C CNN
-F 3 "~" H 6350 2750 50  0001 C CNN
-	1    6350 2750
+P 6350 2400
+F 0 "R3" H 6420 2446 50  0000 L CNN
+F 1 "R" H 6420 2355 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 6280 2400 50  0001 C CNN
+F 3 "~" H 6350 2400 50  0001 C CNN
+	1    6350 2400
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:LED D2
 U 1 1 5F844FC4
-P 6350 2400
-F 0 "D2" V 6389 2283 50  0000 R CNN
-F 1 "LED" V 6298 2283 50  0000 R CNN
-F 2 "LED_THT:LED_D3.0mm" H 6350 2400 50  0001 C CNN
-F 3 "~" H 6350 2400 50  0001 C CNN
-	1    6350 2400
+P 6350 2800
+F 0 "D2" V 6389 2683 50  0000 R CNN
+F 1 "LED" V 6298 2683 50  0000 R CNN
+F 2 "LED_THT:LED_D3.0mm" H 6350 2800 50  0001 C CNN
+F 3 "~" H 6350 2800 50  0001 C CNN
+	1    6350 2800
 	0    -1   -1   0   
 $EndComp
+Wire Wire Line
+	6350 3050 6550 3050
+Connection ~ 6550 3050
+Wire Wire Line
+	6200 2200 6350 2200
 Wire Wire Line
 	6350 2250 6350 2200
 Connection ~ 6350 2200
 Wire Wire Line
-	6350 2200 6200 2200
+	6350 2200 6550 2200
 Wire Wire Line
-	6350 2550 6350 2600
+	6350 2550 6350 2650
 Wire Wire Line
-	6350 2900 6350 3050
+	6350 2950 6350 3050
 Wire Wire Line
-	6350 3050 6550 3050
-Connection ~ 6550 3050
+	4750 2700 5650 2700
+Wire Wire Line
+	5650 2200 5650 2700
+Wire Wire Line
+	5300 3400 5400 3400
+Wire Wire Line
+	5000 3400 4950 3400
+Wire Wire Line
+	4950 3400 4950 2600
+Wire Wire Line
+	4950 2600 4750 2600
+Wire Wire Line
+	5400 3200 5250 3200
+Wire Wire Line
+	5250 3200 5250 2500
+Wire Wire Line
+	5250 2500 4750 2500
+Text Label 4350 2550 0    50   ~ 0
+IN+
+Text Label 4350 2650 0    50   ~ 0
+IN-
+Text Label 4350 2750 0    50   ~ 0
+VCC
+Text Label 4350 2850 0    50   ~ 0
+GND
 $EndSCHEMATC

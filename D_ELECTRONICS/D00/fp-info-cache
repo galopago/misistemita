@@ -1,4 +1,4 @@
-16926896503948390
+16928509531389390
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -38072,6 +38072,13 @@ ethernet 8p8c transformer magjack
 0
 12
 11
+Connector_RJ
+RJ45_Wayconn_MJEA-880X1_Horizontal
+RJ45 8P8C Socket 90 degrees, https://wayconn.com/wp-content/themes/way/datasheet/MJEA-880X1XXX_RJ45_8P8C_PCB_FEMALE_RA.pdf
+RJ45 jack connector 8P8C
+0
+8
+8
 Connector_RJ
 RJ45_Wuerth_7499010121A_Horizontal
 10/100Base-TX RJ45 ethernet magnetic transformer connector horizontal https://katalog.we-online.de/pbs/datasheet/7499010121A.pdf
