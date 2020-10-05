@@ -18,6 +18,7 @@ B01       B01_S2S          2x4 3.5 mm screw terminals
 B02       B02_S2S          2x7 3.5 mm screw terminals
 B03       B03_S2S          2x10 3.5 mm screw terminals
 B04       B04_S2S          2x3 5.0 mm screw terminals
+B05       B05_S2S          2x5 5.0 mm screw terminals
 ========  ===============  ============== 
 
 
