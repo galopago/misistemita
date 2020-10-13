@@ -428,7 +428,7 @@
     (descr "Terminal Block 4Ucon ItemNo. 19963, 2 pins, pitch 3.5mm, size 7.7x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/19963.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon")
     (tags "THT Terminal Block 4Ucon ItemNo. 19963 pitch 3.5mm size 7.7x7mm^2 drill 1.2mm pad 2.4mm")
     (path /5F8A503D)
-    (fp_text reference J5 (at 3.6144 -4.6228) (layer F.SilkS)
+    (fp_text reference J5 (at 3.6144 -4.6228) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Conn_01x02_Female (at 1.75 4.66) (layer F.Fab)
@@ -502,7 +502,7 @@
     (descr "Terminal Block 4Ucon ItemNo. 19963, 2 pins, pitch 3.5mm, size 7.7x7mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.4uconnector.com/online/object/4udrawing/19963.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_4Ucon")
     (tags "THT Terminal Block 4Ucon ItemNo. 19963 pitch 3.5mm size 7.7x7mm^2 drill 1.2mm pad 2.4mm")
     (path /5F8A1583)
-    (fp_text reference J4 (at 3.213 -4.567) (layer F.SilkS)
+    (fp_text reference J4 (at 3.213 -4.567) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Conn_01x02_Female (at 1.75 4.66) (layer F.Fab)
