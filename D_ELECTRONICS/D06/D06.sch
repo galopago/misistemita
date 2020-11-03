@@ -88,13 +88,13 @@ $EndComp
 $Comp
 L Connector:Conn_01x02_Female J5
 U 1 1 5F8A503D
-P 5300 2550
-F 0 "J5" H 5192 2735 50  0000 C CNN
-F 1 "Conn_01x02_Female" H 5192 2644 50  0000 C CNN
-F 2 "TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal" H 5300 2550 50  0001 C CNN
-F 3 "~" H 5300 2550 50  0001 C CNN
-	1    5300 2550
-	-1   0    0    -1  
+P 5300 2650
+F 0 "J5" H 5192 2835 50  0000 C CNN
+F 1 "Conn_01x02_Female" H 5192 2744 50  0000 C CNN
+F 2 "TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal" H 5300 2650 50  0001 C CNN
+F 3 "~" H 5300 2650 50  0001 C CNN
+	1    5300 2650
+	-1   0    0    1   
 $EndComp
 $Comp
 L Device:R R1
@@ -145,12 +145,12 @@ Wire Wire Line
 Wire Wire Line
 	7000 2050 7250 2050
 Wire Wire Line
-	5500 2550 5600 2550
-Wire Wire Line
 	5600 2550 5600 2100
 Wire Wire Line
 	5600 2100 5950 2100
 Wire Wire Line
-	5500 2650 5950 2650
+	5500 2550 5600 2550
+Wire Wire Line
+	5950 2650 5500 2650
 Connection ~ 5950 2650
 $EndSCHEMATC
