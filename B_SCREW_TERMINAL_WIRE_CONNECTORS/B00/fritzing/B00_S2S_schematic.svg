@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="_x30_"
+   x="0px"
+   y="0px"
+   width="64.898px"
+   height="22.602px"
+   viewBox="0 -0.5 64.898 22.602"
+   xml:space="preserve"
+   sodipodi:docname="B00_S2S_schematic.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+   id="metadata35"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs33" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1360"
+   inkscape:window-height="618"
+   id="namedview31"
+   showgrid="false"
+   inkscape:zoom="5.3468518"
+   inkscape:cx="32.449001"
+   inkscape:cy="11.488026"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="_x30_" />
+<desc
+   oldid="0.0"
+   id="0.0.0">
+	<referenceFile
+   oldid="0.0.0"
+   id="0.0.0.0">Schematic.AD584.svg</referenceFile>
+</desc>
+<line
+   id="connector1pin"
+   fill="none"
+   stroke="#000000"
+   x1="14.401"
+   y1="7.199"
+   x2="0"
+   y2="7.199" />
+<rect
+   id="connector1terminal"
+   x="0"
+   y="7.128"
+   fill="none"
+   width="0.004"
+   height="0.071" />
+<line
+   id="connector2pin"
+   fill="none"
+   stroke="#000000"
+   x1="14.401"
+   y1="14.399"
+   x2="0"
+   y2="14.399" />
+<rect
+   id="connector2terminal"
+   x="0"
+   y="14.396"
+   fill="none"
+   width="0.071"
+   height="0.005" />
+<line
+   id="connector3pin"
+   fill="none"
+   stroke="#000000"
+   x1="64.899"
+   y1="14.4"
+   x2="50.494"
+   y2="14.4" />
+<polygon
+   id="connector3terminal"
+   fill="none"
+   points="64.802,14.396 64.895,14.396 64.895,14.4 64.895,14.4 " />
+<line
+   id="connector4pin"
+   fill="none"
+   stroke="#000000"
+   x1="50.494"
+   y1="7.201"
+   x2="64.895"
+   y2="7.201" />
+<polygon
+   id="connector4terminal"
+   fill="none"
+   points="64.802,7.054 64.808,7.054 64.895,7.201 64.802,7.201 " />
+<text
+   id="_x30_.1.16"
+   transform="matrix(0.8074,0,0,1,15.8372,9.7354)"
+   font-size="4"
+   style="font-size:4px;font-family:ArialMT">A0</text>
+
+<text
+   transform="scale(0.89855439,1.1128987)"
+   font-size="4"
+   id="text12"
+   style="font-size:3.59421754px;font-family:ArialMT;stroke-width:0.89855438"
+   x="46.846355"
+   y="15.217468">B1</text>
+
+<text
+   transform="matrix(0.8074,0,0,1,15.8372,16.9355)"
+   font-size="4"
+   id="text14"
+   style="font-size:4px;font-family:ArialMT">A1</text>
+
+
+
+
+<text
+   transform="matrix(0.8074,0,0,1,24.8083,16.9355)"
+   font-size="4"
+   id="text22"
+   style="font-size:4px;font-family:ArialMT" />
+
+
+<text
+   id="_x30_.1.16_4_"
+   transform="matrix(0.8074,0,0,1,42.2952,9.7354)"
+   font-size="4"
+   style="font-size:4px;font-family:ArialMT">B0</text>
+
+<text
+   id="_x30_.1.22"
+   transform="matrix(0.9059,0,0,1,24.2371,5.7354)"
+   font-size="4"
+   style="font-size:4px;font-family:ArialMT">B00_S2S</text>
+
+<polygon
+   fill="none"
+   stroke="#000000"
+   points="14.401,0 50.494,0.001 50.494,21.602 14.401,21.602 "
+   id="polygon28" />
+</svg>

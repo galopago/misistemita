@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="0.69998956in"
+   height="0.69998956in"
+   viewBox="0 0 17.779731 17.779707"
+   id="svg24"
+   sodipodi:docname="B00_S2S_pcb.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="618"
+     id="namedview26"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="-51.108048"
+     inkscape:cy="58.646737"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       position="3.3145258,17.779707"
+       orientation="0,1"
+       id="guide826"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-8.8091725,13.970204"
+       orientation="0,1"
+       id="guide837"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-1.9525338e-16,17.981245"
+       orientation="1,0"
+       id="guide839"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3.8101918,18.461197"
+       orientation="1,0"
+       id="guide841"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-6.2834757,8.8902118"
+       orientation="0,1"
+       id="guide905"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="13.97019,20.577465"
+       orientation="1,0"
+       id="guide940"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="38.407321,5.3021574"
+       orientation="1,0"
+       id="guide978"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="40.617305,8.0734039"
+       orientation="1,0"
+       id="guide980"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="27.945645,5.188528"
+       orientation="1,0"
+       id="guide1279"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="25.735618,6.6703246"
+       orientation="1,0"
+       id="guide1281"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="22.235188,13.970204"
+       orientation="1,0"
+       id="guide1283"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="8.8901906,8.2082129"
+       orientation="1,0"
+       id="guide1590"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-0.36380199,3.6379899"
+       orientation="0,1"
+       id="guide1053"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="7.342186,22.423377"
+       orientation="1,0"
+       id="guide1102"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="10.880988,18.42156"
+       orientation="1,0"
+       id="guide1104"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     id="copper1"
+     transform="translate(56.223946,20.637495)">
+    <g
+       transform="translate(-56.223946,-1.8819186)"
+       id="copper0">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.31892219"
+         id="rect1001"
+         width="17.779732"
+         height="17.779732"
+         x="-2.3124999e-08"
+         y="-18.755589" />
+      <path
+         style="fill:#9a916c;stroke:none;stroke-width:0"
+         inkscape:connector-curvature="0"
+         id="path5-0-7"
+         d="m 6.3351822,-5.6298778 h 2.032 v 2.032 h -2.032 v -3 z m 0.416,1.016 a 0.60000001,0.60000001 0 1 0 1.2,0 0.60000002,0.60000002 0 1 0 -1.2,0 z" />
+      <circle
+         style="fill:none;stroke:#9a916c;stroke-width:0.41600004"
+         r="0.80800015"
+         cy="-9.72225"
+         cx="3.8126454"
+         connectorname="3"
+         id="connector2pin-3-2-9-3" />
+      <circle
+         style="fill:none;stroke:#9a916c;stroke-width:0.41600004"
+         r="0.80800015"
+         cy="-9.7222509"
+         cx="13.96894"
+         connectorname="3"
+         id="connector2pin-3-2-9-2" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.21428569"
+         id="path1024"
+         cx="13.988331"
+         cy="-14.945931"
+         rx="1.3928568"
+         ry="1.392857" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.21428569"
+         id="path1024-0"
+         cx="3.8100762"
+         cy="-14.945931"
+         rx="1.3928568"
+         ry="1.392857" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.21428569"
+         id="path1024-6"
+         cx="3.8100762"
+         cy="-4.6057525"
+         rx="1.3928568"
+         ry="1.392857" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.21428569"
+         id="path1024-1"
+         cx="13.970075"
+         cy="-4.6057525"
+         rx="1.3928568"
+         ry="1.392857" />
+      <circle
+         style="fill:none;stroke:#9a916c;stroke-width:0.41600004"
+         r="0.80800015"
+         cy="-14.945855"
+         cx="7.3289576"
+         connectorname="3"
+         id="connector2pin-3-2-9-2-5" />
+      <circle
+         style="fill:none;stroke:#9a916c;stroke-width:0.41600004"
+         r="0.80800015"
+         cy="-4.6138778"
+         cx="10.900831"
+         connectorname="3"
+         id="connector2pin-3-2-9-2-54" />
+      <path
+         style="fill:#9a916c;stroke:none;stroke-width:0"
+         inkscape:connector-curvature="0"
+         id="path5-0-7-7"
+         d="M 11.909157,-13.930106 H 9.8771586 v -2.032 h 2.0319984 v 3 z m -0.416,-1.016 a 0.60000001,0.60000001 0 1 0 -1.199999,0 0.60000004,0.60000004 0 1 0 1.199999,0 z" />
+    </g>
+    <rect
+       y="-20.637506"
+       x="-56.223946"
+       height="17.779732"
+       width="17.779732"
+       id="rect1001-6"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.31892219" />
+    <path
+       d="m -49.888764,-7.511796 h 2.032 v 2.032 h -2.032 v -3 z m 0.416,1.016 a 0.60000001,0.60000001 0 1 0 1.2,0 0.60000002,0.60000002 0 1 0 -1.2,0 z"
+       id="path5-0-7-75"
+       inkscape:connector-curvature="0"
+       style="fill:#9a916c;stroke:none;stroke-width:0" />
+    <circle
+       id="connector2pin-3-2-9-3-3"
+       connectorname="3"
+       cx="-52.411301"
+       cy="-11.604168"
+       r="0.80800015"
+       style="fill:none;stroke:#9a916c;stroke-width:0.41600004" />
+    <circle
+       id="connector2pin-3-2-9-2-56"
+       connectorname="3"
+       cx="-42.255005"
+       cy="-11.604169"
+       r="0.80800015"
+       style="fill:none;stroke:#9a916c;stroke-width:0.41600004" />
+    <ellipse
+       ry="1.392857"
+       rx="1.3928568"
+       cy="-16.827848"
+       cx="-42.235615"
+       id="path1024-2"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.21428569" />
+    <ellipse
+       ry="1.392857"
+       rx="1.3928568"
+       cy="-16.827848"
+       cx="-52.413868"
+       id="path1024-0-9"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.21428569" />
+    <ellipse
+       ry="1.392857"
+       rx="1.3928568"
+       cy="-6.4876709"
+       cx="-52.413868"
+       id="path1024-6-1"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.21428569" />
+    <ellipse
+       ry="1.392857"
+       rx="1.3928568"
+       cy="-6.4876709"
+       cx="-42.253872"
+       id="path1024-1-2"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.21428569" />
+    <circle
+       id="connector2pin-3-2-9-2-5-7"
+       connectorname="3"
+       cx="-48.894989"
+       cy="-16.827772"
+       r="0.80800015"
+       style="fill:none;stroke:#9a916c;stroke-width:0.41600004" />
+    <circle
+       id="connector2pin-3-2-9-2-54-0"
+       connectorname="3"
+       cx="-45.323112"
+       cy="-6.4957962"
+       r="0.80800015"
+       style="fill:none;stroke:#9a916c;stroke-width:0.41600004" />
+    <path
+       d="m -44.314789,-15.812025 h -2.031998 v -2.032 h 2.031998 v 3 z m -0.416,-1.016 a 0.60000001,0.60000001 0 1 0 -1.199999,0 0.60000004,0.60000004 0 1 0 1.199999,0 z"
+       id="path5-0-7-7-9"
+       inkscape:connector-curvature="0"
+       style="fill:#9a916c;stroke:none;stroke-width:0" />
+  </g>
+</svg>
