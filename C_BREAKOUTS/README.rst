@@ -25,6 +25,7 @@ C08       C08_BREAKOUT     Breakout for ESP8266 devboards with 30 pins (2x15 2.5
 C09       C09_BREAKOUT     Breakout for USB A Male (USB A Female connected to screw terminals) power pins
 C10       C10_BREAKOUT     Breakout for 0.96" OLED 4 pin I2C display
 C11       C11_BREAKOUT     Breakout for Raspberry Pi Pico Board
+C12       C12_BREAKOUT     Breakout ESP32 Cam Board
 ========  ===============  ============== 
 
 
