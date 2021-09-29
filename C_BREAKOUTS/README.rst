@@ -26,6 +26,7 @@ C09       C09_BREAKOUT     Breakout for USB A Male (USB A Female connected to sc
 C10       C10_BREAKOUT     Breakout for 0.96" OLED 4 pin I2C display
 C11       C11_BREAKOUT     Breakout for Raspberry Pi Pico Board
 C12       C12_BREAKOUT     Breakout for ESP32 Cam Board
+C13       C13_BREAKOUT     Breakout for 18 pin (2x9) header
 ========  ===============  ============== 
 
 
