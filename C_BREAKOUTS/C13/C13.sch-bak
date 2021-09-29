@@ -140,4 +140,22 @@ F 3 "~" H 4400 1800 50  0001 C CNN
 	1    4400 1800
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	3850 1400 4200 1400
+Wire Wire Line
+	3850 1500 4200 1500
+Wire Wire Line
+	3850 1600 4200 1600
+Wire Wire Line
+	3850 1700 4200 1700
+Wire Wire Line
+	3850 1800 4200 1800
+Wire Wire Line
+	3850 1900 4200 1900
+Wire Wire Line
+	3850 2000 4200 2000
+Wire Wire Line
+	3850 2100 4200 2100
+Wire Wire Line
+	3850 2200 4200 2200
 $EndSCHEMATC
