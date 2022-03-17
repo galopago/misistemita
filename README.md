@@ -10,7 +10,7 @@ Prototyping system based on 4 types (A,B,C,D) of simple, pre made PCB that follo
 
 ![TUSISTEMITA](/assets/img/tusistemita.png)
 
-Lea esto en otros idiomas: [English](../../README.md)
+Read this in other languages: [Español](/assets/markdown/README.es.md)
 
 
 ## How to use this repository
