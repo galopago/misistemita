@@ -7,9 +7,9 @@ Sistema de prototipado basado en 4 tipos (A,B,C,D) de PCB simples y prefabricado
 * las conexiones entre tarjetas se realizan mediante borneras de tornillo.
 * hacen uso de cajas a prueba de agua, estandar, baratas y faciles de conseguir
 
-.. image:: tusistemita.png
+![TUSISTEMITA](/assets/img/tusistemita.png)
 
-Lea esto en otros idiomas: `English <../README.rst>`_
+Lea esto en otros idiomas: [English](../../README.md)
 
 ## Como usar este repositorio
 
