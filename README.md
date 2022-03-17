@@ -8,9 +8,9 @@ Prototyping system based on 4 types (A,B,C,D) of simple, pre made PCB that follo
 * uses generic, low cost, easily available waterproof enclosures
 
 
-![TUSISTEMITA](/docs/tusistemita.png)
+![TUSISTEMITA](/assets/img/tusistemita.png)
 
-Read this in other languages: [Español](/docs/README.es.rst)
+Lea esto en otros idiomas: [English](../../README.md)
 
 
 ## How to use this repository
