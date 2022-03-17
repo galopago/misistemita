@@ -22,9 +22,9 @@ The PCB was developed in KiCad V5.1,
 
 * The root folder contains template KiCad files: project, schematic and PCB .
 * meta dir contain some basic info and is required to use the project as a KiCad template
-* A_BACKPLATES :  PCB without components, backplates for waterproof enclosures, etc.
-* B_SCREW_TERMINAL_WIRE_CONNECTORS: To make connections to external power/sensors
-* C_BREAKOUTS: Converter boards between pin headers to screw terminals.
-* D_ELECTRONICS: Multiple passive or active components, complex circuits.
+* a-backplates :  PCB without components, backplates for waterproof enclosures, etc.
+* b-screw-terminal-wire-connectors: To make connections to external power/sensors
+* c-breakouts: Converter boards between pin headers to screw terminals.
+* d-electronics: Multiple passive or active components, complex circuits.
 * docs directory some additional info about the project.
 
