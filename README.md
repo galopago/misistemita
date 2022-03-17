@@ -1,5 +1,5 @@
 
-#ELECTRONIC HARDWARE ROBUST PROTOTYPING SYSTEM
+# ELECTRONIC HARDWARE ROBUST PROTOTYPING SYSTEM
 
 Prototyping system based on 4 types (A,B,C,D) of simple, pre made PCB that follows some rules:
 
