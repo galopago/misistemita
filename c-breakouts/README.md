@@ -1,5 +1,5 @@
 
-# TUSISTEMITA TYPE-C BOARDS: BREAKOUTS
+# MISISTEMITA TYPE-C BOARDS: BREAKOUTS
 
 
 Breakout for converting electronic modules, to screw terminal connectors and 10.16 mm hole spacing

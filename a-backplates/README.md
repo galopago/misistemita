@@ -1,5 +1,5 @@
 
-# TUSISTEMITA TYPE-A BOARDS: BACKPLATES
+# MISISTEMITA TYPE-A BOARDS: BACKPLATES
 
 
 Backplates for generic plastic waterproof enclosures, or backplates to make any other module board compatible with 10.16 hole spacing

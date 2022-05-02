@@ -1,5 +1,5 @@
 
-# TUSISTEMITA TYPE-D BOARDS: ELECTRONICS
+# MISISTEMITA TYPE-D BOARDS: ELECTRONICS
 
 
 Electronic boards with active/passive componentes with screw connectors for input/output and and 10.16 mm hole spacing
