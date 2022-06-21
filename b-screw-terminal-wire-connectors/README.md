@@ -13,9 +13,9 @@ To make connections to external power/sensors
 | DESCRIPTION                | PCB MARK| LINK                                     
 |----------------------------|---------|------
 | 2x2 3.5 mm screw terminals | B00_S2S | [b00](/b-screw-terminal-wire-connectors/b00)
-| 2x4 3.5 mm screw terminals | B01_S2S | b01
-| 2x7 3.5 mm screw terminals | B02_S2S | b02
-| 2x10 3.5 mm screw terminals| B03_S2S | b03
-| 2x3 5.0 mm screw terminals | B04_S2S | b04
-| 2x5 5.0 mm screw terminals | B05_S2S | b05
+| 2x4 3.5 mm screw terminals | B01_S2S | [b01](/b-screw-terminal-wire-connectors/b01)
+| 2x7 3.5 mm screw terminals | B02_S2S | [b02](/b-screw-terminal-wire-connectors/b02)
+| 2x10 3.5 mm screw terminals| B03_S2S | [b03](/b-screw-terminal-wire-connectors/b03)
+| 2x3 5.0 mm screw terminals | B04_S2S | [b04](/b-screw-terminal-wire-connectors/b04)
+| 2x5 5.0 mm screw terminals | B05_S2S | [b05](/b-screw-terminal-wire-connectors/b05)
 
