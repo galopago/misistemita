@@ -8,9 +8,9 @@ Board with screw terminals soldered                                        |Bare
 ![](/b-screw-terminal-wire-connectors/b00/assets/img/solderedterminals.jpg)|![](/b-screw-terminal-wire-connectors/b00/assets/img/barepcb.jpg)|![](/b-screw-terminal-wire-connectors/b00/assets/img/panel.jpg)
 
 
-## Usage
+## Usage example
 
-Consolidation of two power signal pairs into a single connection point for easy commissioning & manteinance
+Consolidation of two power signal pairs into a single connection point for easy commissioning & maintenance
 
 Single connection point|Single point close-up|Power wires connected|Board fixed to enclosure|
 -----------------------|---------------------|---------------------|------------------------|
