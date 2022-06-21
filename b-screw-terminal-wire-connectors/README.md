@@ -5,7 +5,7 @@ For cable marshalling, make connections to external power/sensors in an organize
 
 Different screw terminals wire connectors          |
 ---------------------------------------------------|
-![](/assets/img/screw-terminal-wire-connectors.jpg)|
+![](/b-screw-terminal-wire-connectors/assets/img/screw-terminal-wire-connectors.jpg)|
 
 
 ## Directory structure of every board folder
