@@ -3,8 +3,8 @@
 
 For cable marshalling, make connections to external power/sensors in an organized way
 
-Different screw terminals wire connectors          |
----------------------------------------------------|
+Different screw terminals wire connectors                                           |
+------------------------------------------------------------------------------------|
 ![](/b-screw-terminal-wire-connectors/assets/img/screw-terminal-wire-connectors.jpg)|
 
 
