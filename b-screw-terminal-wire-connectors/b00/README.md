@@ -3,9 +3,9 @@
 
 For cable marshalling, make connections to external power/sensors in an organized way
 
-Board with screw terminals soldered                                        |Bare single PCB|
----------------------------------------------------------------------------|---------------|
-![](/b-screw-terminal-wire-connectors/b00/assets/img/solderedterminals.jpg)|![](/b-screw-terminal-wire-connectors/b00/assets/img/barepcb.jpg)|
+Board with screw terminals soldered                                        |Bare single PCB|Panelized PCB|
+---------------------------------------------------------------------------|---------------|-------------|
+![](/b-screw-terminal-wire-connectors/b00/assets/img/solderedterminals.jpg)|![](/b-screw-terminal-wire-connectors/b00/assets/img/barepcb.jpg)|![](/b-screw-terminal-wire-connectors/b00/assets/img/panel.jpg)
 
 
 ## Directory structure of every board folder
