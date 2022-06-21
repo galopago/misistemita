@@ -8,7 +8,13 @@ Board with screw terminals soldered                                        |Bare
 ![](/b-screw-terminal-wire-connectors/b00/assets/img/solderedterminals.jpg)|![](/b-screw-terminal-wire-connectors/b00/assets/img/barepcb.jpg)|![](/b-screw-terminal-wire-connectors/b00/assets/img/panel.jpg)
 
 
-## Directory structure of every board folder
+## Usage
+
+Consolidation of two power signal pairs into a single connection point for easy commissioning & manteinance
+
+Single connection point|
+-----------------------|
+![](/b-screw-terminal-wire-connectors/b00/assets/img/singlepoint.jpg)|
 
 * The root contains KiCad files: project, schematic and PCB.
 * gerber/single directory contains ready to manufacture files, for a single board.
