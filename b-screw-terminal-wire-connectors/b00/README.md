@@ -12,9 +12,9 @@ Board with screw terminals soldered                                        |Bare
 
 Consolidation of two power signal pairs into a single connection point for easy commissioning & manteinance
 
-Single connection point|
------------------------|
-![](/b-screw-terminal-wire-connectors/b00/assets/img/singlepoint.jpg)|
+Single connection point|Single point close-up|
+-----------------------|---------------------|
+![](/b-screw-terminal-wire-connectors/b00/assets/img/singlepoint.jpg)|![](/b-screw-terminal-wire-connectors/b00/assets/img/singlepointcloseup.jpg)|
 
 * The root contains KiCad files: project, schematic and PCB.
 * gerber/single directory contains ready to manufacture files, for a single board.
