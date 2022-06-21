@@ -1,11 +1,11 @@
 
-# MISISTEMITA TYPE-B BOARDS: SCREW TERMINALS WIRE CONNECTORS
+# 2x2 3.5 mm SCREW TERMINAL BOARD
 
 For cable marshalling, make connections to external power/sensors in an organized way
 
-Different screw terminals wire connectors                                           |
-------------------------------------------------------------------------------------|
-![](/b-screw-terminal-wire-connectors/assets/img/screw-terminal-wire-connectors.jpg)|
+Board with screw terminals soldered                                        |
+---------------------------------------------------------------------------|
+![](/b-screw-terminal-wire-connectors/b00/assets/img/solderedterminals.jpg)|
 
 
 ## Directory structure of every board folder
