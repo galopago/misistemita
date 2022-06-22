@@ -10,7 +10,7 @@ Board with screw terminals soldered                                        |Bare
 
 ## Usage example
 
-Consolidation of two power signal pairs into a single connection point for easy commissioning & maintenance
+Consolidation of two power signal trio (line, neutral & ground) into a single connection point for easy commissioning & maintenance
 
 Single connection point|Single point close-up|Power wires connected|Board fixed to enclosure|
 -----------------------|---------------------|---------------------|------------------------|
