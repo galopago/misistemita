@@ -8,7 +8,7 @@ Board with screw terminals soldered                                        |Bare
 ![](/b-screw-terminal-wire-connectors/b01/assets/img/solderedterminals.jpg)|![](/b-screw-terminal-wire-connectors/b01/assets/img/barepcb.jpg)|![](/b-screw-terminal-wire-connectors/b01/assets/img/panel.jpg)
 
 
-## Usage example
+## Usage example 1
 
 Consolidation of two power signal trio (line, neutral & ground) into a single connection point for easy commissioning & maintenance
 
