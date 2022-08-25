@@ -10,7 +10,7 @@ Board with screw terminals soldered                                        |Bare
 
 ## Usage example 1
 
-Consolidation of two power signal trio (line, neutral & ground) into a single connection point for easy commissioning & maintenance
+Power input and external powered sensor, i.e. I2C, SPI, RS485, etc. Up to 3 signal wires, plus power and ground for the sensor. Quick and easy commissioning thanks to the power connections for the sensor already carried out the right side of the screw terminal.
 
 Single connection point|Single point close-up|Power wires connected|Board fixed to enclosure|
 -----------------------|---------------------|---------------------|------------------------|
