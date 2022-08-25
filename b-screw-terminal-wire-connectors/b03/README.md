@@ -10,7 +10,7 @@ Board with screw terminals soldered                                        |Bare
 
 ## Usage example 1
 
-Power input and external powered sensor, i.e. I2C, SPI, RS485, etc. Up to 3 signal wires, plus power and ground for the sensor. Quick and easy commissioning thanks to the power connections for the sensor already carried out the right side of the screw terminal.
+Power input and external two powered sensor, i.e. OneWire, I2C, RS485, etc. Up to 2 signal wires, plus power and ground for the two sensors. Quick and easy commissioning thanks to the power connections for the sensors already carried out the right side of the screw terminal.
 
 Single connection point|Single point close-up|Power wires connected|Board fixed to enclosure|
 -----------------------|---------------------|---------------------|------------------------|
