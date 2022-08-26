@@ -14,5 +14,5 @@ Power input and two external powered sensors, i.e. OneWire, I2C, RS485, etc. Up 
 
 Single connection point|Single point close-up|Power wires connected|Board fixed to enclosure|
 -----------------------|---------------------|---------------------|------------------------|
-![](/b-screw-terminal-wire-connectors/b03/assets/img/singlepoint.jpg)|![](/b-screw-terminal-wire-connectors/b03/assets/img/singlepointcloseup.jpg)|![](/b-screw-terminal-wire-connectors/b02/assets/img/wiresconnection.jpg)|![](/b-screw-terminal-wire-connectors/b03/assets/img/boardfixed.jpg)|
+![](/b-screw-terminal-wire-connectors/b03/assets/img/singlepoint.jpg)|![](/b-screw-terminal-wire-connectors/b03/assets/img/singlepointcloseup.jpg)|![](/b-screw-terminal-wire-connectors/b03/assets/img/wiresconnection.jpg)|![](/b-screw-terminal-wire-connectors/b03/assets/img/boardfixed.jpg)|
 
