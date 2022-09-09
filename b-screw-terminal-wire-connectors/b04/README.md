@@ -10,7 +10,7 @@ Board with screw terminals soldered                                        |Bare
 
 ## Usage example 1
 
-Consolidation of two power signal trio (line, neutral & ground) into a single connection point for easy commissioning & maintenance. Useful for thicker cables and higher power than the managed for the 3.5mm screw terminals
+Consolidation of two power signal trio (line, neutral & ground) into a single connection point for easy commissioning & maintenance. Useful for thicker cables and higher power than the managed for the screw terminals with 3.5 mm pitch 
 
 Single connection point|Single point close-up|Power wires connected|Board fixed to enclosure|
 -----------------------|---------------------|---------------------|------------------------|
