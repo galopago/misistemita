@@ -14,5 +14,5 @@ Consolidation of two power signal trio (line, neutral & ground) into a single co
 
 Single connection point|Single point close-up|Power wires connected|Board fixed to enclosure|
 -----------------------|---------------------|---------------------|------------------------|
-![](/b-screw-terminal-wire-connectors/b04/assets/img/singlepoint.jpg)|![](/b-screw-terminal-wire-connectors/b04/assets/img/singlepointcloseup.jpg)|![](/b-screw-terminal-wire-connectors/b04/assets/img/wiresconnection.jpg)|![](/b-screw-terminal-wire-connectors/b04/assets/img/boardfixed.jpg)|
+![](/b-screw-terminal-wire-connectors/b05/assets/img/singlepoint.jpg)|![](/b-screw-terminal-wire-connectors/b05/assets/img/singlepointcloseup.jpg)|![](/b-screw-terminal-wire-connectors/b05/assets/img/wiresconnection.jpg)|![](/b-screw-terminal-wire-connectors/b05/assets/img/boardfixed.jpg)|
 
