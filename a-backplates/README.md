@@ -12,15 +12,16 @@ Different backplate boards                  |
 
 * The root contains KiCad files: project, schematic and PCB.
 * gerber/single directory contains ready to manufacture files, for a single board.
-* gerber/panel_100mmx100mm directory contains ready to manufacture files that fits in a 100mm x 100mm panel (use Vcuts!).
-* assets/pdf drilling patterns for CNC automated and manual manufacturing
+* gerber/panel directory contains PCB ready to manufacture files that fits in a 100mm x 100mm panel (use Vcuts!).
+* assets/pdf directory contains drilling patterns for CNC automated and manual manufacturing
+* assets/img directory contains support files for readme.md
 
-| FOLDER | PCB MARK      | DESCRIPTION                                     
-|--------|---------------|---------------------------------------------------
-| a00    | A00_BACKPLATE | Backplate for generic 83 x 58 x 33 mm waterproof enclosure
-| a01    | A01_BACKPLATE | Backplate for generic 158 x 90 x 60 mm waterproof enclosure
-| a02    | A02_BACKPLATE | Backplate for generic 200 x 120 x 75 mm waterproof enclosure
-| a03    | A03_BACKPLATE | Backplate for Raspberry Pi Zero to 10.16 mm spaced holes
-| a04    | A04_BACKPLATE | Backplate for Raspberry Pi 3B+ to 10.16 mm spaced holes
-| a05    | A05_BACKPLATE | Backplate for PSU YXDY 5V 3.8A S-20W-5 to 10.16 mm spaced holes
+| DESCRIPTION                                                     | PCB MARK      | LINK                                     
+|-----------------------------------------------------------------|---------------|------
+| Backplate for generic 83 x 58 x 33 mm waterproof enclosure      | A00_BACKPLATE |  a00
+| Backplate for generic 158 x 90 x 60 mm waterproof enclosure     | A01_BACKPLATE |  a01
+| Backplate for generic 200 x 120 x 75 mm waterproof enclosure    | A02_BACKPLATE |  a02
+| Backplate for Raspberry Pi Zero to 10.16 mm spaced holes        | A03_BACKPLATE |  a03
+| Backplate for Raspberry Pi 3B+ to 10.16 mm spaced holes         | A04_BACKPLATE |  a04
+| Backplate for PSU YXDY 5V 3.8A S-20W-5 to 10.16 mm spaced holes | A05_BACKPLATE |  a05
 
