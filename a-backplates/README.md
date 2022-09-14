@@ -11,7 +11,7 @@ Different backplate boards                  |
 ## Directory structure of every board folder
 
 * The root contains KiCad files: project, schematic and PCB.
-* gerber/single directory contains ready to manufacture files, for a single board.
+* gerber/single directory contains PCB ready to manufacture files, for a single board.
 * gerber/panel directory contains PCB ready to manufacture files that fits in a 100mm x 100mm panel (use Vcuts!).
 * assets/pdf directory contains drilling patterns for CNC automated and manual manufacturing
 * assets/img directory contains support files for readme.md
