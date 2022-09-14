@@ -4,8 +4,8 @@
 
 Backplates for generic plastic waterproof enclosures, or backplates to make any other module board compatible with 10.16 hole spacing
 
-Different screw terminals wire connectors                                           |
-------------------------------------------------------------------------------------|
+Different backplate boards                  |
+--------------------------------------------|
 ![](/a-backplates/assets/img/backplates.jpg)|
 
 ## Directory structure of every board folder
