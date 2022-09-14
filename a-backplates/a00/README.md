@@ -1,5 +1,5 @@
 
-# BACKPLATE FOR GENERIC 83x58 mm WATERPROOF ENCLOSURE
+# BACKPLATE FOR GENERIC 83x58 mm WATERPROOF ENCLOSURE, 6 points for fixing into the enclosure and 29 holes 10.10 mm spaced, for mounting other boards
 
 For cable marshalling, make connections to external power/sensors in an organized way
 
