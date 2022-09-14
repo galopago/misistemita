@@ -9,6 +9,7 @@ Backplates for generic plastic waterproof enclosures, or backplates to make any 
 * The root contains KiCad files: project, schematic and PCB.
 * gerber/single directory contains ready to manufacture files, for a single board.
 * gerber/panel_100mmx100mm directory contains ready to manufacture files that fits in a 100mm x 100mm panel (use Vcuts!).
+* assets/pdf drilling patterns for CNC automated and manual manufacturing
 
 | FOLDER | PCB MARK      | DESCRIPTION                                     
 |--------|---------------|---------------------------------------------------
