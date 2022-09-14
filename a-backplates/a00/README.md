@@ -3,9 +3,9 @@
 
 For cable marshalling, make connections to external power/sensors in an organized way
 
-Bare single PCB                                        |Panelized PCB                                |Backplate installed in box                 |
--------------------------------------------------------|---------------------------------------------|-------------------------------------------|
-![](/a-backplates/a00/assets/img/barepcb.jpg)|![](/a-backplates/b00/assets/img/panel.jpg)|![](/a-backplates/b00/assets/img/installedinbox.jpg)|
+Bare single PCB                              |Panelized PCB                                |Backplate installed in box                        |
+---------------------------------------------|---------------------------------------------|--------------------------------------------------|
+![](/a-backplates/a00/assets/img/barepcb.jpg)|![](/a-backplates/a00/assets/img/panel.jpg)|![](/a-backplates/a00/assets/img/installedinbox.jpg)|
 
 
 ## Usage example
