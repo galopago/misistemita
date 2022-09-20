@@ -8,11 +8,13 @@ Bare single PCB                              |Panelized PCB                     
 ![](/a-backplates/a00/assets/img/barepcb.jpg)|![](/a-backplates/a00/assets/img/panel.jpg)|![](/a-backplates/a00/assets/img/installedinbox.jpg)|
 
 
-## Usage example
+## Usage example #1
 
-Consolidation of two power signal pairs into a single connection point for easy commissioning & maintenance
+Backplate hosting a relay board, one cable with low power signals, and other cable to swithc a higher power load
 
-Single connection point|Single point close-up|Power wires connected|Board fixed to enclosure|
------------------------|---------------------|---------------------|------------------------|
-![](/b-screw-terminal-wire-connectors/b00/assets/img/singlepoint.jpg)|![](/b-screw-terminal-wire-connectors/b00/assets/img/singlepointcloseup.jpg)|![](/b-screw-terminal-wire-connectors/b00/assets/img/wiresconnection.jpg)|![](/b-screw-terminal-wire-connectors/b00/assets/img/boardfixed.jpg)|
+
+
+Lid open                                     |Lid Closed                                 |
+---------------------------------------------|-------------------------------------------|
+![](/a-backplates/a00/assets/img/lidopen.jpg)|![](/a-backplates/a00/assets/img/lidclosed.jpg)|
 
