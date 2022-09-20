@@ -10,11 +10,11 @@ Bare single PCB                              |Panelized PCB                     
 
 ## Usage example #1
 
-Backplate hosting a relay board, one cable with low power signals, and other cable to swithc a higher power load
+Backplate hosting a relay board, one cable with low power signals, and other cable to switch a higher power load
 
 
 
-Lid open                                     |Lid Closed                                 |
----------------------------------------------|-------------------------------------------|
+Lid open                                     |Lid Closed                                     |
+---------------------------------------------|-----------------------------------------------|
 ![](/a-backplates/a00/assets/img/lidopen.jpg)|![](/a-backplates/a00/assets/img/lidclosed.jpg)|
 
