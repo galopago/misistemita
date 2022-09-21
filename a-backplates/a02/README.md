@@ -1,5 +1,5 @@
 
-# BACKPLATE FOR GENERIC 200x120 mm WATERPROOF ENCLOSURE, 21 points for fixing into the enclosure and 178 holes 10.10 mm spaced, for mounting other boards
+# BACKPLATE FOR GENERIC 200x120 mm WATERPROOF ENCLOSURE, 21 points for fixing into the enclosure and 178 holes 10.16 mm spaced, for mounting other boards
 
 Backplates for generic plastic waterproof enclosures, a canvas for hosting smaller compatible boards.
 

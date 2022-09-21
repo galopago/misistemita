@@ -1,5 +1,5 @@
 
-# BACKPLATE FOR GENERIC 83x58 mm WATERPROOF ENCLOSURE, 6 points for fixing into the enclosure and 29 holes 10.10 mm spaced, for mounting other boards
+# BACKPLATE FOR GENERIC 83x58 mm WATERPROOF ENCLOSURE, 6 points for fixing into the enclosure and 29 holes 10.16 mm spaced, for mounting other boards
 
 Backplate for generic plastic waterproof enclosure, a canvas for hosting smaller compatible boards.
 
