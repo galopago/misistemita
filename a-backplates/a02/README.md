@@ -13,9 +13,17 @@ Bare single PCB                              |Backplate installed in box        
 Backplate hosting a microcontroller, PSU, level converter, and screw terminal boards.
 
 
-
 Lid open                                     |Lid Closed                                       |
 ---------------------------------------------|-------------------------------------------------|
 ![](/a-backplates/a02/assets/img/lidopen1.jpg)|![](/a-backplates/a02/assets/img/lidclosed1.jpg)|
 
+
+## Usage example #1
+
+Backplate hosting a Raspberry Pi, and POE PSU.
+
+
+Lid open                                     |Lid Closed                                       |
+---------------------------------------------|-------------------------------------------------|
+![](/a-backplates/a02/assets/img/lidopen2.jpg)|![](/a-backplates/a02/assets/img/lidclosed2.jpg)|
 
