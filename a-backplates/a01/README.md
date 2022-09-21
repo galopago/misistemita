@@ -10,13 +10,13 @@ Bare single PCB                              |Backplate installed in box        
 
 ## Usage example #1
 
-Backplate hosting a relay board, one cable with low power signals, and the other cable for switching a higher power load
+Backplate hosting a microcontroller board wired to enclosure mount sensor and power connectors.
 
 
 
 Lid open                                     |Lid Closed                                       |
 ---------------------------------------------|-------------------------------------------------|
-![](/a-backplates/a00/assets/img/lidopen1.jpg)|![](/a-backplates/a00/assets/img/lidclosed1.jpg)|
+![](/a-backplates/a01/assets/img/lidopen1.jpg)|![](/a-backplates/a01/assets/img/lidclosed1.jpg)|
 
 
 ## Usage example #2
