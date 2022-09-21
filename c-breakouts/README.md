@@ -18,17 +18,17 @@ Different breakout boards                                           |
 | DESCRIPTION                                    | PCB MARK     | LINK                                     
 |------------------------------------------------|--------------|------
 | Breakout for power meter PZEM-004T-100A (V3.0) | C00_BREAKOUT | c00
-| c01    | C01_BREAKOUT | Breakout for RAK811 LoRa breakboard
-| c02    | C02_BREAKOUT | Breakout for RAK4200 LoRa breakboard
-| c03    | C03_BREAKOUT | Breakout for 2xAA R6 type batteries
-| c04    | C04_BREAKOUT | Breakout for Arduino Nano
-| c05    | C05_BREAKOUT | Breakout for Raspberry Pi 40 pin (2x20) header
-| c06    | C06_BREAKOUT | Breakout for 21 mm x 23 mm prototyping area
-| c07    | C07_BREAKOUT | Breakout for ESP32 devboards with 38 pins (2x19 2.54mm pitch) or less and 25,4 mm separation between headers  
-| c08    | C08_BREAKOUT | Breakout for ESP8266 devboards with 30 pins (2x15 2.54mm pitch) or less and ( 22,86 or 27.94mm ) separation between headers
-| c09    | C09_BREAKOUT | Breakout for USB A Male (USB A Female connected to screw terminals) power pins
-| c10    | C10_BREAKOUT | Breakout for 0.96" OLED 4 pin I2C display
-| c11    | C11_BREAKOUT | Breakout for Raspberry Pi Pico Board
-| c12    | C12_BREAKOUT | Breakout for ESP32 Cam Board
-| c13    | C13_BREAKOUT | Breakout for 18 pin (2x9) header
+| Breakout for RAK811 LoRa breakboard            | C01_BREAKOUT | c01
+| Breakout for RAK4200 LoRa breakboard           | C02_BREAKOUT | c02
+| Breakout for 2xAA R6 type batteries            | C03_BREAKOUT | c03
+| Breakout for Arduino Nano                      | C04_BREAKOUT | c04
+| Breakout for Raspberry Pi 40 pin (2x20) header | C05_BREAKOUT | c05
+| Breakout for 21 mm x 23 mm prototyping area    | C06_BREAKOUT | c06
+| Breakout for ESP32 devboards with 38 pins (2x19 2.54mm pitch) or less and 25,4 mm separation between headers                | C07_BREAKOUT | c07  
+| Breakout for ESP8266 devboards with 30 pins (2x15 2.54mm pitch) or less and ( 22,86 or 27.94mm ) separation between headers | C08_BREAKOUT | c08 
+| Breakout for USB A Male (USB A Female connected to screw terminals) power pins | C09_BREAKOUT | c09
+| Breakout for 0.96" OLED 4 pin I2C display      | C10_BREAKOUT | c10
+| Breakout for Raspberry Pi Pico Board           | C11_BREAKOUT | c11
+| Breakout for ESP32 Cam Board                   | C12_BREAKOUT | c12
+| Breakout for 18 pin (2x9) header               | C13_BREAKOUT | c13
 
