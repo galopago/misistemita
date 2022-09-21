@@ -1,11 +1,11 @@
 
-# BACKPLATE FOR CONVERTINGA A RASPBERRY PI ZERO TO GENERIC 10.10 mm spaced holes. 4 points for fixing into the Raspberry Pi Zero and 15 holes 10.10 mm spaced, for mounting on compatible backplates
+# BACKPLATE FOR CONVERTINGA A RASPBERRY PI ZERO TO GENERIC 10.10 mm spaced holes. 4 points for fixing into the Raspberry Pi Zero and 15 holes 10.16 mm spaced, for mounting on compatible backplates
 
 Backplate for generic plastic waterproof enclosure, a canvas for hosting smaller compatible boards.
 
-Bare single PCB                              |Panelized PCB                              |Backplate installed in box                        |
+Bare single PCB                              |Board compatible now with 10.16 pitch      |Board installed in panel                          |
 ---------------------------------------------|-------------------------------------------|--------------------------------------------------|
-![](/a-backplates/a03/assets/img/barepcb.jpg)|![](/a-backplates/a03/assets/img/panel.jpg)|![](/a-backplates/a03/assets/img/installedinboard.jpg)|
+![](/a-backplates/a03/assets/img/barepcb.jpg)|![](/a-backplates/a03/assets/img/installedinboard.jpg)|![](/a-backplates/a03/assets/img/installedinpanel.jpg)|
 
 
 ## Usage example #1
