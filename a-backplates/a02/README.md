@@ -18,7 +18,7 @@ Lid open                                     |Lid Closed                        
 ![](/a-backplates/a02/assets/img/lidopen1.jpg)|![](/a-backplates/a02/assets/img/lidclosed1.jpg)|
 
 
-## Usage example #1
+## Usage example #2
 
 Backplate hosting a Raspberry Pi, and POE PSU.
 

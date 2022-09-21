@@ -10,12 +10,10 @@ Bare single PCB                              |Board compatible now with 10.16 pi
 
 ## Usage example #1
 
-Backplate hosting a Raspberry Pi Zero board with panel converter, wired to enclosure mount sensor and power connectors.
-
+Backplate hosting a Raspberry Pi, and POE PSU.
 
 
 Lid open                                     |Lid Closed                                       |
 ---------------------------------------------|-------------------------------------------------|
-![](/a-backplates/a03/assets/img/lidopen1.jpg)|![](/a-backplates/a03/assets/img/lidclosed1.jpg)|
-
+![](/a-backplates/a04/assets/img/lidopen2.jpg)|![](/a-backplates/a04/assets/img/lidclosed2.jpg)|
 
