@@ -1,7 +1,7 @@
 
 # BACKPLATE FOR GENERIC 83x58 mm WATERPROOF ENCLOSURE, 6 points for fixing into the enclosure and 29 holes 10.10 mm spaced, for mounting other boards
 
-For cable marshalling, make connections to external power/sensors in an organized way
+Backplate for generic plastic waterproof enclosure, a canvas for hosting smaller compatible boards.
 
 Bare single PCB                              |Panelized PCB                              |Backplate installed in box                        |
 ---------------------------------------------|-------------------------------------------|--------------------------------------------------|
