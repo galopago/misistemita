@@ -15,5 +15,5 @@ Backplate hosting a Raspberry Pi, and POE PSU.
 
 Lid open                                     |Lid Closed                                       |
 ---------------------------------------------|-------------------------------------------------|
-![](/a-backplates/a04/assets/img/lidopen2.jpg)|![](/a-backplates/a04/assets/img/lidclosed2.jpg)|
+![](/a-backplates/a04/assets/img/lidopen1.jpg)|![](/a-backplates/a04/assets/img/lidclosed1.jpg)|
 
