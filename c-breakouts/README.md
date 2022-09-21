@@ -1,18 +1,23 @@
 
 # MISISTEMITA TYPE-C BOARDS: BREAKOUTS
 
-
 Breakout for converting electronic modules, to screw terminal connectors and 10.16 mm hole spacing
+
+Different breakout boards                                           |
+------------------------------------------------------------------------------------|
+![](/c-breakouts/assets/img/breakouts.jpg)|
+
 
 ## Directory structure of every board folder
 
 * The root contains KiCad files: project, schematic and PCB.
 * gerber/single directory contains ready to manufacture files, for a single board.
 * gerber/panel_100mmx100mm directory contains ready to manufacture files that fits in a 100mm x 100mm panel (use Vcuts!).
+* assets folder contains support files for readme.md
 
-| FOLDER | PCB MARK     | DESCRIPTION                                     
-|--------|--------------|-----------------------------
-| c00    | C00_BREAKOUT | Breakout for power meter PZEM-004T-100A (V3.0)
+| DESCRIPTION                                    | PCB MARK     | LINK                                     
+|------------------------------------------------|--------------|------
+| Breakout for power meter PZEM-004T-100A (V3.0) | C00_BREAKOUT | c00
 | c01    | C01_BREAKOUT | Breakout for RAK811 LoRa breakboard
 | c02    | C02_BREAKOUT | Breakout for RAK4200 LoRa breakboard
 | c03    | C03_BREAKOUT | Breakout for 2xAA R6 type batteries
