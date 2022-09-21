@@ -10,7 +10,7 @@ Bare single PCB                              |Board compatible now with 10.16 pi
 
 ## Usage example #1
 
-Backplate hosting a relay board, one cable with low power signals, and the other cable for switching a higher power load
+Backplate hosting a Raspberry Pi Zero board with panel converter, wired to enclosure mount sensor and power connectors.
 
 
 
