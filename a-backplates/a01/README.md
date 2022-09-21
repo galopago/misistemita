@@ -19,12 +19,3 @@ Lid open                                     |Lid Closed                        
 ![](/a-backplates/a01/assets/img/lidopen1.jpg)|![](/a-backplates/a01/assets/img/lidclosed1.jpg)|
 
 
-## Usage example #2
-
-Backplate hosting a screw terminal board, for easy cable junction management
-
-
-
-Lid open                                     |Lid Closed                                       |
----------------------------------------------|-------------------------------------------------|
-![](/a-backplates/a00/assets/img/lidopen2.jpg)|![](/a-backplates/a00/assets/img/lidclosed2.jpg)|
