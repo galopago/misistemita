@@ -13,7 +13,7 @@ Connectors installed                         |Module and breakboard             
 
 Module attached to breakboard                |Set attached to a 10.16 pitch backplate    |
 ---------------------------------------------|-------------------------------------------|
-![](/c-breakouts/c00/assets/img/barepcb.jpg) |![](/c-breakouts/c00/assets/img/moduleinbackplate.jpg) |
+![](/c-breakouts/c00/assets/img/moduleattached.jpg) |![](/c-breakouts/c00/assets/img/moduleinbackplate.jpg) |
 
 
 
