@@ -1,5 +1,5 @@
 
-# BACKPLATE FOR GENERIC PZEM-004T-100A V3.0 power meter, 4 points for fixing into the moduoe and 28 holes 10.16 mm spaced, for mounting on the backplate
+# Backplate for PZEM-004T-100A V3.0 power meter, 4 points for fixing into the meter board and 28 holes 10.16 mm spaced, for mounting on the backplate
 
 Breakout board for PZEM-004T-100A V3.0 single phase power meter. This board offers mechanical compatibility converting it to 10.16 spaced holes and provides screw terminals for easy commisioning and updating. 
 
