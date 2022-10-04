@@ -22,7 +22,7 @@ Module attached to breakboard                |Set attached to a 10.16 pitch back
 WiFi power meter, based on PZEM-004T-100A and a compact ESP8266 module (wemos D1 Mini). The assembly included a small DC-DC converter to power the ESP8266 module, also screw terminals for power input.
 
 
-All elements wired and installed in backplate       |ready to enclose                                 |
+All elements wired and installed on backplate       |Ready to enclose                                 |
 ----------------------------------------------------|-------------------------------------------------|
 ![](/c-breakouts/c00/assets/img/componentswired.jpg)|![](/c-breakouts/c00/assets/img/readytoenclose.jpg)|
 
