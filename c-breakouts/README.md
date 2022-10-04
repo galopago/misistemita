@@ -17,7 +17,7 @@ Different breakout boards                                           |
 
 | DESCRIPTION                                    | PCB MARK     | LINK                                     
 |------------------------------------------------|--------------|------
-| Breakout for power meter PZEM-004T-100A (V3.0) | C00_BREAKOUT | c00
+| Breakout for power meter PZEM-004T-100A (V3.0) | C00_BREAKOUT | [c00](/c-breakouts/c00)
 | Breakout for RAK811 LoRa breakboard            | C01_BREAKOUT | c01
 | Breakout for RAK4200 LoRa breakboard           | C02_BREAKOUT | c02
 | Breakout for 2xAA R6 type batteries            | C03_BREAKOUT | c03
