@@ -4,6 +4,10 @@
 
 Electronic boards with active/passive componentes soldered, with screw connectors for input/output and and 10.16 mm hole spacing mounting
 
+Different screw terminals wire connectors                                           |
+------------------------------------------------------------------------------------|
+![](/d-electronics/assets/img/electronic-boards.jpg)|
+
 ## Directory structure of every board folder
 
 * The root contains KiCad files: project, schematic and PCB.
