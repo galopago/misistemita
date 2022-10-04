@@ -1,5 +1,5 @@
 
-# Backplate for PZEM-004T-100A V3.0 power meter, 4 points for fixing into the meter board and 28 holes 10.16 mm spaced, for mounting on the backplate
+# Backplate for PZEM-004T-100A V3.0 power meter, 4 points for fixing onto the meter board and 28 holes 10.16 mm spaced, for mounting onto the backplate
 
 Breakout board for PZEM-004T-100A V3.0 single phase power meter. This board offers mechanical compatibility converting it to 10.16 spaced holes and provides screw terminals for easy commisioning and updating. 
 
@@ -19,7 +19,7 @@ Module attached to breakboard                |Set attached to a 10.16 pitch back
 
 ## Usage example #1
 
-WiFi Power Meter, based on PZEM-004T-100A and a compact ESP8266 module (wemos D1 Mini). The set included a small DC-DC converter to power the ESP8266 module, also screw terminals for power input.
+WiFi power meter, based on PZEM-004T-100A and a compact ESP8266 module (wemos D1 Mini). The assembly included a small DC-DC converter to power the ESP8266 module, also screw terminals for power input.
 
 
 All elements wired and installed in backplate       |ready to enclose                                 |
