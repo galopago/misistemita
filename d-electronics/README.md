@@ -4,7 +4,7 @@
 
 Electronic boards with active/passive componentes soldered, with screw connectors for input/output and and 10.16 mm hole spacing mounting
 
-Different screw terminals wire connectors                                           |
+Different electronic boards                                                         |
 ------------------------------------------------------------------------------------|
 ![](/d-electronics/assets/img/electronic-boards.jpg)|
 
