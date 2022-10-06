@@ -11,9 +11,9 @@ Board with components soldered                                             |Bare
 
 ## Usage example 1
 
-Wi-Fi relay equipped with an ESP32 module powered by AC 100-240 V, with dry contact output. The microcontroller and relay boards are powered by a 5 V power supply board.
+PoE weaterproof camera, equipped with a Raspberry Pi B+ module powered throug the network cable, Poe board provides power to the Rpi module, and passthrogh of ethernet signal.
 
-AC-DC power board at bottom|Power wires connected|Backplate fixed to enclosure|
+PoE board at top left|Power wires connected|External connections and backplate fixed to enclosure|
 ---------------------------|---------------------|----------------------------|
 ![](/d-electronics/d00/assets/img/singlepoint.jpg)|![](/d-electronics/d00/assets/img/wiresconnection.jpg)|![](/d-electronics/d00/assets/img/boardfixed.jpg)|
 
