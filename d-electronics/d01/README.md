@@ -13,7 +13,7 @@ Board with components soldered                                             |Bare
 
 PoE weaterproof camera, equipped with a Raspberry Pi 3 B+ module powered through the network cable, PoE board provides power to the Rpi module, and pass-through of Ethernet signal.
 
-PoE board on backplate at the left|Power wires connected|External connections and backplate fixed to enclosure|
+PoE board on backplate at the left|Power and data wires connected|External connections and backplate fixed to enclosure|
 ---------------------------|---------------------|----------------------------|
 ![](/d-electronics/d01/assets/img/singlepoint.jpg)|![](/d-electronics/d01/assets/img/wiresconnection.jpg)|![](/d-electronics/d01/assets/img/boardfixed.jpg)|
 
