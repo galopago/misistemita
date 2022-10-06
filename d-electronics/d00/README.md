@@ -12,7 +12,7 @@ Board with components soldered                                             |Bare
 
 ## Usage example 1
 
-WiFI relay using an ESP32 module powered by AC 100-240 V, dry contacts oputput. The microcontroller and relay boards are powered by a 3V power board
+WiFi relay using an ESP32 module powered by AC 100-240 V, dry contacts oputput. The microcontroller and relay boards are powered by a 3V power board
 
 AC-DC power board at bottom|Power wires connected|Backplate fixed to enclosure|
 ---------------------------|---------------------|----------------------------|
