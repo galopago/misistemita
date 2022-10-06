@@ -15,5 +15,5 @@ PoE weaterproof camera, equipped with a Raspberry Pi B+ module powered throug th
 
 PoE board at top left|Power wires connected|External connections and backplate fixed to enclosure|
 ---------------------------|---------------------|----------------------------|
-![](/d-electronics/d00/assets/img/singlepoint.jpg)|![](/d-electronics/d00/assets/img/wiresconnection.jpg)|![](/d-electronics/d00/assets/img/boardfixed.jpg)|
+![](/d-electronics/d01/assets/img/singlepoint.jpg)|![](/d-electronics/d01/assets/img/wiresconnection.jpg)|![](/d-electronics/d01/assets/img/boardfixed.jpg)|
 
