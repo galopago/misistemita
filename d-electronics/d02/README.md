@@ -11,7 +11,7 @@ Board with components soldered                                             |Bare
 
 ## Usage example 1
 
-PoE weaterproof camera, equipped with a Raspberry Pi 3 B+ module powered through the network cable, PoE board provides power to the Rpi module, and pass-through of Ethernet signal.
+3.3 V, 800 mA regulator board. Waterproof enclosure, mounting with or withouth backplate
 
 Mounted directly on enclosure|Mounted on compatible backplate|External connections and backplate fixed to enclosure|
 ---------------------------|---------------------|----------------------------|
