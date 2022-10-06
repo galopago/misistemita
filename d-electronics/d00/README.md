@@ -16,5 +16,5 @@ WiFI relay using an ESP32 module powered by AC 100-240 V. The microcontroller an
 
 AC-DC power board at bottom|Power wires connected|Backplate fixed to enclosure|
 ---------------------------|---------------------|----------------------------|
-![](/d-electronics/b00/assets/img/singlepoint.jpg)|![](/d-electronics/b00/assets/img/wiresconnection.jpg)|![](/d-electronics/b00/assets/img/boardfixed.jpg)|
+![](/d-electronics/d00/assets/img/singlepoint.jpg)|![](/d-electronics/d00/assets/img/wiresconnection.jpg)|![](/d-electronics/d00/assets/img/boardfixed.jpg)|
 
