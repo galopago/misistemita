@@ -3,6 +3,11 @@
 
 PoE splitter board based on WC-PD13C0501I module, There are two options for power input: via RJ45 jack or via 3.5mm screw terminals. The board also provides an RJ45 for Ethernel signal output (without power). There are also, two options for power output: Using the 3.5mm screw terminals or via USB-A female connector. Additionally, there are 12 points for mounting on compatible 10.16 mm pitch backplates.
 
+# Schematic
+
+Schematic                                                                  |
+---------------------------------------------------------------------------|
+![](/d-electronics/d01/assets/img/schematic.png)|
 
 Board with components soldered                                             |Bare single PCB|Panelized PCB|
 ---------------------------------------------------------------------------|---------------|-------------|
