@@ -5,6 +5,10 @@ Push button with setteable Pull-Up or Pull-Down resistor. Led with included resi
 
 # Schematic
 
+Schematic                                                                  |
+---------------------------------------------------------------------------|
+![](/d-electronics/d03/assets/img/schematic.png)|![](/d-electronics/d03/assets/img/barepcb.jpg)|
+
 # Configuration
 
 For Pull-Up resistor on the push button connect V+ to Y terminal and GND to X. Output of the switch is terminal S
