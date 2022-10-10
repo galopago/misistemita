@@ -28,9 +28,9 @@ Board with components soldered                                             |Bare
 
 ## Usage example 1
 
-WiFI 4-20 mA current meter. Led is used to know locally WiFI connection status. Switch is used to reset factory defaults
+WiFi 4-20 mA DC current meter. Led is used to know locally WiFI connection status. Push button switch is used to reset factory defaults
 
-Swich/Led board upper right|Power wires connected |Backplate fixed to enclosure|
+Push button swich/Led board upper right|Power wires connected |Backplate fixed to enclosure|
 ---------------------------|---------------------|----------------------------|
 ![](/d-electronics/d03/assets/img/singlepoint.jpg)|![](/d-electronics/d03/assets/img/wiresconnection.jpg)|![](/d-electronics/d03/assets/img/boardfixed.jpg)|
 
