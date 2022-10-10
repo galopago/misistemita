@@ -7,7 +7,7 @@ Push button with configurable Pull-Up or Pull-Down resistor. Led with included r
 
 Schematic                                                                  |
 ---------------------------------------------------------------------------|
-![](/d-electronics/d03/assets/img/schematic.png)|![](/d-electronics/d03/assets/img/barepcb.jpg)|
+![](/d-electronics/d03/assets/img/schematic.png)|
 
 # Configuration
 

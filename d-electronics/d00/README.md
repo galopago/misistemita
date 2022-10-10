@@ -4,6 +4,11 @@
 
 AC-DC power supply board based on HLK-PM01 or similar modules (HLK-PM03, HLK-PM24, etc.) with the same footprint. The board provides screw terminals with 5mm pitch, for AC input 100-240 V, and screw terminals with 3.5mm pitch, for DC output 3-24 V. Additionally, there are 4 points for mounting on compatible 10.16 mm pitch backplates.
 
+# Schematic
+
+Schematic                                                                  |
+---------------------------------------------------------------------------|
+![](/d-electronics/d00/assets/img/schematic.png)|
 
 Board with components soldered                                             |Bare single PCB|Panelized PCB|
 ---------------------------------------------------------------------------|---------------|-------------|
