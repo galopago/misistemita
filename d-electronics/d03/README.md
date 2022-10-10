@@ -1,7 +1,7 @@
 
 # Push button and led
 
-Push button with setteable Pull-Up or Pull-Down resistor. Led with included resistor and seteable polarity. Useful for visual output debug, and local adjustements without a PC
+Push button with configurable Pull-Up or Pull-Down resistor. Led with included resistor, and configurable polarity. Useful for visual output debug, and local adjustments without a PC
 
 # Schematic
 
@@ -11,13 +11,13 @@ Schematic                                                                  |
 
 # Configuration
 
-* For Pull-Up resistor on the push button connect V+ to Y terminal and GND to X. Output of the switch is connected to terminal S
+* For Pull-Up resistor on the push button connect V+ to Y terminal and GND to X terminal. The output of the switch is connected to S terminal.
 
-* For Pull-Down resistor on the push button connect V+ to X terminal and GND to Y. Output of the switch is connected to terminal S
+* For Pull-Down resistor on the push button connect V+ to X terminal and GND to Y terminal. The output of the switch is connected to S terminal.
 
-* To connect the cathode of the led to the X terminal, make a solder jumper between pads 1-2 of JP1. Anode of the led is connected to terminal L
+* To connect the cathode of the LED to the X terminal, make a solder bridge between pads 1-2 of JP1. The anode of the LED is connected to L terminal.
 
-* To connect the cathode of the led to the Y terminal, make a solder jumper between pads 2-3 of JP1. Anode of the led is connected to terminal L
+* To connect the cathode of the LED to the Y terminal, make a solder bridge between pads 2-3 of JP1. The anode of the LED is connected to L terminal.
 
 
 
@@ -28,7 +28,7 @@ Board with components soldered                                             |Bare
 
 ## Usage example 1
 
-WiFi 4-20 mA DC current meter. Led is used to know locally WiFI connection status. Push button switch is used to reset factory defaults
+WiFi 4-20 mA DC remote current display. Led is used to know locally WiFI connection status. Push button switch is used to reset to factory default settings
 
 Push button swich/Led board upper right|Power wires connected |Backplate fixed to enclosure|
 ---------------------------|---------------------|----------------------------|
