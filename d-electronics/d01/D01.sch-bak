@@ -193,20 +193,20 @@ $EndComp
 $Comp
 L Connector:Conn_01x02_Female J8
 U 1 1 5F6038E7
-P 8150 3300
-F 0 "J8" H 8178 3276 50  0000 L CNN
-F 1 "Conn_01x02_Female" H 8178 3185 50  0000 L CNN
-F 2 "TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal" H 8150 3300 50  0001 C CNN
-F 3 "~" H 8150 3300 50  0001 C CNN
-	1    8150 3300
+P 8750 3400
+F 0 "J8" H 8778 3376 50  0000 L CNN
+F 1 "Conn_01x02_Female" H 8778 3285 50  0000 L CNN
+F 2 "TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal" H 8750 3400 50  0001 C CNN
+F 3 "~" H 8750 3400 50  0001 C CNN
+	1    8750 3400
 	1    0    0    -1  
 $EndComp
 $Comp
 L Connector:Conn_01x06_Female J10
 U 1 1 5F60FE0F
 P 7600 2750
-F 0 "J10" H 7628 2726 50  0000 L CNN
-F 1 "Conn_01x06_Female" H 7628 2635 50  0000 L CNN
+F 0 "J10" H 7600 2250 50  0000 L CNN
+F 1 "Conn_01x06_Female" H 6850 2350 50  0000 L CNN
 F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 7600 2750 50  0001 C CNN
 F 3 "~" H 7600 2750 50  0001 C CNN
 	1    7600 2750
@@ -215,12 +215,12 @@ $EndComp
 $Comp
 L Connector:Conn_01x04_Female J9
 U 1 1 5F611752
-P 7400 3800
-F 0 "J9" H 7292 4085 50  0000 C CNN
-F 1 "Conn_01x04_Female" H 7292 3994 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 7400 3800 50  0001 C CNN
-F 3 "~" H 7400 3800 50  0001 C CNN
-	1    7400 3800
+P 8000 3900
+F 0 "J9" H 7892 4185 50  0000 C CNN
+F 1 "Conn_01x04_Female" H 7600 3450 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 8000 3900 50  0001 C CNN
+F 3 "~" H 8000 3900 50  0001 C CNN
+	1    8000 3900
 	-1   0    0    -1  
 $EndComp
 Wire Wire Line
@@ -270,31 +270,31 @@ Connection ~ 6500 2350
 $Comp
 L Connector:USB_A J6
 U 1 1 5F5EDF8D
-P 9300 3750
-F 0 "J6" H 9070 3739 50  0000 R CNN
-F 1 "USB_A" H 9070 3648 50  0000 R CNN
-F 2 "Connector_USB:USB_A_Stewart_SS-52100-001_Horizontal" H 9450 3700 50  0001 C CNN
-F 3 " ~" H 9450 3700 50  0001 C CNN
-	1    9300 3750
+P 9900 3850
+F 0 "J6" H 9670 3839 50  0000 R CNN
+F 1 "USB_A" H 9670 3748 50  0000 R CNN
+F 2 "Connector_USB:USB_A_Stewart_SS-52100-001_Horizontal" H 10050 3800 50  0001 C CNN
+F 3 " ~" H 10050 3800 50  0001 C CNN
+	1    9900 3850
 	-1   0    0    -1  
 $EndComp
-NoConn ~ 9400 4150
-NoConn ~ 9000 3750
-NoConn ~ 9000 3850
+NoConn ~ 10000 4250
+NoConn ~ 9600 3850
+NoConn ~ 9600 3950
 Wire Wire Line
-	7600 3800 7800 3800
+	8200 3900 8400 3900
 Wire Wire Line
-	8250 3800 8250 3550
+	8850 3900 8850 3650
 Wire Wire Line
-	8250 3550 9000 3550
+	8850 3650 9600 3650
 Wire Wire Line
-	9300 4150 9300 4250
+	9900 4250 9900 4350
 Wire Wire Line
-	9300 4250 8800 4250
+	9900 4350 9400 4350
 Wire Wire Line
-	8800 4250 8800 3700
+	9400 4350 9400 3800
 Wire Wire Line
-	8800 3700 7900 3700
+	9400 3800 8500 3800
 Wire Wire Line
 	6900 2850 6900 2650
 Wire Wire Line
@@ -316,50 +316,50 @@ Connection ~ 6750 2650
 Wire Wire Line
 	6750 2650 6900 2650
 Wire Wire Line
-	7950 3300 7800 3300
+	8550 3400 8400 3400
 Wire Wire Line
-	7800 3300 7800 3800
-Connection ~ 7800 3800
+	8400 3400 8400 3900
+Connection ~ 8400 3900
 Wire Wire Line
-	7800 3800 8250 3800
+	8400 3900 8850 3900
 Wire Wire Line
-	7950 3400 7900 3400
+	8550 3500 8500 3500
 Wire Wire Line
-	7900 3400 7900 3700
-Connection ~ 7900 3700
+	8500 3500 8500 3800
+Connection ~ 8500 3800
 Wire Wire Line
-	7900 3700 7600 3700
+	8500 3800 8200 3800
 $Comp
-L Connector:Conn_01x02_Female J?
+L Connector:Conn_01x02_Female J2
 U 1 1 5F6B6234
 P 7100 2550
-F 0 "J?" H 6992 2735 50  0000 C CNN
+F 0 "J2" H 6992 2735 50  0000 C CNN
 F 1 "Conn_01x02_Female" H 6992 2644 50  0000 C CNN
-F 2 "" H 7100 2550 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 7100 2550 50  0001 C CNN
 F 3 "~" H 7100 2550 50  0001 C CNN
 	1    7100 2550
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Connector:Conn_01x02_Female J?
+L Connector:Conn_01x02_Female J3
 U 1 1 5F6B6825
 P 7100 2950
-F 0 "J?" H 6992 3135 50  0000 C CNN
-F 1 "Conn_01x02_Female" H 6992 3044 50  0000 C CNN
-F 2 "" H 7100 2950 50  0001 C CNN
+F 0 "J3" H 6992 3135 50  0000 C CNN
+F 1 "Conn_01x02_Female" H 7000 2600 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 7100 2950 50  0001 C CNN
 F 3 "~" H 7100 2950 50  0001 C CNN
 	1    7100 2950
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Connector:Conn_01x02_Female J?
+L Connector:Conn_01x02_Female J11
 U 1 1 5F6B707F
-P 7950 3900
-F 0 "J?" H 7978 3876 50  0000 L CNN
-F 1 "Conn_01x02_Female" H 7978 3785 50  0000 L CNN
-F 2 "" H 7950 3900 50  0001 C CNN
-F 3 "~" H 7950 3900 50  0001 C CNN
-	1    7950 3900
+P 8550 4000
+F 0 "J11" H 8578 3976 50  0000 L CNN
+F 1 "Conn_01x02_Female" H 8000 3800 50  0000 L CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 8550 4000 50  0001 C CNN
+F 3 "~" H 8550 4000 50  0001 C CNN
+	1    8550 4000
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -371,7 +371,27 @@ Wire Wire Line
 Wire Wire Line
 	7300 3050 7400 3050
 Wire Wire Line
-	7600 3900 7750 3900
+	8200 4000 8350 4000
 Wire Wire Line
-	7600 4000 7750 4000
+	8200 4100 8350 4100
+Text Label 7700 2750 0    50   ~ 0
+VB1
+Text Label 7700 2850 0    50   ~ 0
+VB2
+Text Label 7700 2650 0    50   ~ 0
+VA2
+Text Label 7700 2550 0    50   ~ 0
+VA1
+Text Label 7700 2950 0    50   ~ 0
+AUX
+Text Label 7700 3050 0    50   ~ 0
+AUX
+Text Label 7750 3950 0    50   ~ 0
+Vout-
+Text Label 7750 4150 0    50   ~ 0
+NC
+Text Label 7750 4050 0    50   ~ 0
+NC
+Text Label 7750 3850 0    50   ~ 0
+Vout+
 $EndSCHEMATC
