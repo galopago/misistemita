@@ -1,7 +1,7 @@
 
 # ADS1115 ADC board
 
-ADC board based on ADS1115, added with pads for resistors to setup a custom voltage divider.
+ADC board based on ADS1115, equipped with pads for resistors, to set up a custom voltage divider.
 
 # Schematic
 
@@ -16,14 +16,14 @@ Board with components soldered                                        |Bare sing
 
 # Configuration
 
-The board provides pads for resistors (SMD and THT) to make voltage dividers. There are many posibilities:
+The board provides pads for resistors (SMD and THT) to make voltage dividers. There are many possibilities:
 
 Configuration                                       |R1 (R11)|R2 (R22)       |R3 (R33)       |R4 (R44)         | pinout                         |
 ----------------------------------------------------|--------|---------------|---------------|-----------------|--------------------------------|
-Non scaled dual input single ended                  |NONE    |NONE           |0 Ohm          |NONE             | A0(J5-2)+, A1(J5-4)+, GND(J5-8)|
-Non scaled single input differential ended          |NONE    |NONE           |0 Ohm          |NONE             | A0(J5-2)+, A1(J5-4)-           |
-Scaled single input differential ended              |NONE    |Top resistor 1 |Top resistor 2 |Bottom resistor  | A0(J5-1)+, A1(J5-4)-           |
-Current measurement single input differential ended |NONE    |NONE           |0 Ohm          |Current resistor | A0(J5-2)+, A1(J5-4)-           |
+Non scaled, dual input, single ended                  |NONE    |NONE           |0 Ohm          |NONE             | A0(J5-2)+, A1(J5-4)+, GND(J5-8)|
+Non scaled, single input, differential ended          |NONE    |NONE           |0 Ohm          |NONE             | A0(J5-2)+, A1(J5-4)-           |
+Scaled, single input, differential ended              |NONE    |Top resistor 1 |Top resistor 2 |Bottom resistor  | A0(J5-1)+, A1(J5-4)-           |
+Current measurement, single input, differential ended |NONE    |NONE           |0 Ohm          |Current resistor | A0(J5-2)+, A1(J5-4)-           |
 
 
 
