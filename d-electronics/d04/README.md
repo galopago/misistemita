@@ -9,16 +9,14 @@ Schematic                                                                  |
 ---------------------------------------------------------------------------|
 ![](/d-electronics/d04/assets/img/schematic.png)|
 
-# Configuration
-
-The board provides 4 pins for input: VCC, GND, Optocoupler input(+) and Optocoupler input(-), for a total isolation if required. Both of the relay contacts are provided (NO, NC) through a 5mm pitch screw terminal for higher power and thicker cables.
-
-
-
 Board with components soldered                                             |Bare single PCB|Panelized PCB|
 ---------------------------------------------------------------------------|---------------|-------------|
 ![](/d-electronics/d04/assets/img/solderedterminals.jpg)|![](/d-electronics/d04/assets/img/barepcb.jpg)|![](/d-electronics/d04/assets/img/panel.jpg)
 
+
+# Configuration
+
+The board provides 4 pins for input: VCC, GND, Optocoupler input(+) and Optocoupler input(-), for a total isolation if required. Both of the relay contacts are provided (NO, NC) through a 5mm pitch screw terminal for higher power and thicker cables.
 
 ## Usage example 1
 
