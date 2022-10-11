@@ -1,7 +1,7 @@
 
 # BSS138 Level shifter
 
-Digital level shifter based on BSS138 MOSFET. Useful for interface 3.3V devices with 5V microcontrollers.
+Digital level shifter based on BSS138 MOSFET. Useful for interfacing 3.3V peripherals with 5V microcontrollers, and vice versa
 
 # Schematic
 
@@ -16,13 +16,13 @@ Board with components soldered                                        |Bare sing
 
 # Configuration
 
-* High voltage VCC (for example 5V) goes to HV terminal. Low voltage VCC (for example 3.3V) goes to LV terminal. 
-* High voltage signal, goes to HVS terminal. Low voltage signal, goes to LVS terminal.
+* High voltage VCC (such as 5V) goes to the HV terminal. Low voltage VCC (such as 3.3V) goes to the LV terminal. 
+* High voltage signal goes to the HVS terminal. Low voltage signal goes to the LVS terminal.
 
 
 ## Usage example 1
 
-WiFi controlled LED string. Neopixel lights with operational (and logic) voltage at 5V , interfaced with a microcontroller with I/O voltage of 3.3V.
+WiFi controlled LED string. Neopixel lights with operational (and logic) voltage of 5V, interfaced with a microcontroller with 3.3 V I/O voltage.
 
 Level shifter board bottom center|Power wires connected|Backplated fixed to enclosure|
 ------------------|---------------------|-----------------------------|
