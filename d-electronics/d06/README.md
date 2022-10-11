@@ -26,5 +26,5 @@ WiFi controlled LED string. Neopixel lights with operational (and logic) voltage
 
 Level shifter board bottom center|Power wires connected|Backplated fixed to enclosure|
 ------------------|---------------------|-----------------------------|
-![](/d-electronics/d05/assets/img/singlepoint.jpg)|![](/d-electronics/d05/assets/img/wiresconnection.jpg)|![](/d-electronics/d05/assets/img/boardfixed.jpg)|
+![](/d-electronics/d06/assets/img/singlepoint.jpg)|![](/d-electronics/d06/assets/img/wiresconnection.jpg)|![](/d-electronics/d06/assets/img/boardfixed.jpg)|
 
