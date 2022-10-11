@@ -1,7 +1,7 @@
 
-# 3.3V - 5V Opto isolated relay
+# 3.3V - 5V Optically isolated relay
 
-Opto isolated relay module, can be powered from 3.3V to 5V. 
+Optically isolated relay module, can be powered from 3.3V to 5V. 
 
 # Schematic
 
@@ -11,8 +11,7 @@ Schematic                                                                  |
 
 # Configuration
 
-The board provides 4 pins VCC, GND, Optocoupler input(+) and Optocoupler input(-) for totally isolation when required. Both of the relay contacts are provided (NO,NC) throug a 5mm pitch screw terminal for higher power and thicker cables
-
+The board provides 4 pins for input: VCC, GND, Optocoupler input(+) and Optocoupler input(-), for a total isolation if required. Both of the relay contacts are provided (NO, NC) through a 5mm pitch screw terminal for higher power and thicker cables.
 
 
 
