@@ -30,7 +30,7 @@ Board with components soldered                                             |Bare
 
 WiFi 4-20 mA DC remote current display. Led is used to know locally WiFI connection status. Push button switch is used to reset to factory default settings
 
-Push button swich/Led board upper right|Power wires connected |Backplate fixed to enclosure|
+Push button swich/Led board top right|Power wires connected |Backplate fixed to enclosure|
 ---------------------------|---------------------|----------------------------|
 ![](/d-electronics/d03/assets/img/singlepoint.jpg)|![](/d-electronics/d03/assets/img/wiresconnection.jpg)|![](/d-electronics/d03/assets/img/boardfixed.jpg)|
 
