@@ -9,6 +9,11 @@ Schematic                                                                  |
 ---------------------------------------------------------------------------|
 ![](/d-electronics/d05/assets/img/schematic.png)|
 
+Board with components soldered                                        |Bare single PCB|Panelized PCB|
+---------------------------------------------------------------------------|---------------|-------------|
+![](/d-electronics/d05/assets/img/solderedterminals.jpg)|![](/d-electronics/d05/assets/img/barepcb.jpg)|![](/d-electronics/d05/assets/img/panel.jpg)
+
+
 # Configuration
 
 The board provides pads for resistors (SMD and THT) to make voltage dividers. There are many posibilities:
@@ -21,9 +26,6 @@ Scaled single input differential ended              |NONE    |Top resistor 1 |To
 Current measurement single input differential ended |NONE    |NONE           |0 Ohm          |Current resistor | A0(J5-2)+, A1(J5-4)-           |
 
 
-Board with components soldered                                        |Bare single PCB|Panelized PCB|
----------------------------------------------------------------------------|---------------|-------------|
-![](/d-electronics/d05/assets/img/solderedterminals.jpg)|![](/d-electronics/d05/assets/img/barepcb.jpg)|![](/d-electronics/d05/assets/img/panel.jpg)
 
 
 ## Usage example 1
