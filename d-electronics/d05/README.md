@@ -28,7 +28,7 @@ Board with components soldered                                        |Bare sing
 
 ## Usage example 1
 
-Power input wires (line, neutral & ground) and relay switched load terminals (neutral and line) into a single connection place for easy commissioning & maintenance. Useful for thicker cables and higher power than the managed for the screw terminals with 3.5 mm pitch 
+WiFi 4-20 mA DC remote current display. Differential input current measurement
 
 ADC board top left|Power wires connected|Backplated fixed to enclosure|
 ------------------|---------------------|-----------------------------|
