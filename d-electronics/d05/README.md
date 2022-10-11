@@ -30,7 +30,7 @@ Board with components soldered                                        |Bare sing
 
 Power input wires (line, neutral & ground) and relay switched load terminals (neutral and line) into a single connection place for easy commissioning & maintenance. Useful for thicker cables and higher power than the managed for the screw terminals with 3.5 mm pitch 
 
-ADC board top left|Single point close-up|Power wires connected|Board fixed to enclosure|
------------------------|---------------------|---------------------|------------------------|
-![](/d-electronicss/d05/assets/img/singlepoint.jpg)|![](/d-electronics/d05/assets/img/singlepointcloseup.jpg)|![](/d-electronics/d05/assets/img/wiresconnection.jpg)|![](/d-electronics/d05/assets/img/boardfixed.jpg)|
+ADC board top left|Power wires connected|Backplated fixed to enclosure|
+------------------|---------------------|-----------------------------|
+![](/d-electronicss/d05/assets/img/singlepoint.jpg)|![](/d-electronics/d05/assets/img/wiresconnection.jpg)|![](/d-electronics/d05/assets/img/boardfixed.jpg)|
 
