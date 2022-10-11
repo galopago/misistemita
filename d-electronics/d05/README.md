@@ -32,5 +32,5 @@ Power input wires (line, neutral & ground) and relay switched load terminals (ne
 
 ADC board top left|Power wires connected|Backplated fixed to enclosure|
 ------------------|---------------------|-----------------------------|
-![](/d-electronicss/d05/assets/img/singlepoint.jpg)|![](/d-electronics/d05/assets/img/wiresconnection.jpg)|![](/d-electronics/d05/assets/img/boardfixed.jpg)|
+![](/d-electronics/d05/assets/img/singlepoint.jpg)|![](/d-electronics/d05/assets/img/wiresconnection.jpg)|![](/d-electronics/d05/assets/img/boardfixed.jpg)|
 
