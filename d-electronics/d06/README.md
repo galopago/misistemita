@@ -1,7 +1,7 @@
 
 # BSS138 Level shifter
 
-ADC board based on ADS1115, equipped with pads for resistors, to set up a custom voltage divider.
+Digital level shifter based on BSS138 MOSFET. Useful for interface 3.3V devices with 5V microcontrollers.
 
 # Schematic
 
@@ -16,12 +16,13 @@ Board with components soldered                                        |Bare sing
 
 # Configuration
 
-The board provides pads for resistors (SMD and THT) to make voltage dividers. There are many possibilities:
+* High voltage VCC (for example 5V) goes to HV terminal. Low voltage VCC (for example 3.3V) goes to LV terminal. 
+* High voltage signal, goes to HVS terminal. Low voltage signal, goes to LVS terminal.
 
 
 ## Usage example 1
 
-WiFi 4-20 mA DC remote current display. Differential input current measurement
+WiFi controlled LED string. Neopixel lights with operational (and logic) voltage at 5V , interfaced with a microcontroller with I/O voltage of 3.3V.
 
 Level shifter board bottom center|Power wires connected|Backplated fixed to enclosure|
 ------------------|---------------------|-----------------------------|
