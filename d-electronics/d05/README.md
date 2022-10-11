@@ -3,6 +3,18 @@
 
 ADC board based on ADS1115, added with pads for resistors to setup a custom voltage divider.
 
+# Schematic
+
+Schematic                                                                  |
+---------------------------------------------------------------------------|
+![](/d-electronics/d05/assets/img/schematic.png)|
+
+# Configuration
+
+The board provides pads for resistors (SMD and THT) to make voltage dividers. There are many posibilities:
+
+
+
 Board with components soldered                                        |Bare single PCB|Panelized PCB|
 ---------------------------------------------------------------------------|---------------|-------------|
 ![](/d-electronics/d05/assets/img/solderedterminals.jpg)|![](/d-electronics/d05/assets/img/barepcb.jpg)|![](/d-electronics/d05/assets/img/panel.jpg)
@@ -14,5 +26,5 @@ Power input wires (line, neutral & ground) and relay switched load terminals (ne
 
 Single connection point|Single point close-up|Power wires connected|Board fixed to enclosure|
 -----------------------|---------------------|---------------------|------------------------|
-![](/b-screw-terminal-wire-connectors/b05/assets/img/singlepoint.jpg)|![](/b-screw-terminal-wire-connectors/b05/assets/img/singlepointcloseup.jpg)|![](/b-screw-terminal-wire-connectors/b05/assets/img/wiresconnection.jpg)|![](/b-screw-terminal-wire-connectors/b05/assets/img/boardfixed.jpg)|
+![](/d-electronicss/d05/assets/img/singlepoint.jpg)|![](/d-electronics/d05/assets/img/singlepointcloseup.jpg)|![](/d-electronics/d05/assets/img/wiresconnection.jpg)|![](/d-electronics/d05/assets/img/boardfixed.jpg)|
 
