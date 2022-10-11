@@ -21,7 +21,7 @@ Different electronic boards                                                     
 | PoE with WC-PD13C050I module.                                                                      | D01_ELECTRONIC | [d01](/d-electronics/d01)
 | 3.3v regulator, uUSB input, mountable in a generic 83 x 58 x 33 mm waterproof enclosure            | D00_ELECTRONIC | [d02](/d-electronics/d02)
 | Push button(Input) and led(Output). Configurable Pull-Up or Pull-Down for input and LED polarity   | D00_ELECTRONIC | [d03](/d-electronics/d03)
-| 3.3 - 5v input opto-isolated, relay module.                                                        | D00_ELECTRONIC | d04
+| 3.3 - 5v input opto-isolated, relay module.                                                        | D00_ELECTRONIC | [d04](/d-electronics/d04)
 | ADS1115 ADC with resistors for 0-20mA, 0-5V and 0-10V analog input                                 | D00_ELECTRONIC | d05
 | BSS138 Level Shifter                                                                               | D00_ELECTRONIC | d06
 
