@@ -1,7 +1,7 @@
 
 # 3.3V - 5V Opto isolated relay
 
-Push button with configurable Pull-Up or Pull-Down resistor. Led with included resistor, and configurable polarity. Useful for visual output debug, and local adjustments without a PC
+Opto isolated relay module, can be powered from 3.3V to 5V. 
 
 # Schematic
 
@@ -11,13 +11,8 @@ Schematic                                                                  |
 
 # Configuration
 
-* For Pull-Up resistor on the push button connect V+ to Y terminal and GND to X terminal. The output of the switch is connected to S terminal.
+The board provides 4 pins VCC, GND, Optocoupler input(+) and Optocoupler input(-) for totally isolation when required. Both of the relay contacts are provided (NO,NC) throug a 5mm pitch screw terminal for higher power and thicker cables
 
-* For Pull-Down resistor on the push button connect V+ to X terminal and GND to Y terminal. The output of the switch is connected to S terminal.
-
-* To connect the cathode of the LED to the X terminal, make a solder bridge between pads 1-2 of JP1. The anode of the LED is connected to L terminal.
-
-* To connect the cathode of the LED to the Y terminal, make a solder bridge between pads 2-3 of JP1. The anode of the LED is connected to L terminal.
 
 
 
@@ -28,9 +23,9 @@ Board with components soldered                                             |Bare
 
 ## Usage example 1
 
-WiFi 4-20 mA DC remote current display. Led is used to know locally WiFI connection status. Push button switch is used to reset to factory default settings
+WiFi relay. Dry contacts provided for external load control
 
-Push button swich/Led board upper right|Power wires connected |Backplate fixed to enclosure|
+Relay board on top|Power wires connected |Backplate fixed to enclosure|
 ---------------------------|---------------------|----------------------------|
 ![](/d-electronics/d04/assets/img/singlepoint.jpg)|![](/d-electronics/d04/assets/img/wiresconnection.jpg)|![](/d-electronics/d04/assets/img/boardfixed.jpg)|
 
