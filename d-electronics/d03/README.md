@@ -9,6 +9,10 @@ Schematic                                                                  |
 ---------------------------------------------------------------------------|
 ![](/d-electronics/d03/assets/img/schematic.png)|
 
+Board with components soldered                                             |Bare single PCB|Panelized PCB|
+---------------------------------------------------------------------------|---------------|-------------|
+![](/d-electronics/d03/assets/img/solderedterminals.jpg)|![](/d-electronics/d03/assets/img/barepcb.jpg)|![](/d-electronics/d03/assets/img/panel.jpg)
+
 # Configuration
 
 * For Pull-Up resistor on the push button connect V+ to Y terminal and GND to X terminal. The output of the switch is connected to S terminal.
@@ -18,12 +22,6 @@ Schematic                                                                  |
 * To connect the cathode of the LED to the X terminal, make a solder bridge between pads 1-2 of JP1. The anode of the LED is connected to L terminal.
 
 * To connect the cathode of the LED to the Y terminal, make a solder bridge between pads 2-3 of JP1. The anode of the LED is connected to L terminal.
-
-
-
-Board with components soldered                                             |Bare single PCB|Panelized PCB|
----------------------------------------------------------------------------|---------------|-------------|
-![](/d-electronics/d03/assets/img/solderedterminals.jpg)|![](/d-electronics/d03/assets/img/barepcb.jpg)|![](/d-electronics/d03/assets/img/panel.jpg)
 
 
 ## Usage example 1
