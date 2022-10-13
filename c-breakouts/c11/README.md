@@ -24,9 +24,9 @@ Raspberry Pi Pico used as an USB foot pedal. Detachable external pedals and USB 
 
 Module on backplate                                 |Ready to enclose                                 |
 ----------------------------------------------------|-------------------------------------------------|
-![](/c-breakouts/c00/assets/img/componentswired.jpg)|![](/c-breakouts/c00/assets/img/readytoenclose.jpg)|
+![](/c-breakouts/c11/assets/img/componentswired.jpg)|![](/c-breakouts/c11/assets/img/readytoenclose.jpg)|
 
 Installed in box                             |Lid Closed                                       |
 ---------------------------------------------|-------------------------------------------------|
-![](/c-breakouts/c00/assets/img/installedinbox.jpg)|![](/c-breakouts/c11/assets/img/lidclosed1.jpg)|
+![](/c-breakouts/c11/assets/img/installedinbox.jpg)|![](/c-breakouts/c11/assets/img/lidclosed1.jpg)|
 
