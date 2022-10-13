@@ -28,5 +28,5 @@ All elements wired and installed on backplate       |Ready to enclose           
 
 Installed in box                             |Lid Closed                                       |
 ---------------------------------------------|-------------------------------------------------|
-![](/c-breakouts/c00/assets/img/installedinbox.jpg)|![](/c-breakouts/c00/assets/img/lidclosed1.jpg)|
+![](/c-breakouts/c00/assets/img/installedinbox.jpg)|![](/c-breakouts/c11/assets/img/lidclosed1.jpg)|
 
