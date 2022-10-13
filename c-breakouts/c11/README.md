@@ -19,7 +19,7 @@ Module attached to breakboard                |Set attached to a 10.16 pitch back
 
 ## Usage example #1
 
-Raspberry Pi Pico used as an USB foot pedal. Detachable external pedals and USB cable.
+Raspberry Pi Pico based USB foot pedal. Detachable external pedals and USB cable.
 
 
 Module on backplate                                 |Ready to enclose                                 |
