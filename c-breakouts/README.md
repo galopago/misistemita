@@ -28,7 +28,7 @@ Different breakout boards                                           |
 | Breakout for ESP8266 devboards with 30 pins (2x15 2.54mm pitch) or less and ( 22,86 or 27.94mm ) separation between headers | C08_BREAKOUT | c08 
 | Breakout for USB A Male (USB A Female connected to screw terminals) power pins | C09_BREAKOUT | c09
 | Breakout for 0.96" OLED 4 pin I2C display      | C10_BREAKOUT | c10
-| Breakout for Raspberry Pi Pico Board           | C11_BREAKOUT | c11
+| Breakout for Raspberry Pi Pico Board           | C11_BREAKOUT | [c11](/c-breakouts/c11)
 | Breakout for ESP32 Cam Board                   | C12_BREAKOUT | c12
 | Breakout for 18 pin (2x9) header               | C13_BREAKOUT | c13
 
