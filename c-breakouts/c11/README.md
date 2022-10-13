@@ -19,10 +19,10 @@ Module attached to breakboard                |Set attached to a 10.16 pitch back
 
 ## Usage example #1
 
-WiFi power meter, based on PZEM-004T-100A and a compact ESP8266 module (wemos D1 Mini). The assembly included a small DC-DC converter to power the ESP8266 module, also screw terminals for power input.
+Raspberry Pi Pico used as an USB foot pedal. Detachable external pedals and USB connector.
 
 
-All elements wired and installed on backplate       |Ready to enclose                                 |
+Module on backplate                                 |Ready to enclose                                 |
 ----------------------------------------------------|-------------------------------------------------|
 ![](/c-breakouts/c00/assets/img/componentswired.jpg)|![](/c-breakouts/c00/assets/img/readytoenclose.jpg)|
 
