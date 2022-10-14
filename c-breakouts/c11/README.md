@@ -1,7 +1,7 @@
 
-# Backplate for Raspberry Pi Pico, 4 holes 10.16 mm spaced, for mounting onto the backplate
+# Breakboard for Raspberry Pi Pico, 4 holes 10.16 mm spaced, for mounting onto the backplate
 
-Backplate for Raspberry Pi Pico, 4 holes 10.16 mm spaced, for mounting onto the backplate. All pins routed to 3.5 mm pitch screw terminals
+Breakboard for Raspberry Pi Pico, 4 holes 10.16 mm spaced, for mounting onto the backplate. All pins routed to 3.5 mm pitch screw terminals
 
 Bare single PCB                              |Panelized PCB                              |
 ---------------------------------------------|-------------------------------------------|
