@@ -1,7 +1,7 @@
 
-# Breakout for ESP32 devboards with 38 pins (2x19 2.54mm pitch) or less and 25,4 mm separation between headers, 11 holes 10.16 mm spaced, for mounting onto the backplate.
+# Breakout for ESP32 dev boards with 38 pins (2x19 2.54mm pitch) or less and 25,4 mm separation between headers, 11 holes 10.16 mm spaced, for mounting onto the backplate.
 
-Breakout for ESP32 devboards with 38 pins (2x19 2.54mm pitch) or less and 25,4 mm separation between headers, 11 holes 10.16 mm spaced, for mounting onto the backplate. All pins routed to 3.5 mm pitch screw terminals
+Breakout for ESP32 dev boards with 38 pins (2x19 2.54mm pitch) or less and 25,4 mm separation between headers, 11 holes 10.16 mm spaced, for mounting onto the backplate. All pins routed to 3.5 mm pitch screw terminals
 
 Bare single PCB                              |Panelized PCB                              |
 ---------------------------------------------|-------------------------------------------|

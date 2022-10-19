@@ -1,7 +1,7 @@
 
-# Breakout for ESP8266 devboards with 30 pins (2x15 2.54mm pitch) or less and ( 22,86 or 27.94mm ) separation between headers, 10 holes 10.16 mm spaced, for mounting onto the backplate.
+# Breakout for ESP8266 dev boards with 30 pins (2x15 2.54mm pitch) or less and ( 22,86 or 27.94mm ) separation between headers, 10 holes 10.16 mm spaced, for mounting onto the backplate.
 
-Breakout for ESP8266 devboards with 30 pins (2x15 2.54mm pitch) or less and ( 22,86 or 27.94mm ) separation between headers, 10 holes 10.16 mm spaced, for mounting onto the backplate. All pins routed to 3.5 mm pitch screw terminals
+Breakout for ESP8266 dev boards with 30 pins (2x15 2.54mm pitch) or less and ( 22,86 or 27.94mm ) separation between headers, 10 holes 10.16 mm spaced, for mounting onto the backplate. All pins routed to 3.5 mm pitch screw terminals
 
 Bare single PCB                              |Panelized PCB                              |
 ---------------------------------------------|-------------------------------------------|
