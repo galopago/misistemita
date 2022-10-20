@@ -7,7 +7,7 @@ Breakout for free prototyping, 102 PCB pads spaced 2.54mm, some of them connecte
 
 Layout
 ---------------------------------------------------------------------------|
-![](/d-electronics/d06/assets/img/layout.png)|
+![](/d-electronics/c06/assets/img/layout.png)|
 
 
 Bare single PCB                              |Panelized PCB                              |
