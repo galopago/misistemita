@@ -11,12 +11,12 @@ Bare single PCB                              |Backplate installed in box        
 
 The PCB has multiple mounting holes, allowing to be mounted on the two most common types of enclosure of this size.
 
-![MODULE](/a-backplates/a06/assets/compatibility.jpg)
+![MODULE](/a-backplates/a06/assets/img/compatibility.png)
 
 
 ## Usage example #1
 
-Backplate hosting a relay board, one cable with low power signals, and the other cable for switching a higher power load
+Backplate hosting a ESP32 wemos D1 mini and display, acting as a WiFI temperature sensor (5V powered)
 
 
 
