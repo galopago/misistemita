@@ -19,7 +19,7 @@ Module attached to breakboard                |Set attached to a 10.16 pitch back
 
 ## Usage example #1
 
-ESP32 WiFi 4-20 mA DC remote current display. Differential input current measurement.
+Wireles temperature sensor based on ESP32 D1 MINI, I2C display and DS18B20 sensor, powered by 5V
 
 All components wired                                |Ready to enclose                                 |
 ----------------------------------------------------|-------------------------------------------------|
