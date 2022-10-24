@@ -7,6 +7,12 @@ Bare single PCB                              |Backplate installed in box        
 ---------------------------------------------|--------------------------------------------------|
 ![](/a-backplates/a06/assets/img/barepcb.jpg)|![](/a-backplates/a06/assets/img/installedinbox.jpg)|
 
+## ENCLOSURE COMPATIBILITY
+
+The PCB has multiple mounting holes, allowing to be mounted on the two most common types of enclosure of this size.
+
+![MODULE](/a-backplates/a06/assets/compatibility.jpg)
+
 
 ## Usage example #1
 
