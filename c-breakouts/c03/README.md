@@ -24,10 +24,10 @@ Module attached to breakboard                |Set attached to a 10.16 pitch back
 
 ## Configuration
 
-Battery setup                                       |JP1 configuration |
-----------------------------------------------------|------------------|
-BT1 + BT2 (Series)                                  |1-2               |
-BT2 ( Single)                                       |2-3               |
+Battery setup        |JP1 configuration |
+---------------------|------------------|
+BT1 + BT2 (Series)   |1-2               |
+BT2 (Single)         |2-3               |
 
 
 ## Usage example #1
