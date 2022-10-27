@@ -1,5 +1,5 @@
 
-# Breakout for RAK4200 LoRa module, 8 holes 10.16 mm spaced, for mounting on the backplate
+# Breakout for RAK4200 LoRa module, 7 holes 10.16 mm spaced, for mounting on the backplate
 
 Breakout for RAK4200 LoRa module. All header pins are routed to the screw terminal connectors.
 
