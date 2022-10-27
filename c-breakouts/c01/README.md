@@ -1,7 +1,7 @@
 
-# Breakout for RAK811 LoRa module, 8 holes 10.16 mm spaced, for mounting onto the backplate
+# Breakout for RAK811 LoRa module, 8 holes 10.16 mm spaced, for mounting on the backplate
 
-Breakout for RAK811 LoRa module. All header pins are routed to screw terminal connectors
+Breakout for RAK811 LoRa module. All header pins are routed to the screw terminal connectors.
 
 Bare single PCB                              |Panelized PCB                              |
 ---------------------------------------------|-------------------------------------------|
@@ -19,7 +19,7 @@ Module attached to breakboard                |Set attached to a 10.16 pitch back
 
 ## Usage example #1
 
-Temperature sensor using an ESP32 for reading the DS18B20 sensor and commuticate to the RAK811 LoRa module through UART. The circuit is powered by 2xAA Batteries 
+LoRa temperature sensor, using an ESP32 for reading the DS18B20 device and communicate  with the RAK811 LoRa module through UART. The circuit is powered by 2xAA Batteries. 
 
 
 
