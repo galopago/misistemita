@@ -25,9 +25,9 @@ Temperature sensor using an ESP32 for reading the DS18B20 sensor and commuticate
 
 All elements wired and installed on backplate       |Ready to enclose                                 |
 ----------------------------------------------------|-------------------------------------------------|
-![](/c-breakouts/c00/assets/img/componentswired.jpg)|![](/c-breakouts/c00/assets/img/readytoenclose.jpg)|
+![](/c-breakouts/c01/assets/img/componentswired.jpg)|![](/c-breakouts/c01/assets/img/readytoenclose.jpg)|
 
 Installed in box                             |Lid Closed                                       |
 ---------------------------------------------|-------------------------------------------------|
-![](/c-breakouts/c00/assets/img/installedinbox.jpg)|![](/c-breakouts/c00/assets/img/lidclosed1.jpg)|
+![](/c-breakouts/c01/assets/img/installedinbox.jpg)|![](/c-breakouts/c01/assets/img/lidclosed1.jpg)|
 
