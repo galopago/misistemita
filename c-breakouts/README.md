@@ -19,7 +19,7 @@ Different breakout boards                                           |
 |------------------------------------------------|--------------|------
 | Breakout for power meter PZEM-004T-100A (V3.0) | C00_BREAKOUT | [c00](/c-breakouts/c00)
 | Breakout for RAK811 LoRa breakboard            | C01_BREAKOUT | [c01](/c-breakouts/c01)
-| Breakout for RAK4200 LoRa breakboard           | C02_BREAKOUT | c02
+| Breakout for RAK4200 LoRa breakboard           | C02_BREAKOUT | [c02](/c-breakouts/c02)
 | Breakout for 2xAA R6 type batteries            | C03_BREAKOUT | c03
 | Breakout for Arduino Nano                      | C04_BREAKOUT | c04
 | Breakout for Raspberry Pi 40 pin (2x20) header | C05_BREAKOUT | c05
