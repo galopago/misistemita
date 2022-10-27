@@ -21,7 +21,7 @@ Different breakout boards                                           |
 | Breakout for RAK811 LoRa breakboard            | C01_BREAKOUT | [c01](/c-breakouts/c01)
 | Breakout for RAK4200 LoRa breakboard           | C02_BREAKOUT | [c02](/c-breakouts/c02)
 | Breakout for 2xAA R6 type batteries            | C03_BREAKOUT | [c03](/c-breakouts/c03)
-| Breakout for Arduino Nano                      | C04_BREAKOUT | c04
+| Breakout for Arduino Nano                      | C04_BREAKOUT | [c04](/c-breakouts/c04)
 | Breakout for Raspberry Pi 40 pin (2x20) header | C05_BREAKOUT | c05
 | Breakout for 21 mm x 23 mm prototyping area    | C06_BREAKOUT | c06
 | Breakout for ESP32 devboards with 38 pins (2x19 2.54mm pitch) or less and 25,4 mm separation between headers                | C07_BREAKOUT | [c07](/c-breakouts/c07) 
