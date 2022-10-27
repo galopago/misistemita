@@ -32,7 +32,7 @@ BT2 (Single)         |2-3               |
 
 ## Usage example #1
 
-LiFePo4 battery charger, ESP32 module for WiFi advertizing of charge finished.
+LiFePo4 battery charger using an ESP32 module for WiFi advertizing of charge completed.
 
 
 All elements wired and installed on backplate       |Ready to enclose                                 |
