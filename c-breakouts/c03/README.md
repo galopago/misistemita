@@ -22,6 +22,12 @@ Module attached to breakboard                |Set attached to a 10.16 pitch back
 ---------------------------------------------|-------------------------------------------|
 ![](/c-breakouts/c03/assets/img/moduleattached.jpg) |![](/c-breakouts/c03/assets/img/moduleinbackplate.jpg) |
 
+## Configuration
+
+Battery setup                                       |JP1 configuration |
+----------------------------------------------------|------------------|
+BT1 + BT2 (Series)                                  |1-2               |
+BT2 ( Single)                                       |2-3               |
 
 
 ## Usage example #1
