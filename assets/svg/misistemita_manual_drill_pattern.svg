@@ -15,8 +15,8 @@
    viewBox="0 0 744.09448819 1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="manual_drill_pattern.svg">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="tusistemita_manual_drill_pattern.svg">
   <defs
      id="defs4">
     <marker
@@ -173,14 +173,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="217.70277"
-     inkscape:cy="556.94852"
+     inkscape:zoom="1.4"
+     inkscape:cx="71.387713"
+     inkscape:cy="431.53343"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-width="1360"
+     inkscape:window-height="618"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -1612,15 +1612,15 @@
        id="use7347" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="56.157337"
        y="712.18481"
-       id="text7349"
-       sodipodi:linespacing="125%"><tspan
+       id="text7349"><tspan
          sodipodi:role="line"
          id="tspan7351"
          x="56.157337"
-         y="712.18481">TUSISTEMITA MANUAL DRILL PATTERN</tspan></text>
+         y="712.18481"
+         style="font-size:12.5px;line-height:1.25">MISISTEMITA MANUAL DRILL PATTERN</tspan></text>
     <use
        x="0"
        y="0"
@@ -1650,37 +1650,37 @@
        height="100%" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="123.03571"
        y="741.11224"
-       id="text7401"
-       sodipodi:linespacing="125%"><tspan
+       id="text7401"><tspan
          sodipodi:role="line"
          id="tspan7403"
          x="123.03571"
-         y="741.11224">HOLE DIAMETER: 3 mm</tspan></text>
+         y="741.11224"
+         style="font-size:10px;line-height:1.25">HOLE DIAMETER: 3 mm</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="122.72949"
        y="790.60944"
-       id="text7401-5"
-       sodipodi:linespacing="125%"><tspan
+       id="text7401-5"><tspan
          sodipodi:role="line"
          id="tspan7403-6"
          x="122.72949"
-         y="790.60944">DISTANCE BETWEEN HOLES CENTER: 10.16 mm</tspan></text>
+         y="790.60944"
+         style="font-size:10px;line-height:1.25">DISTANCE BETWEEN HOLES CENTER: 10.16 mm</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="123.85254"
        y="841.46655"
-       id="text7401-5-2"
-       sodipodi:linespacing="125%"><tspan
+       id="text7401-5-2"><tspan
          sodipodi:role="line"
          id="tspan7403-6-9"
          x="123.85254"
-         y="841.46655">DISTANCE BETWEEN HOLE CENTER TO BOARD EDGE: 3.81 mm</tspan></text>
+         y="841.46655"
+         style="font-size:10px;line-height:1.25">DISTANCE BETWEEN HOLE CENTER TO BOARD EDGE: 3.81 mm</tspan></text>
     <use
        x="0"
        y="0"
@@ -1729,40 +1729,41 @@
        y="892.62988" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="212.67648"
        y="887.43091"
-       id="text7401-5-3"
-       sodipodi:linespacing="125%"><tspan
+       id="text7401-5-3"><tspan
          sodipodi:role="line"
          x="212.67648"
          y="887.43091"
-         id="tspan10271">10 mm</tspan></text>
+         id="tspan10271"
+         style="font-size:7.5px;line-height:1.25">10 mm</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="253.54091"
        y="909.33337"
-       id="text7401-5-3-5"
-       sodipodi:linespacing="125%"><tspan
+       id="text7401-5-3-5"><tspan
          sodipodi:role="line"
          id="tspan7403-6-7-9"
          x="253.54091"
-         y="909.33337">PRINT ORIGINAL SIZE</tspan><tspan
+         y="909.33337"
+         style="font-size:7.5px;line-height:1.25">PRINT ORIGINAL SIZE</tspan><tspan
          sodipodi:role="line"
          x="253.54091"
          y="918.70837"
-         id="tspan10271-2">SCALE CHECK</tspan></text>
+         id="tspan10271-2"
+         style="font-size:7.5px;line-height:1.25">SCALE CHECK</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="177.34392"
        y="911.52094"
-       id="text7401-5-3-2"
-       sodipodi:linespacing="125%"><tspan
+       id="text7401-5-3-2"><tspan
          sodipodi:role="line"
          x="177.34392"
          y="911.52094"
-         id="tspan10271-8">10 mm</tspan></text>
+         id="tspan10271-8"
+         style="font-size:7.5px;line-height:1.25">10 mm</tspan></text>
   </g>
 </svg>
