@@ -24,5 +24,5 @@ Different backplate boards                  |
 | Backplate for Raspberry Pi Zero to 10.16 mm spaced holes        | A03_BACKPLATE |  [a03](/a-backplates/a03)
 | Backplate for Raspberry Pi 3B+ to 10.16 mm spaced holes         | A04_BACKPLATE |  [a04](/a-backplates/a04)
 | Backplate for PSU YXDY 5V 3.8A S-20W-5 to 10.16 mm spaced holes | A05_BACKPLATE |  [a05](/a-backplates/a05)
-| Backplate for generic 100 x 68  x 52 mm waterproof enclosure | A06_BACKPLATE |  [a06](/a-backplates/a06)
+| Backplate for generic 100 x 68  x 52 mm waterproof enclosure    | A06_BACKPLATE |  [a06](/a-backplates/a06)
 
