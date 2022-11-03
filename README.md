@@ -17,6 +17,10 @@ All wired and working        |Backplate fixed to enclosure   |
 -----------------------------|-------------------------------|
 ![](/assets/img/allwired.jpg)|![](/assets/img/platefixed.jpg)|
 
+Lid closed and installed in wall   |
+-----------------------------------|
+![](/assets/img/installedwall.jpg) |
+
 
 ## How to use this repository
 
