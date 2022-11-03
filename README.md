@@ -7,9 +7,6 @@ Prototyping system based on 4 types (A,B,C,D) of simple, pre made PCB that follo
 * the connection between boards uses screw terminal connectors.
 * uses generic, low cost, easily available waterproof enclosures
 
-
-![TUSISTEMITA](/assets/img/tusistemita.png)
-
 Read this in other languages: [Español](/assets/markdown/README.es.md)
 
 Components                     |Placed in backplate                   |
