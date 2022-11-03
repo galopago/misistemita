@@ -12,6 +12,10 @@ Prototyping system based on 4 types (A,B,C,D) of simple, pre made PCB that follo
 
 Read this in other languages: [Español](/assets/markdown/README.es.md)
 
+Components                     |Placed in backplate                   |All wired and working        |Backplate fixed to enclosure |
+-------------------------------|--------------------------------------|-----------------------------|-----------------------------|
+![](/assets/img/components.jpg)|![](/assets/img/placedinbackplate.jpg)|![](/assets/img/allwired.jpg)|![](/assets/img/platefixed.jpg)|
+
 
 ## How to use this repository
 
