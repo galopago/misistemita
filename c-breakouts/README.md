@@ -30,5 +30,5 @@ Different breakout boards                                           |
 | Breakout for 0.96" OLED 4 pin I2C display      | C10_BREAKOUT | [c10](/c-breakouts/c10)
 | Breakout for Raspberry Pi Pico Board           | C11_BREAKOUT | [c11](/c-breakouts/c11)
 | Breakout for ESP32 Cam Board                   | C12_BREAKOUT | [c12](/c-breakouts/c12)
-| Breakout for 18 pin (2x9) header               | C13_BREAKOUT | c13
+| Breakout for 18 pin (2x9) header               | C13_BREAKOUT | [c13](/c-breakouts/c13)
 
