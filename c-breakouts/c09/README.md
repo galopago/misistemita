@@ -20,7 +20,7 @@ Components required                                 |Ready to enclose           
 ----------------------------------------------------|-------------------------------------------------|
 ![](/c-breakouts/c09/assets/img/componentswired.jpg)|![](/c-breakouts/c09/assets/img/readytoenclose.jpg)|
 
-Installed in box                             |Lid Closed                                       |
----------------------------------------------|-------------------------------------------------|
+Installed in box                             |Lid Closed                                           |
+---------------------------------------------|-----------------------------------------------------|
 ![](/c-breakouts/c09/assets/img/installedinbox.jpg)|![](/c-breakouts/c09/assets/img/lidclosed1.jpg)|
 
