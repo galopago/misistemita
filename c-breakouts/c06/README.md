@@ -1,7 +1,7 @@
 
-# Breakout for free prototyping, 102 PCB pads spaced 2.54mm, some of them connected, 14 pads spaced 3.5mm for screw terminals and 4 holes 10.16 mm spaced, for mounting onto the backplate.
+# Breakout for free prototyping, 102 PCB pads spaced 2.54mm, some of them connected. 14 pads spaced 3.5mm for screw terminals and 4 holes 10.16 mm spaced, for mounting onto the backplate.
 
-Breakout for free prototyping, 102 PCB pads spaced 2.54mm, some of them connected, 14 pads spaced 3.5mm for screw terminals and 4 holes 10.16 mm spaced, for mounting onto the backplate. Ideal for small THD devices like resistors, transistors, small modules and DIP chips.
+Breakout for free prototyping, 102 PCB pads spaced 2.54mm, some of them connected. 14 pads spaced 3.5mm for screw terminals and 4 holes 10.16 mm spaced, for mounting onto the backplate. Ideal for small THD devices such as resistors, transistors, small modules and DIP chips.
 
 # Layout
 
@@ -22,7 +22,7 @@ Electronics and screw connectors installed   |Set attached to a 10.16 pitch back
 
 ## Usage example #1
 
-LiFePo4 battery charger, ESP32 module for WiFi advertizing of charge finished.
+LiFePo4 battery charger connected to an ESP32 module, for advertising via WiFi when charging is completed.
 
 All components wired                                |Ready to enclose                                 |
 ----------------------------------------------------|-------------------------------------------------|
