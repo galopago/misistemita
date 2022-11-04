@@ -25,7 +25,7 @@ Set attached plate adapter                        |Set attached to a 10.16 pitch
 
 Arduino Nano temperature control, with DS18B20 sensor and dry contact relay output. 110/220 VAC Powered.
 
-Components required                                 |Ready to enclose                                 |
+All components in backplate                         |Ready to enclose                                 |
 ----------------------------------------------------|-------------------------------------------------|
 ![](/c-breakouts/c05/assets/img/componentswired.jpg)|![](/c-breakouts/c05/assets/img/readytoenclose.jpg)|
 
