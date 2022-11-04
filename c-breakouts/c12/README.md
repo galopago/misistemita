@@ -21,7 +21,7 @@ Module attached to breakboard                |Set attached to a 10.16 pitch back
 ---------------------------------------------|-------------------------------------------|
 ![](/c-breakouts/c12/assets/img/moduleattached.jpg) |![](/c-breakouts/c12/assets/img/moduleinbackplate.jpg) |
 
-## Configurarion
+## Configuration
 
 The inner pin rows (J1 & J2) are routed by default to the screw terminals J5 & J6. To route the outer pin rows (J3 & J4) to the screw terminals, the default jumper must be cut with an X-Acto and the open jumper must be closed with a solder blob. In the following example the pin J4-2 was routed to the screw terminal J6-2, note that jumper JP29 has been cut and JP39 has been closed by a solder job.
 
