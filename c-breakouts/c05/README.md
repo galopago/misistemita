@@ -23,7 +23,7 @@ Set attached plate adapter                        |Set attached to a 10.16 pitch
 
 ## Usage example #1
 
-Arduino Nano temperature control, with DS18B20 sensor and dry contact relay output. 110/220 VAC Powered.
+Raspberry Pi Zero wired to external switches and powered by USB.
 
 All components in backplate                         |Ready to enclose                                 |
 ----------------------------------------------------|-------------------------------------------------|
