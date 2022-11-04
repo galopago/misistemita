@@ -1,6 +1,12 @@
 
 # Breakout for ESP32 CAM, ESP8266 D1 MINI and ESP32 D1 MINI, or dev boards with 20 pins (2x10 2.54mm pitch) or less and 22,86 mm (or 27.94 mm) separation between headers, 4 holes 10.16 mm spaced, for mounting onto the backplate.
 
+# Simplified schematic and laoyut
+
+Schematic                                      |Layout                                      |
+-----------------------------------------------|--------------------------------------------|
+![](/c-breakouts/c12/assets/img/schematic.png) |![](/c-breakouts/c12/assets/img/layout.png) |
+
 Compact breakout for ESP32 CAM, ESP8266 D1 MINI and ESP32 D1 MINI, or dev boards with 20 pins (2x10 2.54mm pitch) or less and 22,86 mm (or 27.94 mm) separation between headers, 4 holes 10.16 mm spaced, for mounting onto the backplate. The board works without effort for ESP32-CAM and ESP8266 D1 MINI. To keep the board compact, for ESP32 D1 MINI boards only one pin of the double row could be routed to the screw terminals using solder jumpers.
 
 Bare single PCB                              |Panelized PCB                              |
