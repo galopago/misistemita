@@ -1,7 +1,7 @@
 
-# Breakout for I2C 0.96" OLED Display, 4 holes 10.16 mm spaced, for mounting onto the backplate.
+# Breakout for I2C 0.96" OLED Display, 6 holes 10.16 mm spaced, for mounting onto the backplate.
 
-Breakout for I2C 0.96" OLED Display, 4 holes 10.16 mm spaced, for mounting onto the backplate. Also usable for other I2C 4 pin modules
+Breakout for I2C 0.96" OLED Display, 6 holes 10.16 mm spaced, for mounting onto the backplate. Also suitable for other I2C 4-pin modules.
 
 Bare single PCB                              |Panelized PCB                              |
 ---------------------------------------------|-------------------------------------------|
