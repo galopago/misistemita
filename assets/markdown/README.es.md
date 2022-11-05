@@ -11,6 +11,19 @@ Sistema de prototipado basado en 4 tipos (A,B,C,D) de PCB simples y prefabricado
 
 Lea esto en otros idiomas: [English](../../README.md)
 
+Componente                     |Ubicados en el bastidor               |
+-------------------------------|--------------------------------------|
+![](/assets/img/components.jpg)|![](/assets/img/placedinbackplate.jpg)|
+
+Cableado y funcionando       |Bastidor fijado en la caja     |
+-----------------------------|-------------------------------|
+![](/assets/img/allwired.jpg)|![](/assets/img/platefixed.jpg)|
+
+Tapa cerrada y caja instalada en pared |
+---------------------------------------|
+![](/assets/img/installedwall.jpg)     |
+
+
 ## Como usar este repositorio
 
 El PCB fue desarrollado en  KiCad V5.1,
