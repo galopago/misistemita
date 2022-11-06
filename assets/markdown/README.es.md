@@ -13,17 +13,17 @@ El sistema es completamente Open Source, todos los archivos con la informacion n
 
 ### Construye un proyecto totalmente funcional en 5 pasos:
 
-1. Seleccionar componentes     |2. Distribuir los elementos en el bastidor|
--------------------------------|---------------------------------------|
-![](/assets/img/components.jpg)|![](/assets/img/placedinbackplate.jpg)|
+1. Seleccionar componentes     |2. Distribuir los elementos en el bastidor |
+-------------------------------|-------------------------------------------|
+![](/assets/img/components.jpg)|![](/assets/img/placedinbackplate.jpg)     |
 
-3. Cablear y programar          |4. Instalar el bastidor en la caja |
------------------------------|-------------------------------|
-![](/assets/img/allwired.jpg)|![](/assets/img/platefixed.jpg)|
+3. Cablear y programar       |4. Instalar el bastidor en la caja |
+-----------------------------|-----------------------------------|
+![](/assets/img/allwired.jpg)|![](/assets/img/platefixed.jpg)    |
 
 5. Cerrar la tapa e instalar en la pared  |
----------------------------------------|
-![](/assets/img/installedwall.jpg)     |
+------------------------------------------|
+![](/assets/img/installedwall.jpg)        |
 
 ## Componentes del sistema
 
