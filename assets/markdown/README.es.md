@@ -120,14 +120,17 @@ bornera de conexion - multiples tipos |bornera de conexion - punto unificado par
 
 Estas tarjetas se usan para convertir modulos electronicos del tipo DIL a borneras de tornillos, ademas poseen agujeros compatibles para montaje en bastidores con separacion de 10.16 mm.
 
-breakouts - multiples tipos               | breakouts - breakout para Arduino Nano            | breakouts - varios modulos como parte de un proyecto|
+breakouts - multiples tipos               | breakouts - breakout para Arduino Nano            | breakouts - modulos como parte de un proyecto|
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
 ![](/c-breakouts/assets/img/breakouts.jpg)|![](/c-breakouts/c04/assets/img/moduleattached.jpg)|![](/c-breakouts/c04/assets/img/componentswired.jpg)|
 
 ## tarjetas electronicas - electronica activa
 
+Estos dispositivos tienen algun componente electrico/electronico soldado a la tarjeta para realizar funciones especificas.
 
-
+electronica activa - multiples tipos      | breakouts - breakout para Arduino Nano            | breakouts - modulos como parte de un proyecto|
+------------------------------------------|---------------------------------------------------|--------------------------------------------|
+![](/d-electronics/assets/img/electronic-boards.jpg)|![](/c-breakouts/c04/assets/img/moduleattached.jpg)|![](/c-breakouts/c04/assets/img/componentswired.jpg)|
 
 ## Cajas estancas a prueba de agua
 
