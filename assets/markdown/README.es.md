@@ -66,9 +66,23 @@ Pruebas de distancia entre agujeros 5.08, 7.62 y 10.16mm | Pruebas de distancia 
 
 10.16 mm de espacio entre huecos es una distancia que tiene un buen compromiso entre espacio y facilidad para fijar los accesorios de montaje. Dado que esta distancia es multiplo entero de 2.54 mm, estos paneles podrian ser construidos de forma casera con tarjetas universales para PCB
 
-Backplate made of universal PCB | Backplate made of plastic sheet & manual drilling     | 
+Bastidor fabricado con una tarjeta PCB universal | Bastidor fabricado con una lamina de plastico y perforado manualmente | 
 -----------------------------------------------------|------------------------------------------------------|
 ![](/assets/img/backplateuniversalpcb.jpg)|![](/assets/img/backplatemanual.jpg)|
+
+### Elementos de fijacion
+
+Diferentes tipos de elementos para fijacion de las tarjetas al bastidor |
+-----------------------------------------------------|
+![](/assets/img/differentstandoff.jpg)|
+
+
+Para sujetar las tarjetas electronicas al bastidor existen varias posibilidades, por ejemplo
+
+### Separador de nylon sin tornillo
+
+Este elemento es de una sola pieza y permite sujetar las tarjetas al bastidor mediante presion sin requerir herramientas adicionales, para liberarlos se requeriran de unas pinzas
+
 
 ## TARJETAS ELECTRONICAS
 
