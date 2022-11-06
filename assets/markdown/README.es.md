@@ -38,7 +38,18 @@ Bastidores                     | Tarjetas electronicas                 | Cajas e
 
 ## Bastidores
 
+Los bastidores son placas planas con agujeros para montaje distanciados 10.16 mm. A su vez estos bastidores se dividen en 2 grupos: Como panel de montaje o como adaptador mecanico para otros modulos electronicos.
+
+### Panel de montaje
+
+Panel de montaje instalado en la caja               | 
+----------------------------------------------------|
+![](/a-backplates/a01/assets/img/installedinbox.jpg)|
+
+### Adapadores mecanicos
+
 ## Tarjetas electronicas
+
 
 ## Cajas estancas a prueba de agua
 
