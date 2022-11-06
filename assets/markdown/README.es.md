@@ -106,9 +106,15 @@ Separador con tornillo metalico en la tarjeta | Tarjeta sujeta al bastidor      
 
 ## TARJETAS ELECTRONICAS
 
-Las tarjetas electronicas estan agrupadas en 3 familias: Borneras de conexion, electronica activa y breakouts. Como elemento de interconexion entre todas ellas se usan borneras de tornillo, pues estas funcionan bien tanto con cables solidos, como con cables de multiples hilos, adicionalmente no se requiere ponchado de ningun tipo de terminal para usarlas.
+Las tarjetas electronicas estan agrupadas en 3 familias: Borneras de conexion, electronica activa y breakouts. Como elemento de interconexion entre todas ellas se usan borneras de tornillo, pues estas funcionan bien tanto con cables solidos, como con cables de multiples hilos, adicionalmente no se requiere ponchado de ningun tipo de terminal para usarlas. Otro punto adicional es que se pueden conectar varios cables en una misma terminal lo cual es util para hacer puentes.
 
 ## tarjetas electronicas - borneras de conexion
+
+Este tipo de tarjetas genarlmente es usada como puntos de conexion con el mundo exterior, organizando en un mismo lugar la entrada de sensores, salidas y fuentes de alimentacion. Utiles para generar distintos puntos de Alimentacion y/o tierra mediante puentes. 
+
+bornera de conexion - punto unificado para ingreso de cables | bornera de conexion - multiples cables y diferentes tipos|
+---------------------------------|---------------------------------------|---------------------------------------|
+![](/b-screw-terminal-wire-connectors/b03/assets/img/singlepointcloseup.jpg)|![](/assets/img/screwterminaldiversity.jpg) |
 
 ## tarjetas electronicas - electronica activa
 
