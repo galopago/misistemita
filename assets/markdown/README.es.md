@@ -36,7 +36,7 @@ Bastidores                     | Tarjetas electronicas                 | Cajas e
 -------------------------------|---------------------------------------|---------------------------------------|
 ![](/a-backplates/assets/img/backplates.jpg)|![](/assets/img/electronicboards.jpg) |![](/assets/img/wpfenclosures.jpg) |
 
-## Bastidores
+## BASTIDORES
 
 Los bastidores son placas planas con agujeros para montaje distanciados 10.16 mm. A su vez estos bastidores se dividen en 2 grupos: Como panel de montaje o como adaptador mecanico para otros modulos electronicos.
 
@@ -57,9 +57,13 @@ Bastidor - adaptador mecanico                        | Bastidor - adaptador meca
 -----------------------------------------------------|------------------------------------------------------|
 ![](/a-backplates/a03/assets/img/installedinboard.jpg)|![](/a-backplates/a03/assets/img/installedinpanel.jpg)|
 
+La distancia entre huecos de 10.16 surgio despues de experimentar con tarjetas de montaje universal con espaceado de 2.5mm entre agujeros y 3mm de diametro (diametro bastante comun en la mayoria de modulos y tarjetas electronicas dispnibles en el mercado).
 
+Pruebas de distancia entre agujeros                  | Pruebas de distancia entre agujeros con tuercas     | 
+-----------------------------------------------------|------------------------------------------------------|
+![](/assets/img/holespitchtest1.jpg)|![](/assets/img/holespitchtest2.jpg)|
 
-## Tarjetas electronicas
+## TARJETAS ELECTRONICAS
 
 
 ## Cajas estancas a prueba de agua
