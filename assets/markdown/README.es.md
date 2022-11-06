@@ -34,7 +34,7 @@ El sistema de prototipado se basa en 3 grandes componentes:
 
 Bastidores                     | Tarjetas electronicas                 | Cajas estancas a prueba de agua       |
 -------------------------------|---------------------------------------|---------------------------------------|
-![](/a-backplates/assets/img/backplates.jpg)|![](/assets/img/placedinbackplate.jpg) |![](/assets/img/wpfenclosures.jpg) |
+![](/a-backplates/assets/img/backplates.jpg)|![](/assets/img/electronicboards.jpg) |![](/assets/img/wpfenclosures.jpg) |
 
 ## Bastidores
 
