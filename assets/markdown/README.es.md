@@ -12,7 +12,7 @@ Lea esto en otros idiomas: [English](../../README.md)
 El sistema es completamente Open Source, todos los archivos con la informacion necesaria para crear tu propio sistema (esquematicos, PCB, plantillas, etc) estan disponibles para ser descargados.
 
 ### Construye un proyecto totalmente funcional en 5 pasos:
-
+.
 1. Seleccionar componentes     |2. Distribuir los elementos en el bastidor |
 -------------------------------|-------------------------------------------|
 ![](/assets/img/components.jpg)|![](/assets/img/placedinbackplate.jpg)     |
