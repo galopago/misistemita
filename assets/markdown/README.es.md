@@ -1,7 +1,11 @@
 
 # SISTEMA DE PROTOTIPADO SIN SOLDAR, ROBUSTO Y OPEN SOURCE PARA HARDWARE ELECTRONICO
 
-Sistema de prototipado 
+Sistema de prototipado para hardware electronico, robusto, sin necesidad de soldar y open source. Resuelve el tipico problema del circuito que funciona en protoboar y cuando se instala en la practica ya no. Facil de replicar y compatible practicamente con cualquier tipo de modulo y o circuito electronico!
+
+Desordenado y fragil          |Ubicados en el bastidor               |
+------------------------------|--------------------------------------|
+![](/assets/img/protomess.jpg)|![](/assets/img/placedinbackplate.jpg)|
 
 
 Lea esto en otros idiomas: [English](../../README.md)
