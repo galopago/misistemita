@@ -89,7 +89,7 @@ Separador de Nylon en la tarjeta | Tarjetas sujeta al bastidor           | Separ
 
 ### Separador de Nylon con tuerca y tornillo
 
-Separador de Nylon en la tarjeta | Tarjetas sujeta al bastidor           | Separador de Nylon visto desde abajo  |
+Separador con tornillo de Nylon en la tarjeta | Tarjetas sujeta al bastidor           | Separador con tuerca de Nylon visto desde abajo  |
 ---------------------------------|---------------------------------------|---------------------------------------|
 ![](/assets/img/nylonscrewpcb.jpg)|![](/assets/img/nylonscrewpanel.jpg) |![](/assets/img/nylonscrewbelow.jpg) |
 
