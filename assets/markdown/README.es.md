@@ -48,8 +48,6 @@ Bastidor - panel de montaje instalado en la caja    |
 ----------------------------------------------------|
 ![](/a-backplates/a01/assets/img/installedinbox.jpg)|
 
-Construccion alternativa de bastidor con metodos manuales:
-
 ### Bastidor - adaptador mecanico
 
 Este tipo de bastidores se usa para adaptar modulos electronicos que tienen agujeros de montaje, pero que no son compatibles con el espaceado de 10.16mm.
@@ -120,7 +118,7 @@ bornera de conexion - multiples tipos |bornera de conexion - punto unificado par
 
 Estas tarjetas se usan para convertir modulos electronicos del tipo DIL a borneras de tornillos, ademas poseen agujeros compatibles para montaje en bastidores con separacion de 10.16 mm.
 
-breakouts - multiples tipos               | breakouts - breakout para Arduino Nano            | breakouts - modulos como parte de un proyecto|
+breakouts - multiples tipos               | breakouts - breakout para Arduino Nano            | breakouts - modulo como parte de un proyecto|
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
 ![](/c-breakouts/assets/img/breakouts.jpg)|![](/c-breakouts/c04/assets/img/moduleattached.jpg)|![](/c-breakouts/c04/assets/img/componentswired.jpg)|
 
@@ -128,9 +126,9 @@ breakouts - multiples tipos               | breakouts - breakout para Arduino Na
 
 Estos dispositivos tienen algun componente electrico/electronico soldado a la tarjeta para realizar funciones especificas.
 
-electronica activa - multiples tipos      | electronica activa - fuente de poder AC/DC        | breakouts - modulos como parte de un proyecto|
+electronica activa - multiples tipos      | electronica activa - fuente de poder AC/DC        | electronica activa - modulo como parte de un proyecto|
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
-![](/d-electronics/assets/img/electronic-boards.jpg)|![](/d-electronics/d00/assets/img/solderedterminals.jpg)|![](/c-breakouts/c04/assets/img/componentswired.jpg)|
+![](/d-electronics/assets/img/electronic-boards.jpg)|![](/d-electronics/d00/assets/img/solderedterminals.jpg)|![](/c-breakouts/c07/assets/img/componentswired.jpg)|
 
 ## Cajas estancas a prueba de agua
 
