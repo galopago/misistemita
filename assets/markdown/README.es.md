@@ -112,7 +112,7 @@ Las tarjetas electronicas estan agrupadas en 3 familias: Borneras de conexion, e
 
 Este tipo de tarjetas genarlmente es usada como puntos de conexion con el mundo exterior, organizando en un mismo lugar la entrada de sensores, salidas y fuentes de alimentacion. Utiles para generar distintos puntos de Alimentacion y/o tierra mediante puentes. 
 
-bornera de conexion -multiples tipos |bornera de conexion - punto unificado para ingreso de cables |  bornera de conexion - multiples cables y diferentes tipos|
+bornera de conexion - multiples tipos |bornera de conexion - punto unificado para ingreso de cables |  bornera de conexion - multiples cables y diferentes tipos|
 ------------------------|-------------------------------------------------------------|-----------------------------------------------------------|
 ![](/b-screw-terminal-wire-connectors/assets/img/screw-terminal-wire-connectors.jpg)|![](/b-screw-terminal-wire-connectors/b03/assets/img/singlepointcloseup.jpg)|![](/assets/img/screwterminaldiversity.jpg) |
 
@@ -120,9 +120,9 @@ bornera de conexion -multiples tipos |bornera de conexion - punto unificado para
 
 Estas tarjetas se usan para convertir modulos electronicos del tipo DIL a borneras de tornillos, ademas poseen agujeros compatibles para montaje en bastidores con separacion de 10.16 mm.
 
-breakouts - multiples tipos|
------------------------------------------------------|
-![](/c-breakouts/assets/img/breakouts.jpg)|
+breakouts - multiples tipos               | breakouts - breakout para Arduino Nano instalado en panel |
+------------------------------------------|-----------------------------------------------------------|
+![](/c-breakouts/assets/img/breakouts.jpg)|![](/c-breakouts/c04/assets/img/moduleattached.jpg)|
 
 ## tarjetas electronicas - electronica activa
 
