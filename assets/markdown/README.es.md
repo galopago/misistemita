@@ -42,7 +42,7 @@ Los bastidores son placas planas con agujeros para montaje distanciados 10.16 mm
 
 ### Bastidor - panel de montaje
 
-Este tipo de bastidores se sujetan a la caja y sobre ellos se ubicaran todos las tarjetas electronicas compatibles.
+Este tipo de bastidores se sujetan a la caja y sobre ellos se ubicaran todos las tarjetas electronicas compatibles. La fijacion del bastidor a la caja se realiza mediante tornillos autoroscantes
 
 Bastidor - panel de montaje instalado en la caja    | 
 ----------------------------------------------------|
@@ -77,22 +77,32 @@ Diferentes tipos de elementos para fijacion de las tarjetas al bastidor |
 ![](/assets/img/differentstandoff.jpg)|
 
 
-Para sujetar las tarjetas electronicas al bastidor existen varias posibilidades, por ejemplo
+Para sujetar las tarjetas electronicas al bastidor (dejando un espacio entre de ellas para evitar cortocircuitos), existen varias posibilidades, por ejemplo:
 
 ### Separador de nylon sin tornillo
 
 Este elemento es de una sola pieza y permite sujetar las tarjetas al bastidor mediante presion sin requerir herramientas adicionales, para liberarlos se requeriran de unas pinzas
 
-Separador de Nylon en la tarjeta | Tarjetas sujeta al bastidor           | Separador de Nylon visto desde abajo  |
+Separador de Nylon en la tarjeta | Tarjeta sujeta al bastidor           | Separador de Nylon visto desde abajo  |
 ---------------------------------|---------------------------------------|---------------------------------------|
 ![](/assets/img/nylonspacerpcb.jpg)|![](/assets/img/nylonspacerpanel.jpg) |![](/assets/img/nylonspacerbelow.jpg) |
 
 ### Separador de Nylon con tuerca y tornillo
 
-Separador con tornillo de Nylon en la tarjeta | Tarjetas sujeta al bastidor           | Separador con tuerca de Nylon visto desde abajo  |
+Este elemento esta compuesto de 3 piezas: separador, tuerca y tornillo. Se requiere de un destornillador para fijar y soltar.
+
+Separador con tornillo de Nylon en la tarjeta | Tarjeta sujeta al bastidor           | Separador con tuerca de Nylon visto desde abajo  |
 ---------------------------------|---------------------------------------|---------------------------------------|
 ![](/assets/img/nylonscrewpcb.jpg)|![](/assets/img/nylonscrewpanel.jpg) |![](/assets/img/nylonscrewbelow.jpg) |
 
+
+### Separador metalico con tuerca y tornillo
+
+Este elemento esta compuesto de 3 piezas: separador, tuerca y tornillo. Se requiere de un destornillador para fijar y soltar.
+
+Separador con tornillo metalico en la tarjeta | Tarjeta sujeta al bastidor           | Separador con tuerca metalica vista desde abajo  |
+---------------------------------|---------------------------------------|---------------------------------------|
+![](/assets/img/metalscrewpcb.jpg)|![](/assets/img/metalscrewpanel.jpg) |![](/assets/img/metalscrewbelow.jpg) |
 
 ## TARJETAS ELECTRONICAS
 
