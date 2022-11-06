@@ -130,7 +130,7 @@ Estos dispositivos tienen algun componente electrico/electronico soldado a la ta
 
 electronica activa - multiples tipos      | electronica activa - fuente de poder AC/DC        | breakouts - modulos como parte de un proyecto|
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
-![](/d-electronics/assets/img/electronic-boards.jpg)|![](/d-electronics/assets/d00/img/solderedterminals.jpg)|![](/c-breakouts/c04/assets/img/componentswired.jpg)|
+![](/d-electronics/assets/img/electronic-boards.jpg)|![](/d-electronics/d00/assets/img/solderedterminals.jpg)|![](/c-breakouts/c04/assets/img/componentswired.jpg)|
 
 ## Cajas estancas a prueba de agua
 
