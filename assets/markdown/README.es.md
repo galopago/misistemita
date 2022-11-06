@@ -85,7 +85,7 @@ Este elemento es de una sola pieza y permite sujetar las tarjetas al bastidor me
 
 Separador de Nylon en la tarjeta | Tarjetas sujeta al bastidor           | Separador de Nylon visto desde abajo  |
 ---------------------------------|---------------------------------------|---------------------------------------|
-![](/a-backplates/assets/img/nylonspacerpcb.jpg)|![](/assets/img/nylonspacerpanel.jpg) |![](/assets/img/nylonspacerbelow.jpg) |
+![](/assets/img/nylonspacerpcb.jpg)|![](/assets/img/nylonspacerpanel.jpg) |![](/assets/img/nylonspacerbelow.jpg) |
 
 
 ## TARJETAS ELECTRONICAS
