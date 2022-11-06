@@ -87,6 +87,12 @@ Separador de Nylon en la tarjeta | Tarjetas sujeta al bastidor           | Separ
 ---------------------------------|---------------------------------------|---------------------------------------|
 ![](/assets/img/nylonspacerpcb.jpg)|![](/assets/img/nylonspacerpanel.jpg) |![](/assets/img/nylonspacerbelow.jpg) |
 
+### Separador de Nylon con tuerca y tornillo
+
+Separador de Nylon en la tarjeta | Tarjetas sujeta al bastidor           | Separador de Nylon visto desde abajo  |
+---------------------------------|---------------------------------------|---------------------------------------|
+![](/assets/img/nylonscrewpcb.jpg)|![](/assets/img/nylonscrewpanel.jpg) |![](/assets/img/nylonscrewbelow.jpg) |
+
 
 ## TARJETAS ELECTRONICAS
 
