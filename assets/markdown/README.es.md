@@ -128,9 +128,9 @@ breakouts - multiples tipos               | breakouts - breakout para Arduino Na
 
 Estos dispositivos tienen algun componente electrico/electronico soldado a la tarjeta para realizar funciones especificas.
 
-electronica activa - multiples tipos      | breakouts - breakout para Arduino Nano            | breakouts - modulos como parte de un proyecto|
+electronica activa - multiples tipos      | electronica activa - fuente de poder AC/DC        | breakouts - modulos como parte de un proyecto|
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
-![](/d-electronics/assets/img/electronic-boards.jpg)|![](/c-breakouts/c04/assets/img/moduleattached.jpg)|![](/c-breakouts/c04/assets/img/componentswired.jpg)|
+![](/d-electronics/assets/img/electronic-boards.jpg)|![](/d-electronics/d01/assets/img/soldered-terminals.jpg)|![](/c-breakouts/c04/assets/img/componentswired.jpg)|
 
 ## Cajas estancas a prueba de agua
 
