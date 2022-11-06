@@ -12,16 +12,16 @@ Lea esto en otros idiomas: [English](../../README.md)
 El sistema es completamente Open Source, todos los archivos con la informacion necesaria para crear tu propio sistema (esquematicos, PCB, plantillas, etc) estan disponibles para ser descargados.
 
 ### Construye un proyecto totalmente funcional en 5 pasos:
-.
-1. Seleccionar componentes     |2. Distribuir los elementos en el bastidor |
+
+1.Seleccionar componentes      |2.Distribuir los elementos en el bastidor |
 -------------------------------|-------------------------------------------|
 ![](/assets/img/components.jpg)|![](/assets/img/placedinbackplate.jpg)     |
 
-3. Cablear y programar       |4. Instalar el bastidor en la caja |
+3.Cablear y programar       |4.Instalar el bastidor en la caja |
 -----------------------------|-----------------------------------|
 ![](/assets/img/allwired.jpg)|![](/assets/img/platefixed.jpg)    |
 
-5. Cerrar la tapa e instalar en la pared  |
+5.Cerrar la tapa e instalar en la pared  |
 ------------------------------------------|
 ![](/assets/img/installedwall.jpg)        |
 
