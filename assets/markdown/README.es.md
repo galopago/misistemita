@@ -130,7 +130,14 @@ electronica activa - multiples tipos      | electronica activa - fuente de poder
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
 ![](/d-electronics/assets/img/electronic-boards.jpg)|![](/d-electronics/d00/assets/img/solderedterminals.jpg)|![](/c-breakouts/c07/assets/img/componentswired.jpg)|
 
-## Cajas estancas a prueba de agua
+Al igual que se pueden construir bastidores de forma casera, tambien es posible construir tarjetas electronicas compatibles de la misma forma, siempre y cuando se usen terminales de bornera de tornillo y se respete los agujeros para montaje para que sean compatibles con bastidores de 10.16 mm de espaceado
+
+construccion casera de tarjetas compatibles      | electronica activa - fuente de poder AC/DC        | electronica activa - modulo como parte de un proyecto|
+------------------------------------------|---------------------------------------------------|--------------------------------------------|
+![](/assets/img/homemadeboards.jpg)|![](/d-electronics/d00/assets/img/solderedterminals.jpg)|![](/c-breakouts/c07/assets/img/componentswired.jpg)|
+
+
+## CAJAS ESTANCAS A PRUEBA DE AGUA
 
 
 Sistema de prototipado basado en 4 tipos (A,B,C,D) de PCB simples y prefabricados que cumplen las siguientes reglas:
