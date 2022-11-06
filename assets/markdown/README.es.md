@@ -5,7 +5,7 @@ Sistema de prototipado para hardware electronico, robusto, sin necesidad de sold
 
 Desordenado y fragil          |Ubicados en el bastidor               |
 ------------------------------|--------------------------------------|
-![](/assets/img/protomess.jpg)|![](/assets/img/placedinbackplate.jpg)|
+![](/assets/img/protomess.jpg)|![](/assets/img/finishedinwall.jpg)|
 
 
 Lea esto en otros idiomas: [English](../../README.md)
