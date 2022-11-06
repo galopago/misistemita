@@ -38,7 +38,7 @@ Bastidores                     | Tarjetas electronicas                 | Cajas e
 
 ## BASTIDORES
 
-Los bastidores son placas planas con agujeros para montaje distanciados 10.16 mm. A su vez estos bastidores se dividen en 2 grupos: Como panel de montaje o como adaptador mecanico para otros modulos electronicos.
+Los bastidores son placas planas con agujeros para montaje distanciados 10.16 mm. A su vez estos bastidores se dividen en 2 grupos: Como panel de montaje o como adaptador mecanico para otros modulos electronicos. Estos bastidores estan fabricados como PCB, sinembargo pueden ser hechos con otros materiales y procedimientos como corte laser, maquinado CNC o incluso de forma casera con taladro y sierra.
 
 ### Bastidor - panel de montaje
 
@@ -48,6 +48,7 @@ Bastidor - panel de montaje instalado en la caja    |
 ----------------------------------------------------|
 ![](/a-backplates/a01/assets/img/installedinbox.jpg)|
 
+Construccion alternativa de bastidor con metodos manuales:
 
 ### Bastidor - adaptador mecanico
 
@@ -59,9 +60,15 @@ Bastidor - adaptador mecanico                        | Bastidor - adaptador meca
 
 La distancia entre huecos de 10.16 surgio despues de experimentar con tarjetas de montaje universal con espaceado de 2.5mm entre agujeros y 3mm de diametro (diametro bastante comun en la mayoria de modulos y tarjetas electronicas dispnibles en el mercado).
 
-Pruebas de distancia entre agujeros                  | Pruebas de distancia entre agujeros con tuercas     | 
+Pruebas de distancia entre agujeros 5.08, 7.62 y 10.16mm | Pruebas de distancia entre agujeros 5.08, 7.62 y 10.16mm con tuercas     | 
 -----------------------------------------------------|------------------------------------------------------|
 ![](/assets/img/holespitchtest1.jpg)|![](/assets/img/holespitchtest2.jpg)|
+
+10.16 mm de espacio entre huecos es una distancia que tiene un buen compromiso entre espacio y facilidad para fijar los accesorios de montaje. Dado que esta distancia es multiplo entero de 2.54 mm, estos paneles podrian ser construidos de forma casera con tarjetas universales para PCB
+
+Backplate made of universal PCB | Backplate made of plastic sheet & manual drilling     | 
+-----------------------------------------------------|------------------------------------------------------|
+![](/assets/img/backplateuniversalpcb.jpg)|![](/assets/img/backplatemanual.jpg)|
 
 ## TARJETAS ELECTRONICAS
 
