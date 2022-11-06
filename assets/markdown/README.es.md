@@ -55,7 +55,7 @@ Este tipo de bastidores se usa para adaptar modulos electronicos que tienen aguj
 
 Bastidor - adaptador mecanico                        | Bastidor - adaptador mecanico instalado en panel     | 
 -----------------------------------------------------|------------------------------------------------------|
-![](/a-backplates/a03/assets/img/installedinbard.jpg)|![](/a-backplates/a03/assets/img/installedinpanel.jpg)|
+![](/a-backplates/a03/assets/img/installedinboard.jpg)|![](/a-backplates/a03/assets/img/installedinpanel.jpg)|
 
 
 
