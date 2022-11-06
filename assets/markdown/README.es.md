@@ -3,22 +3,23 @@
 
 Sistema de prototipado para hardware electronico, robusto, sin necesidad de soldar y open source. Resuelve el tipico problema del circuito que funciona en protoboar y cuando se instala en la practica ya no. Facil de replicar y compatible practicamente con cualquier tipo de modulo y o circuito electronico!
 
-Desordenado y fragil          |Ubicados en el bastidor               |
-------------------------------|--------------------------------------|
+Como pasar de esto!           |A esto!                            |
+------------------------------|-----------------------------------|
 ![](/assets/img/protomess.jpg)|![](/assets/img/finishedinwall.jpg)|
-
 
 Lea esto en otros idiomas: [English](../../README.md)
 
-Componentes                    |Ubicados en el bastidor               |
--------------------------------|--------------------------------------|
+### Construye un proyecto totalmente funcional en 5 pasos:
+
+Seleccionar componentes        |Distribuir los elementos en el bastidor|
+-------------------------------|---------------------------------------|
 ![](/assets/img/components.jpg)|![](/assets/img/placedinbackplate.jpg)|
 
-Cableado y funcionando       |Bastidor fijado en la caja     |
+Cablear y programar          | Instalar el bastidor en la caja |
 -----------------------------|-------------------------------|
 ![](/assets/img/allwired.jpg)|![](/assets/img/platefixed.jpg)|
 
-Tapa cerrada y caja instalada en pared |
+Cerrar la tapa e instalar en la pared  |
 ---------------------------------------|
 ![](/assets/img/installedwall.jpg)     |
 
