@@ -209,16 +209,16 @@ Different types of cable glands | holes for cable glands installation | Power an
 
 Panel mount connectors limit the amount of dust and moisture that can enter the enclosure at the cable entry point. Additionally, they provide strain support, avoiding internal disconnections.Usually they were used when wires need to be disconnected frequently. Sometimes soldering or crimping is required.
 
-Algunos tipos de conectores de montaje en panel | Conectores de panel tipo aviacion y USB-B | Cables de alimentacion y señales ingresan por los conectores de panel|
+Sample of some types of panel mount connectors | USB-B and aviation panel mount connectors | Power and signal cables through panel mount connectors|
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
 ![](/assets/img/panelmountconnectors.jpg)|![](/assets/img/panelmountconnectors1.jpg)|![](/assets/img/panelmountconnectors2.jpg)|
 
-# Archivos e informacion adicional:
+# Files and additional info:
 
 | DESCRIPCION                                                     | ENLACE                                   
 |-----------------------------------------------------------------|----------------------------------------------------------------------
-| Archivos para construccion de bastidores                        | [Bastidores](/a-backplates)
-| Archivos para construccion de tarjetas de borneras de conexion  | [Tarjetas de borneras de conexion](/b-screw-terminal-wire-connectors)
-| Archivos para construccion de tarjetas breakout                 | [Tarjetas breakout](/c-breakouts)
-| Archivos para construccion de tarjetas activas                  | [Tarjetas activas](/d-electronics)
-| Ejemplos completos de proyectos usando Misistemita              | [Galopago](https://galopago.github.io/espanol)
+| Source files for backplates                                     | [Backplates](/a-backplates)
+| Source files for screw terminal connectors                      | [Screw terminal connectors](/b-screw-terminal-wire-connectors)
+| Source files for breakouts                                      | [Breakout](/c-breakouts)
+| Source files for active boards                                  | [active boards](/d-electronics)
+| Complete finished examples using Misistemita                    | [Galopago](https://galopago.github.io)
