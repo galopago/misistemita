@@ -207,12 +207,10 @@ Algunos tipos de conectores de montaje en panel | Conectores de panel tipo aviac
 
 # Archivos e informacion adicional:
 
-| DESCRICION                                                      | ENLACE                                   
-|-----------------------------------------------------------------|-------------------------
-| Archivos para construccion de Bastidores                        | [a00](/a-backplates/a00)
-| Backplate for generic 158 x 90 x 60 mm waterproof enclosure     | [a01](/a-backplates/a01)
-| Backplate for generic 200 x 120 x 75 mm waterproof enclosure    | [a02](/a-backplates/a02)
-| Backplate for Raspberry Pi Zero to 10.16 mm spaced holes        | [a03](/a-backplates/a03)
-| Backplate for Raspberry Pi 3B+ to 10.16 mm spaced holes         | [a04](/a-backplates/a04)
-| Backplate for PSU YXDY 5V 3.8A S-20W-5 to 10.16 mm spaced holes | [a05](/a-backplates/a05)
-| Backplate for generic 100 x 68  x 52 mm waterproof enclosure    | [a06](/a-backplates/a06)
+| DESCRIPCION                                                     | ENLACE                                   
+|-----------------------------------------------------------------|----------------------------------------------------------------------
+| Archivos para construccion de bastidores                        | [Bastidores](/a-backplates)
+| Archivos para construccion de tarjetas de borneras de conexion  | [Tarjetas de borneras de conexion](/b-screw-terminal-wire-connectors)
+| Archivos para construccion de tarjetas breakout                 | [Tarjetas breakout](/c-breakouts)
+| Archivos para construccion de tarjetas activas                  | [Tarjetas activas](/d-electronics)
+| Ejemplos completos de proyectos usando Misistemita              | [Galopago](https://galopago.github.io)
