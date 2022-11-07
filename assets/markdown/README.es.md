@@ -1,7 +1,7 @@
 
 # SISTEMA DE PROTOTIPADO SIN SOLDAR, ROBUSTO Y OPEN SOURCE PARA HARDWARE ELECTRONICO
 
-Sistema de prototipado para hardware electronico, robusto, sin necesidad de soldar y open source. Resuelve el tipico problema del circuito que funciona en protoboar y cuando se instala en la practica ya no. Facil de replicar y compatible practicamente con cualquier tipo de modulo y o circuito electronico!
+Sistema de prototipado para hardware electronico, robusto, sin necesidad de soldar y open source. Resuelve el tipico problema del circuito que funciona en protoboard y cuando se instala en la practica no!. Facil de replicar y compatible practicamente con cualquier tipo de modulo y o circuito electronico!
 
 Como pasar de esto!           |A esto!                            |
 ------------------------------|-----------------------------------|
@@ -38,12 +38,12 @@ Bastidores                     | Tarjetas electronicas                 | Cajas e
 
 ## BASTIDORES
 
-Los bastidores son placas planas con agujeros para montaje distanciados 10.16 mm. A su vez estos bastidores se dividen en 2 grupos: Como panel de montaje o como adaptador mecanico para otros modulos electronicos. Estos bastidores estan fabricados como PCB, sinembargo pueden ser hechos con otros materiales y procedimientos como corte laser, maquinado CNC o incluso de forma casera con taladro y sierra.
+Los bastidores son placas planas con agujeros para montaje distanciados 10.16 mm. A su vez, estos bastidores se dividen en 2 grupos: panel de montaje o adaptador mecanico para otros modulos electronicos. Estos bastidores estan fabricados como PCB, sin embargo pueden ser hechos con otros materiales y procedimientos como corte laser, maquinado CNC o incluso de forma casera con taladro y sierra.
 [Archivos para construccion de bastidores](/a-backplates)
 
 ### Bastidor - panel de montaje
 
-Este tipo de bastidores se sujetan a la caja y sobre ellos se ubicaran todos las tarjetas electronicas compatibles. La fijacion del bastidor a la caja se realiza mediante tornillos autoroscantes
+Este tipo de bastidores se sujetan a la caja y sobre ellos se ubicaran todos las tarjetas electronicas compatibles. La fijacion del bastidor a la caja se realiza mediante tornillos autorroscantes
 
 Bastidor - panel de montaje instalado en la caja    | 
 ----------------------------------------------------|
@@ -51,19 +51,19 @@ Bastidor - panel de montaje instalado en la caja    |
 
 ### Bastidor - adaptador mecanico
 
-Este tipo de bastidores se usa para adaptar modulos electronicos que tienen agujeros de montaje, pero que no son compatibles con el espaceado de 10.16mm.
+Este tipo de bastidores se usa para adaptar modulos electronicos que tienen agujeros de montaje, pero que no son compatibles con el espaciado de 10.16 mm.
 
 Bastidor - adaptador mecanico                        | Bastidor - adaptador mecanico instalado en panel     | 
 -----------------------------------------------------|------------------------------------------------------|
 ![](/a-backplates/a03/assets/img/installedinboard.jpg)|![](/a-backplates/a03/assets/img/installedinpanel.jpg)|
 
-La distancia entre huecos de 10.16 surgio despues de experimentar con tarjetas de montaje universal con espaceado de 2.5mm entre agujeros y 3mm de diametro (diametro bastante comun en la mayoria de modulos y tarjetas electronicas dispnibles en el mercado).
+La distancia entre huecos de 10.16 mm surgio despues de experimentar con tarjetas de montaje universal con espaciado de 2.54 mm entre agujeros y 3 mm de diametro (diametro bastante comun en la mayoria de modulos y tarjetas electronicas disponibles en el mercado).
 
-Pruebas de distancia entre agujeros 5.08, 7.62 y 10.16mm | Pruebas de distancia entre agujeros 5.08, 7.62 y 10.16mm con tuercas     | 
+Pruebas de distancia entre agujeros 5.08, 7.62 y 10.16mm | Pruebas de distancia entre agujeros 5.08, 7.62 y 10.16 mm con tuercas     | 
 -----------------------------------------------------|------------------------------------------------------|
 ![](/assets/img/holespitchtest1.jpg)|![](/assets/img/holespitchtest2.jpg)|
 
-10.16 mm de espacio entre huecos es una distancia que tiene un buen compromiso entre espacio y facilidad para fijar los accesorios de montaje. Dado que esta distancia es multiplo entero de 2.54 mm, estos paneles podrian ser construidos de forma casera con tarjetas universales para PCB
+10.16 mm de espacio entre huecos es una distancia que tiene un buen compromiso entre espacio y facilidad para fijar los accesorios de montaje. Dado que esta distancia es multiplo entero de 2.54 mm, estos paneles podrian ser construidos de forma casera con tarjetas PCB universales
 
 Bastidor fabricado con una tarjeta PCB universal | Bastidor fabricado con una lamina de plastico y perforado manualmente | 
 -----------------------------------------------------|------------------------------------------------------|
@@ -78,15 +78,15 @@ Diferentes tipos de elementos para fijacion de las tarjetas al bastidor |
 
 Para sujetar las tarjetas electronicas al bastidor (dejando un espacio entre de ellas para evitar cortocircuitos), existen varias posibilidades, por ejemplo:
 
-### Separador de nylon sin tornillo
+### Separador de nailon sin tornillo
 
-Este elemento es de una sola pieza y permite sujetar las tarjetas al bastidor mediante presion sin requerir herramientas adicionales, para liberarlos se requeriran de unas pinzas
+Este elemento es de una sola pieza y permite sujetar las tarjetas al bastidor mediante presion sin requerir herramientas adicionales, para liberarlos se requerira de unas pinzas
 
-Separador de Nylon en la tarjeta | Tarjeta sujeta al bastidor           | Separador de Nylon visto desde abajo  |
+Separador de nailon en la tarjeta | Tarjeta sujeta al bastidor           | Separador de nailon visto desde abajo  |
 ---------------------------------|---------------------------------------|---------------------------------------|
 ![](/assets/img/nylonspacerpcb.jpg)|![](/assets/img/nylonspacerpanel.jpg) |![](/assets/img/nylonspacerbelow.jpg) |
 
-### Separador de Nylon con tuerca y tornillo
+### Separador de nailon con tuerca y tornillo
 
 Este elemento esta compuesto de 3 piezas: separador, tuerca y tornillo. Se requiere de un destornillador para fijar y soltar.
 
