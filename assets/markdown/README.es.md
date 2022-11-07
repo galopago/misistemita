@@ -105,11 +105,11 @@ Separador con tornillo metalico en la tarjeta | Tarjeta sujeta al bastidor      
 
 ## TARJETAS ELECTRONICAS
 
-Las tarjetas electronicas estan agrupadas en 3 familias: Borneras de conexion, electronica activa y breakouts. Como elemento de interconexion entre todas ellas se usan borneras de tornillo, pues estas funcionan bien tanto con cables solidos, como con cables de multiples hilos, adicionalmente no se requiere ponchado de ningun tipo de terminal para usarlas. Otro punto adicional es que se pueden conectar varios cables en una misma terminal lo cual es util para hacer puentes.
+Las tarjetas electronicas estan agrupadas en 3 familias: Borneras de conexion, electronica activa y breakouts. Como elemento de interconexion entre todas ellas se usan borneras de tornillo, pues estas funcionan bien tanto con cables solidos, como con cables de multiples hilos, adicionalmente no se requiere ponchado de ningun tipo de terminal para usarlas. Otro punto adicional es que se pueden conectar varios cables en una misma terminal, lo cual es util para hacer puentes.
 
 ### tarjetas electronicas - borneras de conexion
 
-Este tipo de tarjetas genarlmente es usada como puntos de conexion con el mundo exterior, organizando en un mismo lugar la entrada de sensores, salidas y fuentes de alimentacion. Utiles para generar distintos puntos de Alimentacion y/o tierra mediante puentes. 
+Este tipo de tarjetas generalmente es usada como punto de conexion con el mundo exterior, organizando en un mismo lugar la entrada de sensores, salidas y fuentes de alimentacion. Utiles para generar distintos puntos conectados a la Alimentacion y/o tierra mediante puentes. 
 [Archivos para construccion de tarjetas de borneras de conexion](/b-screw-terminal-wire-connectors)
 
 bornera de conexion - multiples tipos |bornera de conexion - punto unificado para ingreso de cables |  bornera de conexion - multiples cables y diferentes tipos|
@@ -134,22 +134,22 @@ electronica activa - multiples tipos      | electronica activa - fuente de poder
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
 ![](/d-electronics/assets/img/electronic-boards.jpg)|![](/d-electronics/d00/assets/img/solderedterminals.jpg)|![](/c-breakouts/c07/assets/img/componentswired.jpg)|
 
-Al igual que se pueden construir bastidores de forma casera, tambien es posible construir tarjetas electronicas compatibles de la misma forma, siempre y cuando se usen terminales de bornera de tornillo y se respete los agujeros para montaje para que sean compatibles con bastidores de 10.16 mm de espaceado
+Al igual que se pueden construir bastidores de forma casera, tambien es posible construir tarjetas electronicas compatibles de la misma forma, siempre y cuando se usen terminales de bornera de tornillo y se respete los agujeros para montaje para que sean compatibles con bastidores de 10.16 mm de espaciado
 
-construccion casera de tarjetas compatibles | proyecto mezclando tarjetas fabricadas de forma industrial y caseras | proyecto hibrido instalado y funcionando|
+construccion casera de tarjetas compatibles | proyecto hibrido mezclando tarjetas fabricadas de forma industrial y caseras | proyecto hibrido instalado y funcionando|
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
 ![](/assets/img/homemadeboards.jpg)|![](/assets/img/industrialandhomemadeboards.jpg)|![](/assets/img/industrialandhomemadeinstalled.jpg)|
 
 
 ## CAJAS ESTANCAS A PRUEBA DE AGUA
 
-El sistema esta basado en cajas estancas, a prueba de agua que cumplan con las siguientes cualidades:
+El sistema esta basado en cajas estancas, a prueba de agua, que cumplan con las siguientes cualidades:
 * Postes para montaje de tarjeta PCB o bastidor mediante tornillos 
 * Posibilidad para montaje en pared sin romper la caja
 
 ### cajas estancas a prueba de agua - puntos para montaje de bastidor mediante tornillo
 
-Las cajas deben poser postes en el fondo donde se fijaran los tornillos autoroscantes que aseguraran el bastidor. Dichos agujeros generalmente vienen pre-taladrados y nunca deberian transpasar la tapa trasera de la caja. 
+Las cajas deben poseer postes en el fondo donde se fijaran los tornillos autorroscantes que aseguraran el bastidor. Dichos agujeros generalmente vienen pre-taladrados y nunca deberian traspasar la tapa trasera de la caja. 
 
 Postes para fijacion del bastidor a la caja |
 --------------------------------------------|
@@ -157,7 +157,7 @@ Postes para fijacion del bastidor a la caja |
 
 ### cajas estancas a prueba de agua - Posibilidad para montaje en pared sin romper la caja
 
-Las cajas deben poseer orejas externas para su montaje en pared. La otra alternativa son cajas que poseen agujeros en la parte trasera pero que estos no transpasan la tapa. En este caso se requiere de algunos accesorios adicionales para el montaje
+Las cajas deben poseer orejas externas para su montaje en pared. La otra alternativa son cajas que poseen agujeros en la parte trasera, pero que estos no traspasan la tapa. En este caso se requiere de algunos accesorios adicionales para el montaje
 
 Cajas con diversas alternativas para montar en pared |
 -----------------------------------------------------|
@@ -170,7 +170,7 @@ Caja con orejas montada en la pared directamente mediante tornillos |
 
 ### Accesorios para fijacion
 
-En caso de que la caja sea del tipo de orificion en la parte de atras, se puede reccurrir a accesorios para montaje de cuadros en pared como alternativa:
+En caso de que la caja sea del tipo que tiene orificios en la parte de atras, se puede recurrir a accesorios para montaje de cuadros en pared como alternativa:
 
 Accesorios metalicos para montaje de cuadros en la pared, rectos y en forma de Z |
 ---------------------------------------------------------|
@@ -195,7 +195,7 @@ Para evitar que el agua y el polvo ingresen a la caja por el sitio por donde ing
 
 ### Pasacables
 
-Los pasacables permiten limitar la cantidad de polvo y la humedar que puedan ingresar a la caja en el sitio  en que los cables entran. Adicionalmente proveen soporte mecanico ante tirones, evitando asi desconexiones internas. Estos pasacables vienen en diferentes tamaños dependiendo del grosor del cable usado. Generalmente se utilizan para instalaciones permamentes, pues para desenchufar el cable requiere que la caja sea abierta.
+Los pasacables permiten limitar la cantidad de polvo y la humedad que puedan ingresar a la caja en el sitio  en que los cables entran. Adicionalmente, proveen soporte mecanico ante tirones, evitando asi desconexiones internas. Estos pasacables vienen en diferentes tamaños dependiendo del grosor del cable usado. Generalmente, se utilizan para instalaciones permanentes, pues para desenchufar el cable requiere que la caja sea abierta.
 
 Algunos tipos de pasacables | Agujeros para instalacion de pasacables | Cables de alimentacion y señales ingresan por los pasacables|
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
@@ -203,7 +203,7 @@ Algunos tipos de pasacables | Agujeros para instalacion de pasacables | Cables d
 
 ### Conectores de montaje en panel
 
-Los conectores de montaje en panel permiten limitar la cantidad de polvo y la humedar que puedan ingresar a la caja en el sitio  en que los cables entran. Adicionalmente proveen soporte mecanico ante tirones, evitando asi desconexiones internas. Generalmente se utilizan cuando se require desconectar frecuentemente el sistema.
+Los conectores de montaje en panel permiten limitar la cantidad de polvo y la humedad que puedan ingresar a la caja en el sitio  en que los cables entran. Adicionalmente, proveen soporte mecanico ante tirones, evitando asi desconexiones internas. Generalmente, se utilizan cuando se require desconectar frecuentemente el sistema.
 
 Algunos tipos de conectores de montaje en panel | Conectores de panel tipo aviacion y USB-B | Cables de alimentacion y señales ingresan por los conectores de panel|
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
