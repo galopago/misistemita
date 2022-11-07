@@ -39,6 +39,7 @@ Bastidores                     | Tarjetas electronicas                 | Cajas e
 ## BASTIDORES
 
 Los bastidores son placas planas con agujeros para montaje distanciados 10.16 mm. A su vez estos bastidores se dividen en 2 grupos: Como panel de montaje o como adaptador mecanico para otros modulos electronicos. Estos bastidores estan fabricados como PCB, sinembargo pueden ser hechos con otros materiales y procedimientos como corte laser, maquinado CNC o incluso de forma casera con taladro y sierra.
+[Archivos para construccion de bastidores](/a-backplates)
 
 ### Bastidor - panel de montaje
 
