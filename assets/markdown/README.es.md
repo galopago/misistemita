@@ -193,10 +193,17 @@ Para evitar que el agua y el polvo ingresen a la caja por el sitio por donde ing
 
 Los pasacables permiten limitar la cantidad de polvo y la humedar que puedan ingresar a la caja en el sitio  en que los cables entran. Adicionalmente proveen soporte mecanico ante tirones, evitando asi desconexiones internas. Estos pasacables vienen en diferentes tamaños dependiendo del grosor del cable usado. Generalmente se utilizan para instalaciones permamentes, pues para desenchufar el cable requiere que la caja sea abierta.
 
-Diferentes tipos de pasacables | Agujeros para instalacion de pasacables | Cables de alimentacion y señales ingresan por los pasacables|
+Algunos tipos de pasacables | Agujeros para instalacion de pasacables | Cables de alimentacion y señales ingresan por los pasacables|
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
 ![](/assets/img/cableglands.jpg)|![](/assets/img/cableglands1.jpg)|![](/assets/img/cableglands2.jpg)|
 
+### Conectores de montaje en panel
+
+Los conectores de montaje en panel permiten limitar la cantidad de polvo y la humedar que puedan ingresar a la caja en el sitio  en que los cables entran. Adicionalmente proveen soporte mecanico ante tirones, evitando asi desconexiones internas. Generalmente se utilizan cuando se require desconectar frecuentemente el sistema.
+
+Algunos tipos de conectores de montaje en panel | Conectores de panel tipo aviacion y USB-B | Cables de alimentacion y señales ingresan por los conectores de panel|
+------------------------------------------|---------------------------------------------------|--------------------------------------------|
+![](/assets/img/panelmountconnectors.jpg)|![](/assets/img/panelmountconnectors1.jpg)|![](/assets/img/panelmountconnectors2.jpg)|
 
 Sistema de prototipado basado en 4 tipos (A,B,C,D) de PCB simples y prefabricados que cumplen las siguientes reglas:
 
