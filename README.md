@@ -36,16 +36,17 @@ Backplates                     | Electronic boards                     | Waterpr
 -------------------------------|---------------------------------------|---------------------------------------|
 ![](/a-backplates/assets/img/backplates.jpg)|![](/assets/img/electronicboards.jpg) |![](/assets/img/wpfenclosures.jpg) |
 
-## BASTIDORES
+## BACKPLATES
 
-Los bastidores son placas planas con agujeros para montaje distanciados 10.16 mm. A su vez, estos bastidores se dividen en 2 grupos: panel de montaje o adaptador mecanico para otros modulos electronicos. Estos bastidores estan fabricados como PCB, sin embargo pueden ser hechos con otros materiales y procedimientos como corte laser, maquinado CNC o incluso de forma casera con taladro y sierra.
-[Archivos para construccion de bastidores](/a-backplates)
+Backplates are flat plates with a distance between holes of 10.16 mm. Backplates are classified as follows: backplates fixed to the enclosure and mechanical adapters for other kinds of modules. The backplates are made in PCB houses, however, they can be built with other materials and processes like laser cutting, CNC machining or homemade with drill and saw!
+[Source files for backplates](/a-backplates)
 
-### Bastidor - panel de montaje
 
-Este tipo de bastidores se sujetan a la caja y sobre ellos se ubicaran todos las tarjetas electronicas compatibles. La fijacion del bastidor a la caja se realiza mediante tornillos autorroscantes
+### Backplates - fixed to the enclosure
 
-Bastidor - panel de montaje instalado en la caja    | 
+This kind of backplates is fixed to the enclosure, all compatible boards are placed on it. The fixing of the backplate to the enclosure is done with self-tapping screws
+
+Backplates - fixed to the enclosure   | 
 ----------------------------------------------------|
 ![](/a-backplates/a01/assets/img/installedinbox.jpg)|
 
