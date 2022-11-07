@@ -146,17 +146,18 @@ homebuilt compatible electronic boards | hybrid project mixing industrial and ho
 ![](/assets/img/homemadeboards.jpg)|![](/assets/img/industrialandhomemadeboards.jpg)|![](/assets/img/industrialandhomemadeinstalled.jpg)|
 
 
-## CAJAS ESTANCAS A PRUEBA DE AGUA
+## WATERPROOF ENCLOSURES
 
-El sistema esta basado en cajas estancas, a prueba de agua, que cumplan con las siguientes cualidades:
-* Postes para montaje de tarjeta PCB o bastidor mediante tornillos 
-* Posibilidad para montaje en pared sin romper la caja
+The system is based on waterproof enclosures with the following characteristics:
+* shall have mounting bosses for the PCB or backplate.
+* must be able to be mounted on the wall without drilling the enclosure
 
-### cajas estancas a prueba de agua - puntos para montaje de bastidor mediante tornillo
 
-Las cajas deben poseer postes en el fondo donde se fijaran los tornillos autorroscantes que aseguraran el bastidor. Dichos agujeros generalmente vienen pre-taladrados y nunca deberian traspasar la tapa trasera de la caja. 
+### waterproof enclosures - mounting bosses for the PCB using self-tapping screws
 
-Postes para fijacion del bastidor a la caja |
+The enclosures shall have mounting bosses where the backplate will be attached using self-tapping screws. Those holes usually came pre-drilled and should not break the enclosure
+
+mounting bosses for the PCB |
 --------------------------------------------|
 ![](/assets/img/backplatemountingpoints.jpg)|
 
