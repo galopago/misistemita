@@ -129,12 +129,12 @@ breakouts - Different types               | breakouts - breakout for Arduino Nan
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
 ![](/c-breakouts/assets/img/breakouts.jpg)|![](/c-breakouts/c04/assets/img/moduleattached.jpg)|![](/c-breakouts/c04/assets/img/componentswired.jpg)|
 
-### tarjetas electronicas - electronica activa
+### electronic boards - active boards
 
-Estos dispositivos tienen algun componente electrico/electronico soldado a la tarjeta para realizar funciones especificas.
-[Archivos para construccion de tarjetas activas](/d-electronics)
+This type of board has some electrical/electronic component soldered in to do a specific function.
+[Source files for active boards](/d-electronics)
 
-electronica activa - multiples tipos      | electronica activa - fuente de poder AC/DC        | electronica activa - modulo como parte de un proyecto|
+electronic boards - Different types       | electronic boards - AC/DC  power supply      | electronic boards - module as a part of a project |
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
 ![](/d-electronics/assets/img/electronic-boards.jpg)|![](/d-electronics/d00/assets/img/solderedterminals.jpg)|![](/c-breakouts/c07/assets/img/componentswired.jpg)|
 
