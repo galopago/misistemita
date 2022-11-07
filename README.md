@@ -220,5 +220,5 @@ Sample of some types of panel mount connectors | USB-B and aviation panel mount 
 | Source files for backplates                                     | [Backplates](/a-backplates)
 | Source files for screw terminal connectors                      | [Screw terminal connectors](/b-screw-terminal-wire-connectors)
 | Source files for breakouts                                      | [Breakout](/c-breakouts)
-| Source files for active boards                                  | [active boards](/d-electronics)
+| Source files for active boards                                  | [Active boards](/d-electronics)
 | Complete finished examples using Misistemita                    | [Galopago](https://galopago.github.io)
