@@ -50,11 +50,12 @@ Backplates - fixed to the enclosure   |
 ----------------------------------------------------|
 ![](/a-backplates/a01/assets/img/installedinbox.jpg)|
 
-### Bastidor - adaptador mecanico
+### Backplates - mechanical adapter
 
-Este tipo de bastidores se usa para adaptar modulos electronicos que tienen agujeros de montaje, pero que no son compatibles con el espaciado de 10.16 mm.
+This kind of adapters are used to convert modules that have mounting holes, but not compatible with 10.16 mm
 
-Bastidor - adaptador mecanico                        | Bastidor - adaptador mecanico instalado en panel     | 
+
+Backplates - mechanical adapter                      | Backplates - mechanical adapter installed on panel     | 
 -----------------------------------------------------|------------------------------------------------------|
 ![](/a-backplates/a03/assets/img/installedinboard.jpg)|![](/a-backplates/a03/assets/img/installedinpanel.jpg)|
 
