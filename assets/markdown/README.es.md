@@ -159,6 +159,12 @@ Cajas con diversas alternativas para montar en pared |
 -----------------------------------------------------|
 ![](/assets/img/wallmountorifices.jpg)               |
 
+Caja con orejas montada en lapared directamente mediante tornillos |
+-------------------------------------------------------------------|
+![](/assets/img/wallmountedenclosure.jpg)                          |
+
+
+
 ### Accesorios para fijacion
 
 En caso de que la caja sea del tipo de orificion en la parte de atras, se puede reccurrir a accesorios para montaje de cuadros en pared como alternativa:
