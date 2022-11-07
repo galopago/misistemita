@@ -106,16 +106,17 @@ Metal spacer with screw on board  | Board attached to the backplate           | 
 ---------------------------------|---------------------------------------|---------------------------------------|
 ![](/assets/img/metalscrewpcb.jpg)|![](/assets/img/metalscrewpanel.jpg) |![](/assets/img/metalscrewbelow.jpg) |
 
-## TARJETAS ELECTRONICAS
+## ELECTRONIC BOARDS
 
-Las tarjetas electronicas estan agrupadas en 3 familias: Borneras de conexion, electronica activa y breakouts. Como elemento de interconexion entre todas ellas se usan borneras de tornillo, pues estas funcionan bien tanto con cables solidos, como con cables de multiples hilos, adicionalmente no se requiere ponchado de ningun tipo de terminal para usarlas. Otro punto adicional es que se pueden conectar varios cables en una misma terminal, lo cual es util para hacer puentes.
+Electronic boards are classified as follows:screw terminal connectors, breakouts and active boards. Screw terminals are used as a means of interconnection between all of them, because they work pretty well for solid wire and stranded cable, in addition no crimping is needed. Another good point is that many wires can be attached to the same terminal, very helpful for connecting wire jumpers.
 
-### tarjetas electronicas - borneras de conexion
+### electronic boards - screw terminal connectors
 
-Este tipo de tarjetas generalmente es usada como punto de conexion con el mundo exterior, organizando en un mismo lugar la entrada de sensores, salidas y fuentes de alimentacion. Utiles para generar distintos puntos conectados a la Alimentacion y/o tierra mediante puentes. 
-[Archivos para construccion de tarjetas de borneras de conexion](/b-screw-terminal-wire-connectors)
+This type of board is used as a connection point to the external world, organizing in the same spot, sensor inputs, outputs and power sources. Helpful to provide multiple VCC and GND connection points using wire jumpers
+[Source files for screw terminal connectors](/b-screw-terminal-wire-connectors)
 
-bornera de conexion - multiples tipos |bornera de conexion - punto unificado para ingreso de cables |  bornera de conexion - multiples cables y diferentes tipos|
+
+screw terminal connectors - Different types  |screw terminal connectors - unified spot for cable ingress |  screw terminal connectors - wire diversity|
 ------------------------|-------------------------------------------------------------|-----------------------------------------------------------|
 ![](/b-screw-terminal-wire-connectors/assets/img/screw-terminal-wire-connectors.jpg)|![](/b-screw-terminal-wire-connectors/b03/assets/img/singlepointcloseup.jpg)|![](/assets/img/screwterminaldiversity.jpg) |
 
