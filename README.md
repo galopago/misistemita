@@ -38,7 +38,7 @@ Backplates                     | Electronic boards                     | Waterpr
 
 ## BACKPLATES
 
-Backplates are flat plates with a distance between holes of 10.16 mm. Backplates are classified as follows: backplates fixed to the enclosure and mechanical adapters for other kinds of modules. The backplates are made in PCB houses, however, they can be built with other materials and processes like laser cutting, CNC machining or homemade with drill and saw!
+Backplates are flat plates with a distance between holes of 10.16 mm. Backplates are classified as follows: backplates fixed to the enclosure and mechanical adapters for other kinds of modules. The backplates are made in PCB houses, however, they can be built with other materials and processes like laser cutting, CNC machining or homemade with drill and saw!.
 [Source files for backplates](/a-backplates)
 
 
@@ -112,7 +112,7 @@ Electronic boards are classified as follows:screw terminal connectors, breakouts
 
 ### electronic boards - screw terminal connectors
 
-This type of board is used as a connection point to the external world, organizing in the same spot, sensor inputs, outputs and power sources. Helpful to provide multiple VCC and GND connection points using wire jumpers
+This type of board is used as a connection point to the external world, organizing in the same spot, sensor inputs, outputs and power sources. Helpful to provide multiple VCC and GND connection points using wire jumpers. They also have holes compatible with 10.16 mm pitch backplates.
 [Source files for screw terminal connectors](/b-screw-terminal-wire-connectors)
 
 
@@ -120,12 +120,12 @@ screw terminal connectors - Different types  |screw terminal connectors - unifie
 ------------------------|-------------------------------------------------------------|-----------------------------------------------------------|
 ![](/b-screw-terminal-wire-connectors/assets/img/screw-terminal-wire-connectors.jpg)|![](/b-screw-terminal-wire-connectors/b03/assets/img/singlepointcloseup.jpg)|![](/assets/img/screwterminaldiversity.jpg) |
 
-### tarjetas electronicas - breakouts
+### electronic boards - breakouts
 
-Estas tarjetas se usan para convertir modulos electronicos del tipo DIL a borneras de tornillos, ademas poseen agujeros compatibles para montaje en bastidores con separacion de 10.16 mm.
-[Archivos para construccion de tarjetas breakout](/c-breakouts)
+This type of board is used to convert DIL style electronic modules into screw terminals, they also have holes compatible with 10.16 mm pitch backplates.
+[Source files for breakouts](/c-breakouts)
 
-breakouts - multiples tipos               | breakouts - breakout para Arduino Nano            | breakouts - modulo como parte de un proyecto|
+breakouts - Different types               | breakouts - breakout for Arduino Nano            | breakouts - module as a part of a project |
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
 ![](/c-breakouts/assets/img/breakouts.jpg)|![](/c-breakouts/c04/assets/img/moduleattached.jpg)|![](/c-breakouts/c04/assets/img/componentswired.jpg)|
 
