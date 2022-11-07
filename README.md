@@ -71,20 +71,19 @@ Backplate made of universal PCB  | Backplate made of plastic sheet and hand dril
 -----------------------------------------------------|------------------------------------------------------|
 ![](/assets/img/backplateuniversalpcb.jpg)|![](/assets/img/backplatemanual.jpg)|
 
-### Elementos de fijacion
+### Fixing elements
 
-Diferentes tipos de elementos para fijacion de las tarjetas al bastidor |
+Different types of fixing elements for securing boards to backplate |
 -----------------------------------------------------|
 ![](/assets/img/differentstandoff.jpg)|
 
+To secure boards to backplate (leaving some gap to avoid shortcuts), there are many possibilities like:
 
-Para sujetar las tarjetas electronicas al bastidor (dejando un espacio entre de ellas para evitar cortocircuitos), existen varias posibilidades, por ejemplo:
+### Nylon spacer without screws
 
-### Separador de nailon sin tornillo
+This is a single piece element that allows to attach the boards to the backplate without tools, to detach them a pliers are required
 
-Este elemento es de una sola pieza y permite sujetar las tarjetas al bastidor mediante presion sin requerir herramientas adicionales, para liberarlos se requerira de unas pinzas
-
-Separador de nailon en la tarjeta | Tarjeta sujeta al bastidor           | Separador de nailon visto desde abajo  |
+Nylon spacer on board | Board attached to the backplate           | spacer from below  |
 ---------------------------------|---------------------------------------|---------------------------------------|
 ![](/assets/img/nylonspacerpcb.jpg)|![](/assets/img/nylonspacerpanel.jpg) |![](/assets/img/nylonspacerbelow.jpg) |
 
