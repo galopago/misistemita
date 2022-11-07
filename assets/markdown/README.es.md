@@ -163,7 +163,7 @@ Cajas con diversas alternativas para montar en pared |
 
 En caso de que la caja sea del tipo de orificion en la parte de atras, se puede reccurrir a accesorios para montaje de cuadros en pared como alternativa:
 
-Accesorios metalicos para montaje de cuadros en la pared |
+Accesorios metalicos para montaje de cuadros en la pared, rectos y en forma de Z |
 ---------------------------------------------------------|
 ![](/assets/img/wallmountaccessories.jpg)                |
 
@@ -171,6 +171,10 @@ Accesorios metalicos para montaje de cuadros en la pared |
 usando accesorio recto para montaje en pared | detalle del accesorio recto una vez montado | vista general del proyecto montado con accesorios rectos|
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
 ![](/assets/img/flatwallmount1.jpg)|![](/assets/img/flatwallmount2.jpg)|![](/assets/img/flatwallmount3.jpg)|
+
+usando accesorio en forma de Z para montaje en pared | detalle del accesorio en forma de Z una vez montado | vista general del proyecto montado con accesorios en forma de Z|
+------------------------------------------|---------------------------------------------------|--------------------------------------------|
+![](/assets/img/zwallmount1.jpg)|![](/assets/img/zwallmount2.jpg)|![](/assets/img/finishedinwall.jpg)|
 
 Sistema de prototipado basado en 4 tipos (A,B,C,D) de PCB simples y prefabricados que cumplen las siguientes reglas:
 
