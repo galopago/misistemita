@@ -205,9 +205,9 @@ Different types of cable glands | holes for cable glands installation | Power an
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
 ![](/assets/img/cableglands.jpg)|![](/assets/img/cableglands1.jpg)|![](/assets/img/cableglands2.jpg)|
 
-### Conectores de montaje en panel
+### Panel mount connectors
 
-Los conectores de montaje en panel permiten limitar la cantidad de polvo y la humedad que puedan ingresar a la caja en el sitio  en que los cables entran. Adicionalmente, proveen soporte mecanico ante tirones, evitando asi desconexiones internas. Generalmente, se utilizan cuando se require desconectar frecuentemente el sistema.
+Panel mount connectors limit the amount of dust and moisture that can enter the enclosure at the cable entry point. Additionally, they provide strain support, avoiding internal disconnections.Usually they were used when wires need to be disconnected frequently. Sometimes soldering or crimping is required.
 
 Algunos tipos de conectores de montaje en panel | Conectores de panel tipo aviacion y USB-B | Cables de alimentacion y señales ingresan por los conectores de panel|
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
