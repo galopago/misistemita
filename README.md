@@ -1,5 +1,10 @@
+# ELECTRONIC HARDWARE SOLDERLESS PROTOTYPING SYSTEM, ROBUST AND OPEN SOURCE
 
-# ELECTRONIC HARDWARE ROBUST PROTOTYPING SYSTEM
+Electronic hardware prototyping system, robust, solderless and open source. Solves the typical problem of the circuit that works on breadboard but stop working on a real world installation. Easy to replicate and compatible with almost all electronics modules.
+
+From this!                     |To this!                              |
+-------------------------------|--------------------------------------|
+![](/assets/img/protomess.jpg)|![](/assets/img/finishedinwall.jpg)|
 
 Prototyping system based on 4 types (A,B,C,D) of simple, pre made PCB that follows some rules:
 
