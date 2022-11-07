@@ -138,9 +138,10 @@ electronic boards - Different types       | electronic boards - AC/DC  power sup
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
 ![](/d-electronics/assets/img/electronic-boards.jpg)|![](/d-electronics/d00/assets/img/solderedterminals.jpg)|![](/c-breakouts/c07/assets/img/componentswired.jpg)|
 
-Al igual que se pueden construir bastidores de forma casera, tambien es posible construir tarjetas electronicas compatibles de la misma forma, siempre y cuando se usen terminales de bornera de tornillo y se respete los agujeros para montaje para que sean compatibles con bastidores de 10.16 mm de espaciado
+Same as homebuilt backplates, electronic boards also could be manufactured in a similar fashion, as long as screw terminals were used and mounting holes in increments of 10.16 mm were drilled
 
-construccion casera de tarjetas compatibles | proyecto hibrido mezclando tarjetas fabricadas de forma industrial y caseras | proyecto hibrido instalado y funcionando|
+
+homebuilt compatible electronic boards | hybrid project mixing industrial and homebuilt boards | hybrid project installed and working|
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
 ![](/assets/img/homemadeboards.jpg)|![](/assets/img/industrialandhomemadeboards.jpg)|![](/assets/img/industrialandhomemadeinstalled.jpg)|
 
