@@ -59,9 +59,9 @@ Backplates - mechanical adapter                      | Backplates - mechanical a
 -----------------------------------------------------|------------------------------------------------------|
 ![](/a-backplates/a03/assets/img/installedinboard.jpg)|![](/a-backplates/a03/assets/img/installedinpanel.jpg)|
 
-La distancia entre huecos de 10.16 mm surgio despues de experimentar con tarjetas de montaje universal con espaciado de 2.54 mm entre agujeros y 3 mm de diametro (diametro bastante comun en la mayoria de modulos y tarjetas electronicas disponibles en el mercado).
+The distance between holes of 10.16 mm was found after experimentation, using an universal PCB with 2.54 mm space between holes. The 3 mm of diameter was chosen because it is a very  common hole diameter in electronic modules found online)
 
-Pruebas de distancia entre agujeros 5.08, 7.62 y 10.16mm | Pruebas de distancia entre agujeros 5.08, 7.62 y 10.16 mm con tuercas     | 
+Distance test between holes 5.08, 7.62 y 10.16mm | Distance test between holes 5.08, 7.62 y 10.16 mm with nuts | 
 -----------------------------------------------------|------------------------------------------------------|
 ![](/assets/img/holespitchtest1.jpg)|![](/assets/img/holespitchtest2.jpg)|
 
