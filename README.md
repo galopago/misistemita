@@ -65,9 +65,9 @@ Distance test between holes 5.08, 7.62 y 10.16mm | Distance test between holes 5
 -----------------------------------------------------|------------------------------------------------------|
 ![](/assets/img/holespitchtest1.jpg)|![](/assets/img/holespitchtest2.jpg)|
 
-10.16 mm de espacio entre huecos es una distancia que tiene un buen compromiso entre espacio y facilidad para fijar los accesorios de montaje. Dado que esta distancia es multiplo entero de 2.54 mm, estos paneles podrian ser construidos de forma casera con tarjetas PCB universales
+10.16 mm of distance between holes is a good compromise between compactness and ease of attachment of accessories. Given that the distance of 10.16 mm is an integer multiple of 2.54 mm, these panels could be homebuilt with universal PCB 
 
-Bastidor fabricado con una tarjeta PCB universal | Bastidor fabricado con una lamina de plastico y perforado manualmente | 
+Backplate made of universal PCB  | Backplate made of plastic sheet and hand drilled | 
 -----------------------------------------------------|------------------------------------------------------|
 ![](/assets/img/backplateuniversalpcb.jpg)|![](/assets/img/backplatemanual.jpg)|
 
