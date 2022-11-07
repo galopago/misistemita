@@ -191,19 +191,17 @@ Z-shaped hanging accessories | detail of Z-shaped hanging accessories | project 
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
 ![](/assets/img/zwallmount1.jpg)|![](/assets/img/zwallmount2.jpg)|![](/assets/img/finishedinwall.jpg)|
 
+### Cable ingress accessories
 
-### Accesorios para acceso de cables
+To avoid moisture and dust infiltration in the enclosure at the cable entry point, this system uses two alternatives:
+* Cable glands
+* Panel mount connectors
 
-Para evitar que el agua y el polvo ingresen a la caja por el sitio por donde ingresan los cables, existen diferentes alternativas, este sistema usa dos de ellas:
+### Cable glands
 
-* Pasacables
-* Conectores de montaje en panel
+Cable glands limit the amount of dust and moisture that can enter the enclosure at the cable entry point. Additionally, they provide strain support, avoiding internal disconnections. Cable glands were available in many sizes according to cable thickness. Usually they were used in permanent installations, because the enclosure has to be opened to disconnect the cables.
 
-### Pasacables
-
-Los pasacables permiten limitar la cantidad de polvo y la humedad que puedan ingresar a la caja en el sitio  en que los cables entran. Adicionalmente, proveen soporte mecanico ante tirones, evitando asi desconexiones internas. Estos pasacables vienen en diferentes tamaños dependiendo del grosor del cable usado. Generalmente, se utilizan para instalaciones permanentes, pues para desenchufar el cable requiere que la caja sea abierta.
-
-Algunos tipos de pasacables | Agujeros para instalacion de pasacables | Cables de alimentacion y señales ingresan por los pasacables|
+Different types of cable glands | holes for cable glands installation | Power and signal cables through cable glands|
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
 ![](/assets/img/cableglands.jpg)|![](/assets/img/cableglands1.jpg)|![](/assets/img/cableglands2.jpg)|
 
