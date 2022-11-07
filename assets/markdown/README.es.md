@@ -110,6 +110,7 @@ Las tarjetas electronicas estan agrupadas en 3 familias: Borneras de conexion, e
 ### tarjetas electronicas - borneras de conexion
 
 Este tipo de tarjetas genarlmente es usada como puntos de conexion con el mundo exterior, organizando en un mismo lugar la entrada de sensores, salidas y fuentes de alimentacion. Utiles para generar distintos puntos de Alimentacion y/o tierra mediante puentes. 
+[Archivos para construccion de tarjetas de borneras de conexion](/b-screw-terminal-wire-connectors)
 
 bornera de conexion - multiples tipos |bornera de conexion - punto unificado para ingreso de cables |  bornera de conexion - multiples cables y diferentes tipos|
 ------------------------|-------------------------------------------------------------|-----------------------------------------------------------|
@@ -118,6 +119,7 @@ bornera de conexion - multiples tipos |bornera de conexion - punto unificado par
 ### tarjetas electronicas - breakouts
 
 Estas tarjetas se usan para convertir modulos electronicos del tipo DIL a borneras de tornillos, ademas poseen agujeros compatibles para montaje en bastidores con separacion de 10.16 mm.
+[Archivos para construccion de tarjetas breakout](/c-breakouts)
 
 breakouts - multiples tipos               | breakouts - breakout para Arduino Nano            | breakouts - modulo como parte de un proyecto|
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
@@ -126,6 +128,7 @@ breakouts - multiples tipos               | breakouts - breakout para Arduino Na
 ### tarjetas electronicas - electronica activa
 
 Estos dispositivos tienen algun componente electrico/electronico soldado a la tarjeta para realizar funciones especificas.
+[Archivos para construccion de tarjetas activas](/d-electronics)
 
 electronica activa - multiples tipos      | electronica activa - fuente de poder AC/DC        | electronica activa - modulo como parte de un proyecto|
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
