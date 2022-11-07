@@ -161,11 +161,11 @@ mounting bosses for the PCB |
 --------------------------------------------|
 ![](/assets/img/backplatemountingpoints.jpg)|
 
-### cajas estancas a prueba de agua - Posibilidad para montaje en pared sin romper la caja
+### waterproof enclosures - wall mount without enclosure drilling
 
-Las cajas deben poseer orejas externas para su montaje en pared. La otra alternativa son cajas que poseen agujeros en la parte trasera, pero que estos no traspasan la tapa. En este caso se requiere de algunos accesorios adicionales para el montaje
+The enclosures must have external mounting ears. There are other kind of boxes that have some holes in the back for mounting purposes, but those holes do not break in the enclosure. In this particular case, some additional accessories will be required.
 
-Cajas con diversas alternativas para montar en pared |
+waterproof enclosures with several wall mounting methods|
 -----------------------------------------------------|
 ![](/assets/img/wallmountorifices.jpg)               |
 
