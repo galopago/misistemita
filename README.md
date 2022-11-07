@@ -169,25 +169,25 @@ waterproof enclosures with several wall mounting methods|
 -----------------------------------------------------|
 ![](/assets/img/wallmountorifices.jpg)               |
 
-Caja con orejas montada en la pared directamente mediante tornillos |
+waterproof enclosures with mounting ears fixed directly to the wall with screws |
 -------------------------------------------------------------------|
 ![](/assets/img/wallmountedenclosure.jpg)                          |
 
 
-### Accesorios para fijacion
+### Fixing accessories
 
-En caso de que la caja sea del tipo que tiene orificios en la parte de atras, se puede recurrir a accesorios para montaje de cuadros en pared como alternativa:
+For enclosures with mounting holes in the back, some picture hanging accessories will be handy for mounting them.
 
-Accesorios metalicos para montaje de cuadros en la pared, rectos y en forma de Z |
+Accessories for wall hanging pictures, flat and Z-shaped |
 ---------------------------------------------------------|
 ![](/assets/img/wallmountaccessories.jpg)                |
 
 
-usando accesorio recto para montaje en pared | detalle del accesorio recto una vez montado | vista general del proyecto montado con accesorios rectos|
+flat hanging accessories | detail of flat hanging accessories  | project using flat hanging accessories for mounting|
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
 ![](/assets/img/flatwallmount1.jpg)|![](/assets/img/flatwallmount2.jpg)|![](/assets/img/flatwallmount3.jpg)|
 
-usando accesorio en forma de Z para montaje en pared | detalle del accesorio en forma de Z una vez montado | vista general del proyecto montado con accesorios en forma de Z|
+Z-shaped hanging accessories | detail of Z-shaped hanging accessories | project using Z-shaped hanging accessories for mounting|
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
 ![](/assets/img/zwallmount1.jpg)|![](/assets/img/zwallmount2.jpg)|![](/assets/img/finishedinwall.jpg)|
 
