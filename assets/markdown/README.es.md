@@ -205,51 +205,14 @@ Algunos tipos de conectores de montaje en panel | Conectores de panel tipo aviac
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
 ![](/assets/img/panelmountconnectors.jpg)|![](/assets/img/panelmountconnectors1.jpg)|![](/assets/img/panelmountconnectors2.jpg)|
 
-Sistema de prototipado basado en 4 tipos (A,B,C,D) de PCB simples y prefabricados que cumplen las siguientes reglas:
+# Archivos e informacion adicional:
 
-* los agujeros de montaje estan espaceados en multiplos de 10.16 mm.
-* las conexiones entre tarjetas se realizan mediante borneras de tornillo.
-* hacen uso de cajas a prueba de agua, estandar, baratas y faciles de conseguir
-
-
-## Como usar este repositorio
-
-El PCB fue desarrollado en  KiCad V5.1,
-
-
-## Estructura de directorios
-
-* El directorio raiz contiene los archivos KiCad : proyecto, esquematico y PCB .
-* El directorio meta contiene informacion basica y se requiere para que el proyecto pueda ser importado como una plantilla de KiCad 
-* a-backplates :  PCB sin componentes, bastidores para cajas estancas, etc.
-* b-screw-terminal-wire-connectors: Para realizar conexiones externas de alimentacion y/o sensores
-* c-breakouts: Convierten tarjetas de pines, a borneras de tornillos
-* d-electronics: Tarjetas con componentes electronicos y/o circuitos mas complejos
-* el directorio docs contiene informacion adicional sobre el proyecto
-
-facil de replicar
-robusto
-sin soldar
-open source
-
-modular
-
-funcional
-
-
-* borneras de tornillos:
-cable sin necesidad de crimpar
-calbe de un solo hilo o varios
-varios cables en un solo terminal (puentes de tierra)
-
-* cajas a prueba de agua
-con montaje para bastidor
-montaje en pared sin romper la caja (orejas o agujeros para tornillos con accesorios)
-componentes para ingreso de cables: pasacables y conectores de panel
-
-*bastidor  agujeros de montaje multiplos de 10.16
-Se puede usar como plantilla un pcb universal con espaciado de 2.54mm
-M3 lo mas comun!
-10.16 surgio despues de experimetnacion, lo suficientemente cerca para poder sujetar mediante tuercas M3 flanchadas
-componentes de sujeccion de tarjetas al bastidor
-
+| DESCRICION                                                      | PCB MARK      | ENLACE                                   
+|-----------------------------------------------------------------|---------------|------
+| Backplate for generic 83 x 58 x 33 mm waterproof enclosure      | A00_BACKPLATE |  [a00](/a-backplates/a00)
+| Backplate for generic 158 x 90 x 60 mm waterproof enclosure     | A01_BACKPLATE |  [a01](/a-backplates/a01)
+| Backplate for generic 200 x 120 x 75 mm waterproof enclosure    | A02_BACKPLATE |  [a02](/a-backplates/a02)
+| Backplate for Raspberry Pi Zero to 10.16 mm spaced holes        | A03_BACKPLATE |  [a03](/a-backplates/a03)
+| Backplate for Raspberry Pi 3B+ to 10.16 mm spaced holes         | A04_BACKPLATE |  [a04](/a-backplates/a04)
+| Backplate for PSU YXDY 5V 3.8A S-20W-5 to 10.16 mm spaced holes | A05_BACKPLATE |  [a05](/a-backplates/a05)
+| Backplate for generic 100 x 68  x 52 mm waterproof enclosure    | A06_BACKPLATE |  [a06](/a-backplates/a06)
