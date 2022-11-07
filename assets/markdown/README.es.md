@@ -155,10 +155,17 @@ Postes para fijacion del bastidor a la caja |
 
 Las cajas deben poseer orejas externas para su montaje en pared. La otra alternativa son cajas que poseen agujeros en la parte trasera pero que estos no transpasan la tapa. En este caso se requiere de algunos accesorios adicionales para el montaje
 
-Cajas con diversas alternativas para montar en pared | proyecto mezclando tarjetas fabricadas de forma industrial y caseras | proyecto hibrido instalado y funcionando|
-------------------------------------------|---------------------------------------------------|--------------------------------------------|
-![](/assets/img/wallmountorifices.jpg)|![](/assets/img/industrialandhomemadeboards.jpg)|![](/assets/img/industrialandhomemadeinstalled.jpg)|
+Cajas con diversas alternativas para montar en pared |
+-----------------------------------------------------|
+![](/assets/img/wallmountorifices.jpg)               |
 
+### Accesorios para fijacion
+
+En caso de que la caja sea del tipo de orificion en la parte de atras, se puede reccurrir a accesorios para montaje de cuadros en pared como alternativa:
+
+Cajas con diversas alternativas para montar en pared |
+-----------------------------------------------------|
+![](/assets/img/wallmountaccessories.jpg)               |
 
 
 Sistema de prototipado basado en 4 tipos (A,B,C,D) de PCB simples y prefabricados que cumplen las siguientes reglas:
