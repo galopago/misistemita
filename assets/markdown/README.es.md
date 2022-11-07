@@ -159,10 +159,9 @@ Cajas con diversas alternativas para montar en pared |
 -----------------------------------------------------|
 ![](/assets/img/wallmountorifices.jpg)               |
 
-Caja con orejas montada en lapared directamente mediante tornillos |
+Caja con orejas montada en la pared directamente mediante tornillos |
 -------------------------------------------------------------------|
 ![](/assets/img/wallmountedenclosure.jpg)                          |
-
 
 
 ### Accesorios para fijacion
@@ -181,6 +180,23 @@ usando accesorio recto para montaje en pared | detalle del accesorio recto una v
 usando accesorio en forma de Z para montaje en pared | detalle del accesorio en forma de Z una vez montado | vista general del proyecto montado con accesorios en forma de Z|
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
 ![](/assets/img/zwallmount1.jpg)|![](/assets/img/zwallmount2.jpg)|![](/assets/img/finishedinwall.jpg)|
+
+
+### Accesorios para acceso de cables
+
+Para evitar que el agua y el polvo ingresen a la caja por el sitio por donde ingresan los cables, existen diferentes alternativas, este sistema usa dos de ellas:
+
+* Pasacables
+* Conectores de montaje en panel
+
+### Pasacables
+
+Los pasacables permiten limitar la cantidad de polvo y la humedar que puedan ingresar a la caja en el sitio  en que los cables entran. Estos pasacables vienen en diferentes tamaños dependiendo del grosor del cable usado. Generalmente se utilizan para instalaciones permamentes, pues para desenchufar el cable requiere que la caja sea abierta.
+
+Diferentes tipos de pasacables | detalle del accesorio recto una vez montado | vista general del proyecto montado con accesorios rectos|
+------------------------------------------|---------------------------------------------------|--------------------------------------------|
+![](/assets/img/cableglands.jpg)|![](/assets/img/flatwallmount2.jpg)|![](/assets/img/flatwallmount3.jpg)|
+
 
 Sistema de prototipado basado en 4 tipos (A,B,C,D) de PCB simples y prefabricados que cumplen las siguientes reglas:
 
