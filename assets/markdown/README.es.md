@@ -106,7 +106,7 @@ Separador con tornillo metalico en la tarjeta | Tarjeta sujeta al bastidor      
 
 Las tarjetas electronicas estan agrupadas en 3 familias: Borneras de conexion, electronica activa y breakouts. Como elemento de interconexion entre todas ellas se usan borneras de tornillo, pues estas funcionan bien tanto con cables solidos, como con cables de multiples hilos, adicionalmente no se requiere ponchado de ningun tipo de terminal para usarlas. Otro punto adicional es que se pueden conectar varios cables en una misma terminal lo cual es util para hacer puentes.
 
-## tarjetas electronicas - borneras de conexion
+### tarjetas electronicas - borneras de conexion
 
 Este tipo de tarjetas genarlmente es usada como puntos de conexion con el mundo exterior, organizando en un mismo lugar la entrada de sensores, salidas y fuentes de alimentacion. Utiles para generar distintos puntos de Alimentacion y/o tierra mediante puentes. 
 
@@ -114,7 +114,7 @@ bornera de conexion - multiples tipos |bornera de conexion - punto unificado par
 ------------------------|-------------------------------------------------------------|-----------------------------------------------------------|
 ![](/b-screw-terminal-wire-connectors/assets/img/screw-terminal-wire-connectors.jpg)|![](/b-screw-terminal-wire-connectors/b03/assets/img/singlepointcloseup.jpg)|![](/assets/img/screwterminaldiversity.jpg) |
 
-## tarjetas electronicas - breakouts
+### tarjetas electronicas - breakouts
 
 Estas tarjetas se usan para convertir modulos electronicos del tipo DIL a borneras de tornillos, ademas poseen agujeros compatibles para montaje en bastidores con separacion de 10.16 mm.
 
@@ -122,7 +122,7 @@ breakouts - multiples tipos               | breakouts - breakout para Arduino Na
 ------------------------------------------|---------------------------------------------------|--------------------------------------------|
 ![](/c-breakouts/assets/img/breakouts.jpg)|![](/c-breakouts/c04/assets/img/moduleattached.jpg)|![](/c-breakouts/c04/assets/img/componentswired.jpg)|
 
-## tarjetas electronicas - electronica activa
+### tarjetas electronicas - electronica activa
 
 Estos dispositivos tienen algun componente electrico/electronico soldado a la tarjeta para realizar funciones especificas.
 
@@ -138,6 +138,19 @@ construccion casera de tarjetas compatibles | proyecto mezclando tarjetas fabric
 
 
 ## CAJAS ESTANCAS A PRUEBA DE AGUA
+
+El sistema esta basado en cajas estancas, a prueba de agua que cumplan con las siguientes cualidades:
+* Postes para montaje de tarjeta PCB o bastidor mediante tornillos 
+* Posibilidad para montaje en pared sin romper la caja
+
+### cajas estancas a prueba de agua - puntos para montaje de bastidor mediante tornillo
+
+Las cajas deben poser postes en el fondo donde se fijaran los tornillos autoroscantes que aseguraran el bastidor. Dichos agujeros generalmente vienen pre-taladrados y nunca deberian transpasar la tapa trasera de la caja. 
+
+Postes para fijacion del bastidor a la caja |
+--------------------------------------------|
+![](/assets/img/backplatemountingpoints.jpg)|
+
 
 
 Sistema de prototipado basado en 4 tipos (A,B,C,D) de PCB simples y prefabricados que cumplen las siguientes reglas:
