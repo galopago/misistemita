@@ -79,6 +79,7 @@ Different types of fixing elements for securing boards to backplate |
 
 To secure boards to backplate (leaving some gap to avoid shortcuts), there are many possibilities like:
 
+
 ### Nylon spacer without screws
 
 This is a single piece element that allows to attach the boards to the backplate without tools, to detach them a pliers are required
@@ -87,20 +88,21 @@ Nylon spacer on board | Board attached to the backplate           | spacer from 
 ---------------------------------|---------------------------------------|---------------------------------------|
 ![](/assets/img/nylonspacerpcb.jpg)|![](/assets/img/nylonspacerpanel.jpg) |![](/assets/img/nylonspacerbelow.jpg) |
 
-### Separador de nailon con tuerca y tornillo
 
-Este elemento esta compuesto de 3 piezas: separador, tuerca y tornillo. Se requiere de un destornillador para fijar y soltar.
+### Nylon spacer with screw and nut
 
-Separador con tornillo de Nylon en la tarjeta | Tarjeta sujeta al bastidor           | Separador con tuerca de Nylon visto desde abajo  |
+This element is composed of 3 pieces: spacer, screw and nut. A screwdriver is required for fastening and detachment
+
+Nylon spacer with screw on board | Board attached to the backplate             | Nylon spacer with nut from below  |
 ---------------------------------|---------------------------------------|---------------------------------------|
 ![](/assets/img/nylonscrewpcb.jpg)|![](/assets/img/nylonscrewpanel.jpg) |![](/assets/img/nylonscrewbelow.jpg) |
 
 
-### Separador metalico con tuerca y tornillo
+### Metal spacer with screw and nut
 
-Este elemento esta compuesto de 3 piezas: separador, tuerca y tornillo. Se requiere de un destornillador para fijar y soltar.
+This element is composed of 3 pieces: spacer, screw and nut. A screwdriver is required for fastening and detachment
 
-Separador con tornillo metalico en la tarjeta | Tarjeta sujeta al bastidor           | Separador con tuerca metalica vista desde abajo  |
+Metal spacer with screw on board  | Board attached to the backplate           | Metal spacer with nut from below  |
 ---------------------------------|---------------------------------------|---------------------------------------|
 ![](/assets/img/metalscrewpcb.jpg)|![](/assets/img/metalscrewpanel.jpg) |![](/assets/img/metalscrewbelow.jpg) |
 
