@@ -213,4 +213,4 @@ Algunos tipos de conectores de montaje en panel | Conectores de panel tipo aviac
 | Archivos para construccion de tarjetas de borneras de conexion  | [Tarjetas de borneras de conexion](/b-screw-terminal-wire-connectors)
 | Archivos para construccion de tarjetas breakout                 | [Tarjetas breakout](/c-breakouts)
 | Archivos para construccion de tarjetas activas                  | [Tarjetas activas](/d-electronics)
-| Ejemplos completos de proyectos usando Misistemita              | [Galopago](https://galopago.github.io)
+| Ejemplos completos de proyectos usando Misistemita              | [Galopago](https://galopago.github.io/espanol)
