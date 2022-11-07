@@ -12,27 +12,27 @@ The system is completely open source, all the files required to create your own 
 
 ### Build a working project in 5 steps:
 
-1.Component selection          |2.Place components on the backplate |
+1.Component selection          |2.Position the components on the backplate |
 -------------------------------|-------------------------------------------|
 ![](/assets/img/components.jpg)|![](/assets/img/placedinbackplate.jpg)     |
 
-3.Wire and program           |4.Attach backplate to enclosure |
+3.Wire and program           |4.Attach backplate to the enclosure |
 -----------------------------|-----------------------------------|
 ![](/assets/img/allwired.jpg)|![](/assets/img/platefixed.jpg)    |
 
-5.Close lid and install in wall  |
+5.Close lid and install on the wall  |
 ------------------------------------------|
 ![](/assets/img/installedwall.jpg)        |
 
 ## System components
 
-The prototyping system is based on 3 components:
+The prototyping system is built around 3 key components:
 * Backplates
 * Electronic boards
 * Waterproof enclosures
 
 
-Bastidores                     | Tarjetas electronicas                 | Cajas estancas a prueba de agua       |
+Backplates                     | Electronic boards                     | Waterproof enclosures       |
 -------------------------------|---------------------------------------|---------------------------------------|
 ![](/a-backplates/assets/img/backplates.jpg)|![](/assets/img/electronicboards.jpg) |![](/assets/img/wpfenclosures.jpg) |
 
