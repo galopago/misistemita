@@ -215,7 +215,7 @@ Sample of some types of panel mount connectors | USB-B and aviation panel mount 
 
 # Files and additional info:
 
-| DESCRIPCION                                                     | ENLACE                                   
+| DESCRIPTION                                                     | LINK                                   
 |-----------------------------------------------------------------|----------------------------------------------------------------------
 | Source files for backplates                                     | [Backplates](/a-backplates)
 | Source files for screw terminal connectors                      | [Screw terminal connectors](/b-screw-terminal-wire-connectors)
