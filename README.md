@@ -1,5 +1,7 @@
 # ELECTRONIC HARDWARE PROTOTYPING SYSTEM. SOLDERLESS, ROBUST AND OPEN SOURCE
 
+![LOGO](/assets/svg/misistemita-logo.svg)
+
 Electronic hardware prototyping system. Solderless, robust and open source. Solves the typical problem of the circuit that works on a breadboard but stops working on a real-world setup. Easy to replicate and compatible with virtually every electronic module.
 
 From this!                     |To this!                              |
