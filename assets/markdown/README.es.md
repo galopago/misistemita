@@ -78,7 +78,7 @@ Diferentes tipos de elementos para fijacion de las tarjetas al bastidor |
 
 Para sujetar las tarjetas electronicas al bastidor (dejando un espacio entre de ellas para evitar cortocircuitos), existen varias posibilidades, por ejemplo:
 
-### Separador de nailon sin tornillo
+### Separador de nailon de bloqueo inverso, sin tornillo
 
 Este elemento es de una sola pieza y permite sujetar las tarjetas al bastidor mediante presion sin requerir herramientas adicionales, para liberarlos se requerira de unas pinzas
 

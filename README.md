@@ -84,7 +84,7 @@ Different types of fixing elements for securing boards to backplate |
 To secure boards to backplate (leaving some gap to avoid shortcuts), there are many possibilities like:
 
 
-### Nylon spacer without screws
+### Nylon spacer, reverse locking without screws
 
 This is a single piece element that allows to attach the boards to the backplate without tools, to detach them a pliers are required
 
