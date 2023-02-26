@@ -227,4 +227,4 @@ Sample of some types of panel mount connectors | USB-B and aviation panel mount 
 | Source files for active boards                                  | [Active boards](/d-electronics)
 | Complete finished examples using Misistemita                    | [Galopago](https://galopago.github.io)
 
-Misistemote is an open source project by [Galopago](https://galopago.github.io/)
+Misistemita is an open source project by [Galopago](https://galopago.github.io/)
